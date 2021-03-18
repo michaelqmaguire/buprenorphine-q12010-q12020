@@ -1,0 +1,3307 @@
+state,year,quarter,gennme_c,suppression_used,total_prescriptions
+ca,2010,1,Buprenorphine/Naloxone,FALSE,1460
+ca,2010,1,Buprenorphine/Naloxone,TRUE,0
+ca,2010,2,Buprenorphine Hydrochloride,FALSE,123
+ca,2010,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2010,2,Buprenorphine/Naloxone,FALSE,1887
+ca,2010,2,Buprenorphine/Naloxone,TRUE,0
+ca,2010,3,Buprenorphine Hydrochloride,FALSE,167
+ca,2010,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2010,3,Buprenorphine/Naloxone,FALSE,1935
+ca,2010,3,Buprenorphine/Naloxone,TRUE,0
+ca,2010,4,Buprenorphine Hydrochloride,FALSE,173
+ca,2010,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2010,4,Buprenorphine/Naloxone,FALSE,2179
+ca,2010,4,Buprenorphine/Naloxone,TRUE,0
+ca,2011,1,Buprenorphine,TRUE,0
+ca,2011,1,Buprenorphine Hydrochloride,FALSE,148
+ca,2011,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2011,1,Buprenorphine/Naloxone,FALSE,2262
+ca,2011,1,Buprenorphine/Naloxone,TRUE,0
+ca,2011,2,Buprenorphine,FALSE,42
+ca,2011,2,Buprenorphine,TRUE,0
+ca,2011,2,Buprenorphine Hydrochloride,FALSE,164
+ca,2011,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2011,2,Buprenorphine/Naloxone,FALSE,2311
+ca,2011,2,Buprenorphine/Naloxone,TRUE,0
+ca,2011,3,Buprenorphine,FALSE,85
+ca,2011,3,Buprenorphine,TRUE,0
+ca,2011,3,Buprenorphine Hydrochloride,FALSE,175
+ca,2011,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2011,3,Buprenorphine/Naloxone,FALSE,2137
+ca,2011,3,Buprenorphine/Naloxone,TRUE,0
+ca,2011,4,Buprenorphine,FALSE,117
+ca,2011,4,Buprenorphine,TRUE,0
+ca,2011,4,Buprenorphine Hydrochloride,FALSE,248
+ca,2011,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2011,4,Buprenorphine/Naloxone,FALSE,2403
+ca,2011,4,Buprenorphine/Naloxone,TRUE,0
+ca,2012,1,Buprenorphine,FALSE,165
+ca,2012,1,Buprenorphine,TRUE,0
+ca,2012,1,Buprenorphine Hydrochloride,FALSE,261
+ca,2012,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2012,1,Buprenorphine/Naloxone,FALSE,2322
+ca,2012,1,Buprenorphine/Naloxone,TRUE,0
+ca,2012,2,Buprenorphine,FALSE,143
+ca,2012,2,Buprenorphine,TRUE,0
+ca,2012,2,Buprenorphine Hydrochloride,FALSE,265
+ca,2012,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2012,2,Buprenorphine/Naloxone,FALSE,2206
+ca,2012,2,Buprenorphine/Naloxone,TRUE,0
+ca,2012,3,Buprenorphine,FALSE,219
+ca,2012,3,Buprenorphine,TRUE,0
+ca,2012,3,Buprenorphine Hydrochloride,FALSE,349
+ca,2012,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2012,3,Buprenorphine/Naloxone,FALSE,2778
+ca,2012,3,Buprenorphine/Naloxone,TRUE,0
+ca,2012,4,Buprenorphine,FALSE,222
+ca,2012,4,Buprenorphine,TRUE,0
+ca,2012,4,Buprenorphine Hydrochloride,FALSE,362
+ca,2012,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2012,4,Buprenorphine/Naloxone,FALSE,2603
+ca,2012,4,Buprenorphine/Naloxone,TRUE,0
+ca,2013,1,Buprenorphine,FALSE,207
+ca,2013,1,Buprenorphine,TRUE,0
+ca,2013,1,Buprenorphine Hydrochloride,FALSE,350
+ca,2013,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2013,1,Buprenorphine/Naloxone,FALSE,2258
+ca,2013,1,Buprenorphine/Naloxone,TRUE,0
+ca,2013,2,Buprenorphine,FALSE,238
+ca,2013,2,Buprenorphine,TRUE,0
+ca,2013,2,Buprenorphine Hydrochloride,FALSE,346
+ca,2013,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2013,2,Buprenorphine/Naloxone,FALSE,2241
+ca,2013,2,Buprenorphine/Naloxone,TRUE,0
+ca,2013,3,Buprenorphine,FALSE,306
+ca,2013,3,Buprenorphine,TRUE,0
+ca,2013,3,Buprenorphine Hydrochloride,FALSE,569
+ca,2013,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2013,3,Buprenorphine/Naloxone,FALSE,3050
+ca,2013,3,Buprenorphine/Naloxone,TRUE,0
+ca,2013,4,Buprenorphine,FALSE,250
+ca,2013,4,Buprenorphine,TRUE,0
+ca,2013,4,Buprenorphine Hydrochloride,FALSE,473
+ca,2013,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2013,4,Buprenorphine/Naloxone,FALSE,2503
+ca,2013,4,Buprenorphine/Naloxone,TRUE,0
+ca,2014,1,Buprenorphine,FALSE,237
+ca,2014,1,Buprenorphine,TRUE,0
+ca,2014,1,Buprenorphine Hydrochloride,FALSE,609
+ca,2014,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2014,1,Buprenorphine/Naloxone,FALSE,3215
+ca,2014,1,Buprenorphine/Naloxone,TRUE,0
+ca,2014,2,Buprenorphine,FALSE,411
+ca,2014,2,Buprenorphine,TRUE,0
+ca,2014,2,Buprenorphine Hydrochloride,FALSE,1055
+ca,2014,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2014,2,Buprenorphine/Naloxone,FALSE,5492
+ca,2014,2,Buprenorphine/Naloxone,TRUE,0
+ca,2014,3,Buprenorphine,FALSE,406
+ca,2014,3,Buprenorphine,TRUE,0
+ca,2014,3,Buprenorphine Hydrochloride,FALSE,1188
+ca,2014,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2014,3,Buprenorphine/Naloxone,FALSE,6781
+ca,2014,3,Buprenorphine/Naloxone,TRUE,0
+ca,2014,4,Buprenorphine,FALSE,510
+ca,2014,4,Buprenorphine,TRUE,0
+ca,2014,4,Buprenorphine Hydrochloride,FALSE,1433
+ca,2014,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2014,4,Buprenorphine/Naloxone,FALSE,7452
+ca,2014,4,Buprenorphine/Naloxone,TRUE,0
+ca,2015,1,Buprenorphine,FALSE,1023
+ca,2015,1,Buprenorphine,TRUE,0
+ca,2015,1,Buprenorphine Hydrochloride,FALSE,1550
+ca,2015,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2015,1,Buprenorphine/Naloxone,FALSE,8246
+ca,2015,1,Buprenorphine/Naloxone,TRUE,0
+ca,2015,2,Buprenorphine,FALSE,1658
+ca,2015,2,Buprenorphine,TRUE,0
+ca,2015,2,Buprenorphine Hydrochloride,FALSE,1913
+ca,2015,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2015,2,Buprenorphine/Naloxone,FALSE,10453
+ca,2015,2,Buprenorphine/Naloxone,TRUE,0
+ca,2015,3,Buprenorphine,FALSE,1877
+ca,2015,3,Buprenorphine,TRUE,0
+ca,2015,3,Buprenorphine Hydrochloride,FALSE,2853
+ca,2015,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2015,3,Buprenorphine/Naloxone,FALSE,12775
+ca,2015,3,Buprenorphine/Naloxone,TRUE,0
+ca,2015,4,Buprenorphine,FALSE,1721
+ca,2015,4,Buprenorphine,TRUE,0
+ca,2015,4,Buprenorphine Hydrochloride,FALSE,3411
+ca,2015,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2015,4,Buprenorphine/Naloxone,FALSE,14341
+ca,2015,4,Buprenorphine/Naloxone,TRUE,0
+ca,2016,1,Buprenorphine,FALSE,1363
+ca,2016,1,Buprenorphine,TRUE,0
+ca,2016,1,Buprenorphine Hydrochloride,FALSE,3810
+ca,2016,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2016,1,Buprenorphine/Naloxone,FALSE,15458
+ca,2016,1,Buprenorphine/Naloxone,TRUE,0
+ca,2016,2,Buprenorphine,FALSE,1367
+ca,2016,2,Buprenorphine,TRUE,0
+ca,2016,2,Buprenorphine Hydrochloride,FALSE,3516
+ca,2016,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2016,2,Buprenorphine/Naloxone,FALSE,14916
+ca,2016,2,Buprenorphine/Naloxone,TRUE,0
+ca,2016,3,Buprenorphine,FALSE,2066
+ca,2016,3,Buprenorphine,TRUE,0
+ca,2016,3,Buprenorphine Hydrochloride,FALSE,5161
+ca,2016,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2016,3,Buprenorphine/Naloxone,FALSE,21661
+ca,2016,3,Buprenorphine/Naloxone,TRUE,0
+ca,2016,4,Buprenorphine,FALSE,3450
+ca,2016,4,Buprenorphine,TRUE,0
+ca,2016,4,Buprenorphine Hydrochloride,FALSE,4717
+ca,2016,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2016,4,Buprenorphine/Naloxone,FALSE,20231
+ca,2016,4,Buprenorphine/Naloxone,TRUE,0
+ca,2017,1,Buprenorphine,FALSE,4784
+ca,2017,1,Buprenorphine,TRUE,0
+ca,2017,1,Buprenorphine Hydrochloride,FALSE,4919
+ca,2017,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2017,1,Buprenorphine/Naloxone,FALSE,21617
+ca,2017,1,Buprenorphine/Naloxone,TRUE,0
+ca,2017,2,Buprenorphine,FALSE,4344
+ca,2017,2,Buprenorphine,TRUE,0
+ca,2017,2,Buprenorphine Hydrochloride,FALSE,4379
+ca,2017,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2017,2,Buprenorphine/Naloxone,FALSE,20253
+ca,2017,2,Buprenorphine/Naloxone,TRUE,0
+ca,2017,3,Buprenorphine,FALSE,5857
+ca,2017,3,Buprenorphine,TRUE,0
+ca,2017,3,Buprenorphine Hydrochloride,FALSE,6121
+ca,2017,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2017,3,Buprenorphine/Naloxone,FALSE,29983
+ca,2017,3,Buprenorphine/Naloxone,TRUE,0
+ca,2017,4,Buprenorphine,FALSE,5205
+ca,2017,4,Buprenorphine,TRUE,0
+ca,2017,4,Buprenorphine Hydrochloride,FALSE,5700
+ca,2017,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2017,4,Buprenorphine/Naloxone,FALSE,27893
+ca,2017,4,Buprenorphine/Naloxone,TRUE,0
+ca,2018,1,Buprenorphine,FALSE,5077
+ca,2018,1,Buprenorphine,TRUE,0
+ca,2018,1,Buprenorphine Hydrochloride,FALSE,5922
+ca,2018,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2018,1,Buprenorphine/Naloxone,FALSE,29892
+ca,2018,1,Buprenorphine/Naloxone,TRUE,0
+ca,2018,2,Buprenorphine,FALSE,4208
+ca,2018,2,Buprenorphine,TRUE,0
+ca,2018,2,Buprenorphine Hydrochloride,FALSE,4156
+ca,2018,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2018,2,Buprenorphine/Naloxone,FALSE,28314
+ca,2018,2,Buprenorphine/Naloxone,TRUE,0
+ca,2018,3,Buprenorphine,FALSE,5613
+ca,2018,3,Buprenorphine,TRUE,0
+ca,2018,3,Buprenorphine Hydrochloride,FALSE,7430
+ca,2018,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2018,3,Buprenorphine/Naloxone,FALSE,39527
+ca,2018,3,Buprenorphine/Naloxone,TRUE,0
+ca,2018,4,Buprenorphine,FALSE,5374
+ca,2018,4,Buprenorphine,TRUE,0
+ca,2018,4,Buprenorphine Hydrochloride,FALSE,7034
+ca,2018,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2018,4,Buprenorphine/Naloxone,FALSE,39390
+ca,2018,4,Buprenorphine/Naloxone,TRUE,0
+ca,2019,1,Buprenorphine,FALSE,4700
+ca,2019,1,Buprenorphine,TRUE,0
+ca,2019,1,Buprenorphine Hydrochloride,FALSE,6258
+ca,2019,1,Buprenorphine Hydrochloride,TRUE,0
+ca,2019,1,Buprenorphine/Naloxone,FALSE,34676
+ca,2019,1,Buprenorphine/Naloxone,TRUE,0
+ca,2019,2,Buprenorphine,FALSE,4740
+ca,2019,2,Buprenorphine,TRUE,0
+ca,2019,2,Buprenorphine Hydrochloride,FALSE,6158
+ca,2019,2,Buprenorphine Hydrochloride,TRUE,0
+ca,2019,2,Buprenorphine/Naloxone,FALSE,33948
+ca,2019,2,Buprenorphine/Naloxone,TRUE,0
+ca,2019,3,Buprenorphine,FALSE,7495
+ca,2019,3,Buprenorphine,TRUE,0
+ca,2019,3,Buprenorphine Hydrochloride,FALSE,8906
+ca,2019,3,Buprenorphine Hydrochloride,TRUE,0
+ca,2019,3,Buprenorphine/Naloxone,FALSE,50810
+ca,2019,3,Buprenorphine/Naloxone,TRUE,0
+ca,2019,4,Buprenorphine,FALSE,6862
+ca,2019,4,Buprenorphine,TRUE,0
+ca,2019,4,Buprenorphine Hydrochloride,FALSE,7753
+ca,2019,4,Buprenorphine Hydrochloride,TRUE,0
+ca,2019,4,Buprenorphine/Naloxone,FALSE,43457
+ca,2019,4,Buprenorphine/Naloxone,TRUE,0
+ca,2020,1,Buprenorphine,NA,7480
+ca,2020,1,Buprenorphine Hydrochloride,NA,8053
+ca,2020,1,Buprenorphine/Naloxone,NA,44881
+de,2010,1,Buprenorphine Hydrochloride,FALSE,56
+de,2010,1,Buprenorphine Hydrochloride,TRUE,0
+de,2010,1,Buprenorphine/Naloxone,FALSE,2666
+de,2010,2,Buprenorphine Hydrochloride,FALSE,74
+de,2010,2,Buprenorphine Hydrochloride,TRUE,0
+de,2010,2,Buprenorphine/Naloxone,FALSE,2823
+de,2010,3,Buprenorphine Hydrochloride,FALSE,142
+de,2010,3,Buprenorphine Hydrochloride,TRUE,0
+de,2010,3,Buprenorphine/Naloxone,FALSE,2957
+de,2010,4,Buprenorphine Hydrochloride,FALSE,103
+de,2010,4,Buprenorphine Hydrochloride,TRUE,0
+de,2010,4,Buprenorphine/Naloxone,FALSE,2997
+de,2010,4,Buprenorphine/Naloxone,TRUE,0
+de,2011,1,Buprenorphine Hydrochloride,FALSE,142
+de,2011,1,Buprenorphine Hydrochloride,TRUE,0
+de,2011,1,Buprenorphine/Naloxone,FALSE,3370
+de,2011,1,Buprenorphine/Naloxone,TRUE,0
+de,2011,2,Buprenorphine,TRUE,0
+de,2011,2,Buprenorphine Hydrochloride,FALSE,124
+de,2011,2,Buprenorphine Hydrochloride,TRUE,0
+de,2011,2,Buprenorphine/Naloxone,FALSE,3506
+de,2011,2,Buprenorphine/Naloxone,TRUE,0
+de,2011,3,Buprenorphine,TRUE,0
+de,2011,3,Buprenorphine Hydrochloride,FALSE,38
+de,2011,3,Buprenorphine/Naloxone,FALSE,3295
+de,2011,4,Buprenorphine,TRUE,0
+de,2011,4,Buprenorphine Hydrochloride,FALSE,17
+de,2011,4,Buprenorphine Hydrochloride,TRUE,0
+de,2011,4,Buprenorphine/Naloxone,FALSE,3361
+de,2012,1,Buprenorphine,TRUE,0
+de,2012,1,Buprenorphine Hydrochloride,TRUE,0
+de,2012,1,Buprenorphine/Naloxone,FALSE,3977
+de,2012,2,Buprenorphine,TRUE,0
+de,2012,2,Buprenorphine Hydrochloride,FALSE,35
+de,2012,2,Buprenorphine Hydrochloride,TRUE,0
+de,2012,2,Buprenorphine/Naloxone,FALSE,4802
+de,2012,3,Buprenorphine,TRUE,0
+de,2012,3,Buprenorphine Hydrochloride,FALSE,50
+de,2012,3,Buprenorphine Hydrochloride,TRUE,0
+de,2012,3,Buprenorphine/Naloxone,FALSE,4793
+de,2012,4,Buprenorphine,FALSE,12
+de,2012,4,Buprenorphine,TRUE,0
+de,2012,4,Buprenorphine Hydrochloride,FALSE,33
+de,2012,4,Buprenorphine Hydrochloride,TRUE,0
+de,2012,4,Buprenorphine/Naloxone,FALSE,5233
+de,2013,1,Buprenorphine,TRUE,0
+de,2013,1,Buprenorphine Hydrochloride,FALSE,20
+de,2013,1,Buprenorphine/Naloxone,FALSE,4734
+de,2013,1,Buprenorphine/Naloxone,TRUE,0
+de,2013,2,Buprenorphine,TRUE,0
+de,2013,2,Buprenorphine Hydrochloride,FALSE,34
+de,2013,2,Buprenorphine Hydrochloride,TRUE,0
+de,2013,2,Buprenorphine/Naloxone,FALSE,5483
+de,2013,2,Buprenorphine/Naloxone,TRUE,0
+de,2013,3,Buprenorphine,TRUE,0
+de,2013,3,Buprenorphine Hydrochloride,FALSE,60
+de,2013,3,Buprenorphine Hydrochloride,TRUE,0
+de,2013,3,Buprenorphine/Naloxone,FALSE,5598
+de,2013,3,Buprenorphine/Naloxone,TRUE,0
+de,2013,4,Buprenorphine,TRUE,0
+de,2013,4,Buprenorphine Hydrochloride,FALSE,87
+de,2013,4,Buprenorphine Hydrochloride,TRUE,0
+de,2013,4,Buprenorphine/Naloxone,FALSE,4969
+de,2013,4,Buprenorphine/Naloxone,TRUE,0
+de,2014,1,Buprenorphine,TRUE,0
+de,2014,1,Buprenorphine Hydrochloride,FALSE,44
+de,2014,1,Buprenorphine Hydrochloride,TRUE,0
+de,2014,1,Buprenorphine/Naloxone,FALSE,4876
+de,2014,1,Buprenorphine/Naloxone,TRUE,0
+de,2014,2,Buprenorphine,TRUE,0
+de,2014,2,Buprenorphine Hydrochloride,FALSE,45
+de,2014,2,Buprenorphine Hydrochloride,TRUE,0
+de,2014,2,Buprenorphine/Naloxone,FALSE,5202
+de,2014,2,Buprenorphine/Naloxone,TRUE,0
+de,2014,3,Buprenorphine,TRUE,0
+de,2014,3,Buprenorphine Hydrochloride,FALSE,30
+de,2014,3,Buprenorphine Hydrochloride,TRUE,0
+de,2014,3,Buprenorphine/Naloxone,FALSE,4652
+de,2014,3,Buprenorphine/Naloxone,TRUE,0
+de,2014,4,Buprenorphine,TRUE,0
+de,2014,4,Buprenorphine Hydrochloride,TRUE,0
+de,2014,4,Buprenorphine/Naloxone,FALSE,4321
+de,2014,4,Buprenorphine/Naloxone,TRUE,0
+de,2015,1,Buprenorphine,TRUE,0
+de,2015,1,Buprenorphine Hydrochloride,FALSE,33
+de,2015,1,Buprenorphine Hydrochloride,TRUE,0
+de,2015,1,Buprenorphine/Naloxone,FALSE,3737
+de,2015,1,Buprenorphine/Naloxone,TRUE,0
+de,2015,2,Buprenorphine,TRUE,0
+de,2015,2,Buprenorphine Hydrochloride,FALSE,16
+de,2015,2,Buprenorphine Hydrochloride,TRUE,0
+de,2015,2,Buprenorphine/Naloxone,FALSE,3792
+de,2015,2,Buprenorphine/Naloxone,TRUE,0
+de,2015,3,Buprenorphine,TRUE,0
+de,2015,3,Buprenorphine Hydrochloride,FALSE,34
+de,2015,3,Buprenorphine Hydrochloride,TRUE,0
+de,2015,3,Buprenorphine/Naloxone,FALSE,4560
+de,2015,3,Buprenorphine/Naloxone,TRUE,0
+de,2015,4,Buprenorphine,FALSE,13
+de,2015,4,Buprenorphine,TRUE,0
+de,2015,4,Buprenorphine Hydrochloride,FALSE,96
+de,2015,4,Buprenorphine Hydrochloride,TRUE,0
+de,2015,4,Buprenorphine/Naloxone,FALSE,5094
+de,2015,4,Buprenorphine/Naloxone,TRUE,0
+de,2016,1,Buprenorphine,FALSE,13
+de,2016,1,Buprenorphine,TRUE,0
+de,2016,1,Buprenorphine Hydrochloride,FALSE,148
+de,2016,1,Buprenorphine Hydrochloride,TRUE,0
+de,2016,1,Buprenorphine/Naloxone,FALSE,7833
+de,2016,1,Buprenorphine/Naloxone,TRUE,0
+de,2016,2,Buprenorphine,FALSE,17
+de,2016,2,Buprenorphine,TRUE,0
+de,2016,2,Buprenorphine Hydrochloride,FALSE,160
+de,2016,2,Buprenorphine Hydrochloride,TRUE,0
+de,2016,2,Buprenorphine/Naloxone,FALSE,8673
+de,2016,2,Buprenorphine/Naloxone,TRUE,0
+de,2016,3,Buprenorphine,FALSE,16
+de,2016,3,Buprenorphine,TRUE,0
+de,2016,3,Buprenorphine Hydrochloride,FALSE,243
+de,2016,3,Buprenorphine Hydrochloride,TRUE,0
+de,2016,3,Buprenorphine/Naloxone,FALSE,8478
+de,2016,3,Buprenorphine/Naloxone,TRUE,0
+de,2016,4,Buprenorphine,FALSE,20
+de,2016,4,Buprenorphine,TRUE,0
+de,2016,4,Buprenorphine Hydrochloride,FALSE,375
+de,2016,4,Buprenorphine Hydrochloride,TRUE,0
+de,2016,4,Buprenorphine/Naloxone,FALSE,8617
+de,2016,4,Buprenorphine/Naloxone,TRUE,0
+de,2017,1,Buprenorphine,TRUE,0
+de,2017,1,Buprenorphine Hydrochloride,FALSE,357
+de,2017,1,Buprenorphine Hydrochloride,TRUE,0
+de,2017,1,Buprenorphine/Naloxone,FALSE,7991
+de,2017,1,Buprenorphine/Naloxone,TRUE,0
+de,2017,2,Buprenorphine,FALSE,14
+de,2017,2,Buprenorphine,TRUE,0
+de,2017,2,Buprenorphine Hydrochloride,FALSE,507
+de,2017,2,Buprenorphine Hydrochloride,TRUE,0
+de,2017,2,Buprenorphine/Naloxone,FALSE,9955
+de,2017,2,Buprenorphine/Naloxone,TRUE,0
+de,2017,3,Buprenorphine,TRUE,0
+de,2017,3,Buprenorphine Hydrochloride,FALSE,461
+de,2017,3,Buprenorphine Hydrochloride,TRUE,0
+de,2017,3,Buprenorphine/Naloxone,FALSE,8760
+de,2017,3,Buprenorphine/Naloxone,TRUE,0
+de,2017,4,Buprenorphine,TRUE,0
+de,2017,4,Buprenorphine Hydrochloride,FALSE,729
+de,2017,4,Buprenorphine Hydrochloride,TRUE,0
+de,2017,4,Buprenorphine/Naloxone,FALSE,10173
+de,2017,4,Buprenorphine/Naloxone,TRUE,0
+de,2018,1,Buprenorphine,FALSE,14
+de,2018,1,Buprenorphine,TRUE,0
+de,2018,1,Buprenorphine Hydrochloride,FALSE,2484
+de,2018,1,Buprenorphine Hydrochloride,TRUE,0
+de,2018,1,Buprenorphine/Naloxone,FALSE,12672
+de,2018,1,Buprenorphine/Naloxone,TRUE,0
+de,2018,2,Buprenorphine,FALSE,40
+de,2018,2,Buprenorphine,TRUE,0
+de,2018,2,Buprenorphine Hydrochloride,FALSE,480
+de,2018,2,Buprenorphine Hydrochloride,TRUE,0
+de,2018,2,Buprenorphine/Naloxone,FALSE,13850
+de,2018,2,Buprenorphine/Naloxone,TRUE,0
+de,2018,3,Buprenorphine,TRUE,0
+de,2018,3,Buprenorphine Hydrochloride,FALSE,414
+de,2018,3,Buprenorphine Hydrochloride,TRUE,0
+de,2018,3,Buprenorphine/Naloxone,FALSE,14431
+de,2018,3,Buprenorphine/Naloxone,TRUE,0
+de,2018,4,Buprenorphine,FALSE,48
+de,2018,4,Buprenorphine,TRUE,0
+de,2018,4,Buprenorphine Hydrochloride,FALSE,387
+de,2018,4,Buprenorphine Hydrochloride,TRUE,0
+de,2018,4,Buprenorphine/Naloxone,FALSE,19737
+de,2018,4,Buprenorphine/Naloxone,TRUE,0
+de,2019,1,Buprenorphine,FALSE,85
+de,2019,1,Buprenorphine,TRUE,0
+de,2019,1,Buprenorphine Hydrochloride,FALSE,449
+de,2019,1,Buprenorphine Hydrochloride,TRUE,0
+de,2019,1,Buprenorphine/Naloxone,FALSE,21290
+de,2019,1,Buprenorphine/Naloxone,TRUE,0
+de,2019,2,Buprenorphine,FALSE,132
+de,2019,2,Buprenorphine,TRUE,0
+de,2019,2,Buprenorphine Hydrochloride,FALSE,542
+de,2019,2,Buprenorphine Hydrochloride,TRUE,0
+de,2019,2,Buprenorphine/Naloxone,FALSE,21088
+de,2019,2,Buprenorphine/Naloxone,TRUE,0
+de,2019,3,Buprenorphine,FALSE,87
+de,2019,3,Buprenorphine,TRUE,0
+de,2019,3,Buprenorphine Hydrochloride,FALSE,617
+de,2019,3,Buprenorphine Hydrochloride,TRUE,0
+de,2019,3,Buprenorphine/Naloxone,FALSE,19215
+de,2019,3,Buprenorphine/Naloxone,TRUE,0
+de,2019,4,Buprenorphine,FALSE,141
+de,2019,4,Buprenorphine,TRUE,0
+de,2019,4,Buprenorphine Hydrochloride,FALSE,772
+de,2019,4,Buprenorphine Hydrochloride,TRUE,0
+de,2019,4,Buprenorphine/Naloxone,FALSE,19083
+de,2019,4,Buprenorphine/Naloxone,TRUE,0
+de,2020,1,Buprenorphine,NA,208
+de,2020,1,Buprenorphine Hydrochloride,NA,823
+de,2020,1,Buprenorphine/Naloxone,NA,17826
+fl,2010,1,Buprenorphine Hydrochloride,FALSE,51
+fl,2010,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2010,1,Buprenorphine/Naloxone,FALSE,772
+fl,2010,1,Buprenorphine/Naloxone,TRUE,0
+fl,2010,2,Buprenorphine Hydrochloride,FALSE,131
+fl,2010,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2010,2,Buprenorphine/Naloxone,FALSE,1506
+fl,2010,3,Buprenorphine Hydrochloride,FALSE,149
+fl,2010,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2010,3,Buprenorphine/Naloxone,FALSE,1684
+fl,2010,4,Buprenorphine Hydrochloride,FALSE,149
+fl,2010,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2010,4,Buprenorphine/Naloxone,FALSE,1616
+fl,2010,4,Buprenorphine/Naloxone,TRUE,0
+fl,2011,1,Buprenorphine,TRUE,0
+fl,2011,1,Buprenorphine Hydrochloride,FALSE,155
+fl,2011,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2011,1,Buprenorphine/Naloxone,FALSE,1517
+fl,2011,1,Buprenorphine/Naloxone,TRUE,0
+fl,2011,2,Buprenorphine,TRUE,0
+fl,2011,2,Buprenorphine Hydrochloride,FALSE,151
+fl,2011,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2011,2,Buprenorphine/Naloxone,FALSE,1701
+fl,2011,2,Buprenorphine/Naloxone,TRUE,0
+fl,2011,3,Buprenorphine,TRUE,0
+fl,2011,3,Buprenorphine Hydrochloride,FALSE,156
+fl,2011,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2011,3,Buprenorphine/Naloxone,FALSE,1701
+fl,2011,3,Buprenorphine/Naloxone,TRUE,0
+fl,2011,4,Buprenorphine,TRUE,0
+fl,2011,4,Buprenorphine Hydrochloride,FALSE,137
+fl,2011,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2011,4,Buprenorphine/Naloxone,FALSE,1785
+fl,2011,4,Buprenorphine/Naloxone,TRUE,0
+fl,2012,1,Buprenorphine Hydrochloride,FALSE,29
+fl,2012,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2012,1,Buprenorphine/Naloxone,FALSE,465
+fl,2012,1,Buprenorphine/Naloxone,TRUE,0
+fl,2012,2,Buprenorphine,TRUE,0
+fl,2012,2,Buprenorphine Hydrochloride,FALSE,42
+fl,2012,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2012,2,Buprenorphine/Naloxone,FALSE,581
+fl,2012,2,Buprenorphine/Naloxone,TRUE,0
+fl,2012,3,Buprenorphine,TRUE,0
+fl,2012,3,Buprenorphine Hydrochloride,FALSE,374
+fl,2012,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2012,3,Buprenorphine/Naloxone,FALSE,3505
+fl,2012,3,Buprenorphine/Naloxone,TRUE,0
+fl,2012,4,Buprenorphine,TRUE,0
+fl,2012,4,Buprenorphine Hydrochloride,FALSE,372
+fl,2012,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2012,4,Buprenorphine/Naloxone,FALSE,2766
+fl,2012,4,Buprenorphine/Naloxone,TRUE,0
+fl,2013,1,Buprenorphine,TRUE,0
+fl,2013,1,Buprenorphine Hydrochloride,FALSE,199
+fl,2013,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2013,1,Buprenorphine/Naloxone,FALSE,1455
+fl,2013,1,Buprenorphine/Naloxone,TRUE,0
+fl,2013,2,Buprenorphine Hydrochloride,FALSE,289
+fl,2013,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2013,2,Buprenorphine/Naloxone,FALSE,2768
+fl,2013,2,Buprenorphine/Naloxone,TRUE,0
+fl,2013,3,Buprenorphine,TRUE,0
+fl,2013,3,Buprenorphine Hydrochloride,FALSE,379
+fl,2013,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2013,3,Buprenorphine/Naloxone,FALSE,2561
+fl,2013,3,Buprenorphine/Naloxone,TRUE,0
+fl,2013,4,Buprenorphine,TRUE,0
+fl,2013,4,Buprenorphine Hydrochloride,FALSE,380
+fl,2013,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2013,4,Buprenorphine/Naloxone,FALSE,2418
+fl,2013,4,Buprenorphine/Naloxone,TRUE,0
+fl,2014,1,Buprenorphine,TRUE,0
+fl,2014,1,Buprenorphine Hydrochloride,FALSE,431
+fl,2014,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2014,1,Buprenorphine/Naloxone,FALSE,2266
+fl,2014,1,Buprenorphine/Naloxone,TRUE,0
+fl,2014,2,Buprenorphine,TRUE,0
+fl,2014,2,Buprenorphine Hydrochloride,FALSE,530
+fl,2014,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2014,2,Buprenorphine/Naloxone,FALSE,2356
+fl,2014,2,Buprenorphine/Naloxone,TRUE,0
+fl,2014,3,Buprenorphine,FALSE,65
+fl,2014,3,Buprenorphine,TRUE,0
+fl,2014,3,Buprenorphine Hydrochloride,FALSE,1354
+fl,2014,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2014,3,Buprenorphine/Naloxone,FALSE,4055
+fl,2014,3,Buprenorphine/Naloxone,TRUE,0
+fl,2014,4,Buprenorphine,FALSE,33
+fl,2014,4,Buprenorphine,TRUE,0
+fl,2014,4,Buprenorphine Hydrochloride,FALSE,1210
+fl,2014,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2014,4,Buprenorphine/Naloxone,FALSE,4241
+fl,2014,4,Buprenorphine/Naloxone,TRUE,0
+fl,2015,1,Buprenorphine,FALSE,16
+fl,2015,1,Buprenorphine,TRUE,0
+fl,2015,1,Buprenorphine Hydrochloride,FALSE,1007
+fl,2015,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2015,1,Buprenorphine/Naloxone,FALSE,3957
+fl,2015,1,Buprenorphine/Naloxone,TRUE,0
+fl,2015,2,Buprenorphine,FALSE,25
+fl,2015,2,Buprenorphine,TRUE,0
+fl,2015,2,Buprenorphine Hydrochloride,FALSE,1142
+fl,2015,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2015,2,Buprenorphine/Naloxone,FALSE,4129
+fl,2015,2,Buprenorphine/Naloxone,TRUE,0
+fl,2015,3,Buprenorphine,FALSE,13
+fl,2015,3,Buprenorphine,TRUE,0
+fl,2015,3,Buprenorphine Hydrochloride,FALSE,1218
+fl,2015,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2015,3,Buprenorphine/Naloxone,FALSE,4589
+fl,2015,3,Buprenorphine/Naloxone,TRUE,0
+fl,2015,4,Buprenorphine,FALSE,26
+fl,2015,4,Buprenorphine,TRUE,0
+fl,2015,4,Buprenorphine Hydrochloride,FALSE,1104
+fl,2015,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2015,4,Buprenorphine/Naloxone,FALSE,4905
+fl,2015,4,Buprenorphine/Naloxone,TRUE,0
+fl,2016,1,Buprenorphine,FALSE,571
+fl,2016,1,Buprenorphine,TRUE,0
+fl,2016,1,Buprenorphine Hydrochloride,FALSE,856
+fl,2016,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2016,1,Buprenorphine/Naloxone,FALSE,4508
+fl,2016,1,Buprenorphine/Naloxone,TRUE,0
+fl,2016,2,Buprenorphine,FALSE,1005
+fl,2016,2,Buprenorphine,TRUE,0
+fl,2016,2,Buprenorphine Hydrochloride,FALSE,1231
+fl,2016,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2016,2,Buprenorphine/Naloxone,FALSE,5529
+fl,2016,2,Buprenorphine/Naloxone,TRUE,0
+fl,2016,3,Buprenorphine,FALSE,1344
+fl,2016,3,Buprenorphine,TRUE,0
+fl,2016,3,Buprenorphine Hydrochloride,FALSE,1280
+fl,2016,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2016,3,Buprenorphine/Naloxone,FALSE,5103
+fl,2016,3,Buprenorphine/Naloxone,TRUE,0
+fl,2016,4,Buprenorphine,FALSE,1643
+fl,2016,4,Buprenorphine,TRUE,0
+fl,2016,4,Buprenorphine Hydrochloride,FALSE,1449
+fl,2016,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2016,4,Buprenorphine/Naloxone,FALSE,5869
+fl,2016,4,Buprenorphine/Naloxone,TRUE,0
+fl,2017,1,Buprenorphine,FALSE,1528
+fl,2017,1,Buprenorphine,TRUE,0
+fl,2017,1,Buprenorphine Hydrochloride,FALSE,1319
+fl,2017,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2017,1,Buprenorphine/Naloxone,FALSE,5445
+fl,2017,1,Buprenorphine/Naloxone,TRUE,0
+fl,2017,2,Buprenorphine,FALSE,1811
+fl,2017,2,Buprenorphine,TRUE,0
+fl,2017,2,Buprenorphine Hydrochloride,FALSE,1670
+fl,2017,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2017,2,Buprenorphine/Naloxone,FALSE,6729
+fl,2017,2,Buprenorphine/Naloxone,TRUE,0
+fl,2017,3,Buprenorphine,FALSE,1379
+fl,2017,3,Buprenorphine,TRUE,0
+fl,2017,3,Buprenorphine Hydrochloride,FALSE,1745
+fl,2017,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2017,3,Buprenorphine/Naloxone,FALSE,6164
+fl,2017,3,Buprenorphine/Naloxone,TRUE,0
+fl,2017,4,Buprenorphine,FALSE,1111
+fl,2017,4,Buprenorphine,TRUE,0
+fl,2017,4,Buprenorphine Hydrochloride,FALSE,1672
+fl,2017,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2017,4,Buprenorphine/Naloxone,FALSE,6125
+fl,2017,4,Buprenorphine/Naloxone,TRUE,0
+fl,2018,1,Buprenorphine,FALSE,572
+fl,2018,1,Buprenorphine,TRUE,0
+fl,2018,1,Buprenorphine Hydrochloride,FALSE,1512
+fl,2018,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2018,1,Buprenorphine/Naloxone,FALSE,6045
+fl,2018,1,Buprenorphine/Naloxone,TRUE,0
+fl,2018,2,Buprenorphine,FALSE,430
+fl,2018,2,Buprenorphine,TRUE,0
+fl,2018,2,Buprenorphine Hydrochloride,FALSE,1905
+fl,2018,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2018,2,Buprenorphine/Naloxone,FALSE,6887
+fl,2018,2,Buprenorphine/Naloxone,TRUE,0
+fl,2018,3,Buprenorphine,FALSE,405
+fl,2018,3,Buprenorphine,TRUE,0
+fl,2018,3,Buprenorphine Hydrochloride,FALSE,2157
+fl,2018,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2018,3,Buprenorphine/Naloxone,FALSE,7140
+fl,2018,3,Buprenorphine/Naloxone,TRUE,0
+fl,2018,4,Buprenorphine,FALSE,428
+fl,2018,4,Buprenorphine,TRUE,0
+fl,2018,4,Buprenorphine Hydrochloride,FALSE,2176
+fl,2018,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2018,4,Buprenorphine/Naloxone,FALSE,7510
+fl,2018,4,Buprenorphine/Naloxone,TRUE,0
+fl,2019,1,Buprenorphine,FALSE,382
+fl,2019,1,Buprenorphine,TRUE,0
+fl,2019,1,Buprenorphine Hydrochloride,FALSE,2603
+fl,2019,1,Buprenorphine Hydrochloride,TRUE,0
+fl,2019,1,Buprenorphine/Naloxone,FALSE,7709
+fl,2019,1,Buprenorphine/Naloxone,TRUE,0
+fl,2019,2,Buprenorphine,FALSE,377
+fl,2019,2,Buprenorphine,TRUE,0
+fl,2019,2,Buprenorphine Hydrochloride,FALSE,2896
+fl,2019,2,Buprenorphine Hydrochloride,TRUE,0
+fl,2019,2,Buprenorphine/Naloxone,FALSE,8142
+fl,2019,2,Buprenorphine/Naloxone,TRUE,0
+fl,2019,3,Buprenorphine,FALSE,436
+fl,2019,3,Buprenorphine,TRUE,0
+fl,2019,3,Buprenorphine Hydrochloride,FALSE,2857
+fl,2019,3,Buprenorphine Hydrochloride,TRUE,0
+fl,2019,3,Buprenorphine/Naloxone,FALSE,8311
+fl,2019,3,Buprenorphine/Naloxone,TRUE,0
+fl,2019,4,Buprenorphine,FALSE,441
+fl,2019,4,Buprenorphine,TRUE,0
+fl,2019,4,Buprenorphine Hydrochloride,FALSE,2836
+fl,2019,4,Buprenorphine Hydrochloride,TRUE,0
+fl,2019,4,Buprenorphine/Naloxone,FALSE,8432
+fl,2019,4,Buprenorphine/Naloxone,TRUE,0
+fl,2020,1,Buprenorphine,NA,372
+fl,2020,1,Buprenorphine Hydrochloride,NA,2733
+fl,2020,1,Buprenorphine/Naloxone,NA,8413
+ga,2010,1,Buprenorphine Hydrochloride,FALSE,12
+ga,2010,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2010,1,Buprenorphine/Naloxone,FALSE,267
+ga,2010,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2010,2,Buprenorphine/Naloxone,FALSE,309
+ga,2010,2,Buprenorphine/Naloxone,TRUE,0
+ga,2010,3,Buprenorphine Hydrochloride,FALSE,62
+ga,2010,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2010,3,Buprenorphine/Naloxone,FALSE,334
+ga,2010,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2010,4,Buprenorphine/Naloxone,FALSE,323
+ga,2010,4,Buprenorphine/Naloxone,TRUE,0
+ga,2011,1,Buprenorphine Hydrochloride,FALSE,92
+ga,2011,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2011,1,Buprenorphine/Naloxone,FALSE,319
+ga,2011,1,Buprenorphine/Naloxone,TRUE,0
+ga,2011,2,Buprenorphine Hydrochloride,FALSE,101
+ga,2011,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2011,2,Buprenorphine/Naloxone,FALSE,389
+ga,2011,2,Buprenorphine/Naloxone,TRUE,0
+ga,2011,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2011,3,Buprenorphine/Naloxone,FALSE,425
+ga,2011,3,Buprenorphine/Naloxone,TRUE,0
+ga,2011,4,Buprenorphine,TRUE,0
+ga,2011,4,Buprenorphine Hydrochloride,FALSE,148
+ga,2011,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2011,4,Buprenorphine/Naloxone,FALSE,1758
+ga,2011,4,Buprenorphine/Naloxone,TRUE,0
+ga,2012,1,Buprenorphine,TRUE,0
+ga,2012,1,Buprenorphine Hydrochloride,FALSE,164
+ga,2012,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2012,1,Buprenorphine/Naloxone,FALSE,1799
+ga,2012,1,Buprenorphine/Naloxone,TRUE,0
+ga,2012,2,Buprenorphine,TRUE,0
+ga,2012,2,Buprenorphine Hydrochloride,FALSE,193
+ga,2012,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2012,2,Buprenorphine/Naloxone,FALSE,1941
+ga,2012,2,Buprenorphine/Naloxone,TRUE,0
+ga,2012,3,Buprenorphine,TRUE,0
+ga,2012,3,Buprenorphine Hydrochloride,FALSE,176
+ga,2012,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2012,3,Buprenorphine/Naloxone,FALSE,2140
+ga,2012,3,Buprenorphine/Naloxone,TRUE,0
+ga,2012,4,Buprenorphine,TRUE,0
+ga,2012,4,Buprenorphine Hydrochloride,FALSE,203
+ga,2012,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2012,4,Buprenorphine/Naloxone,FALSE,2304
+ga,2012,4,Buprenorphine/Naloxone,TRUE,0
+ga,2013,1,Buprenorphine,TRUE,0
+ga,2013,1,Buprenorphine Hydrochloride,FALSE,251
+ga,2013,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2013,1,Buprenorphine/Naloxone,FALSE,2181
+ga,2013,1,Buprenorphine/Naloxone,TRUE,0
+ga,2013,2,Buprenorphine,TRUE,0
+ga,2013,2,Buprenorphine Hydrochloride,FALSE,228
+ga,2013,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2013,2,Buprenorphine/Naloxone,FALSE,2209
+ga,2013,2,Buprenorphine/Naloxone,TRUE,0
+ga,2013,3,Buprenorphine,FALSE,14
+ga,2013,3,Buprenorphine,TRUE,0
+ga,2013,3,Buprenorphine Hydrochloride,FALSE,263
+ga,2013,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2013,3,Buprenorphine/Naloxone,FALSE,2159
+ga,2013,3,Buprenorphine/Naloxone,TRUE,0
+ga,2013,4,Buprenorphine,FALSE,29
+ga,2013,4,Buprenorphine,TRUE,0
+ga,2013,4,Buprenorphine Hydrochloride,FALSE,292
+ga,2013,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2013,4,Buprenorphine/Naloxone,FALSE,2041
+ga,2013,4,Buprenorphine/Naloxone,TRUE,0
+ga,2014,1,Buprenorphine,FALSE,45
+ga,2014,1,Buprenorphine,TRUE,0
+ga,2014,1,Buprenorphine Hydrochloride,FALSE,234
+ga,2014,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2014,1,Buprenorphine/Naloxone,FALSE,1916
+ga,2014,1,Buprenorphine/Naloxone,TRUE,0
+ga,2014,2,Buprenorphine,FALSE,101
+ga,2014,2,Buprenorphine,TRUE,0
+ga,2014,2,Buprenorphine Hydrochloride,FALSE,303
+ga,2014,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2014,2,Buprenorphine/Naloxone,FALSE,2308
+ga,2014,2,Buprenorphine/Naloxone,TRUE,0
+ga,2014,3,Buprenorphine,FALSE,638
+ga,2014,3,Buprenorphine,TRUE,0
+ga,2014,3,Buprenorphine Hydrochloride,FALSE,301
+ga,2014,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2014,3,Buprenorphine/Naloxone,FALSE,2386
+ga,2014,3,Buprenorphine/Naloxone,TRUE,0
+ga,2014,4,Buprenorphine,FALSE,873
+ga,2014,4,Buprenorphine,TRUE,0
+ga,2014,4,Buprenorphine Hydrochloride,FALSE,237
+ga,2014,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2014,4,Buprenorphine/Naloxone,FALSE,2536
+ga,2014,4,Buprenorphine/Naloxone,TRUE,0
+ga,2015,1,Buprenorphine,FALSE,947
+ga,2015,1,Buprenorphine,TRUE,0
+ga,2015,1,Buprenorphine Hydrochloride,FALSE,239
+ga,2015,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2015,1,Buprenorphine/Naloxone,FALSE,2394
+ga,2015,1,Buprenorphine/Naloxone,TRUE,0
+ga,2015,2,Buprenorphine,FALSE,966
+ga,2015,2,Buprenorphine,TRUE,0
+ga,2015,2,Buprenorphine Hydrochloride,FALSE,237
+ga,2015,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2015,2,Buprenorphine/Naloxone,FALSE,2313
+ga,2015,2,Buprenorphine/Naloxone,TRUE,0
+ga,2015,3,Buprenorphine,FALSE,947
+ga,2015,3,Buprenorphine,TRUE,0
+ga,2015,3,Buprenorphine Hydrochloride,FALSE,189
+ga,2015,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2015,3,Buprenorphine/Naloxone,FALSE,2260
+ga,2015,3,Buprenorphine/Naloxone,TRUE,0
+ga,2015,4,Buprenorphine,FALSE,1054
+ga,2015,4,Buprenorphine,TRUE,0
+ga,2015,4,Buprenorphine Hydrochloride,FALSE,266
+ga,2015,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2015,4,Buprenorphine/Naloxone,FALSE,2290
+ga,2015,4,Buprenorphine/Naloxone,TRUE,0
+ga,2016,1,Buprenorphine,FALSE,1157
+ga,2016,1,Buprenorphine,TRUE,0
+ga,2016,1,Buprenorphine Hydrochloride,FALSE,220
+ga,2016,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2016,1,Buprenorphine/Naloxone,FALSE,1921
+ga,2016,1,Buprenorphine/Naloxone,TRUE,0
+ga,2016,2,Buprenorphine,FALSE,1339
+ga,2016,2,Buprenorphine,TRUE,0
+ga,2016,2,Buprenorphine Hydrochloride,FALSE,231
+ga,2016,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2016,2,Buprenorphine/Naloxone,FALSE,1994
+ga,2016,2,Buprenorphine/Naloxone,TRUE,0
+ga,2016,3,Buprenorphine,FALSE,1400
+ga,2016,3,Buprenorphine,TRUE,0
+ga,2016,3,Buprenorphine Hydrochloride,FALSE,200
+ga,2016,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2016,3,Buprenorphine/Naloxone,FALSE,2234
+ga,2016,3,Buprenorphine/Naloxone,TRUE,0
+ga,2016,4,Buprenorphine,FALSE,1454
+ga,2016,4,Buprenorphine,TRUE,0
+ga,2016,4,Buprenorphine Hydrochloride,FALSE,268
+ga,2016,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2016,4,Buprenorphine/Naloxone,FALSE,2304
+ga,2016,4,Buprenorphine/Naloxone,TRUE,0
+ga,2017,1,Buprenorphine,FALSE,1689
+ga,2017,1,Buprenorphine,TRUE,0
+ga,2017,1,Buprenorphine Hydrochloride,FALSE,374
+ga,2017,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2017,1,Buprenorphine/Naloxone,FALSE,2500
+ga,2017,1,Buprenorphine/Naloxone,TRUE,0
+ga,2017,2,Buprenorphine,FALSE,1655
+ga,2017,2,Buprenorphine,TRUE,0
+ga,2017,2,Buprenorphine Hydrochloride,FALSE,487
+ga,2017,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2017,2,Buprenorphine/Naloxone,FALSE,2787
+ga,2017,2,Buprenorphine/Naloxone,TRUE,0
+ga,2017,3,Buprenorphine,FALSE,1600
+ga,2017,3,Buprenorphine,TRUE,0
+ga,2017,3,Buprenorphine Hydrochloride,FALSE,547
+ga,2017,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2017,3,Buprenorphine/Naloxone,FALSE,2920
+ga,2017,3,Buprenorphine/Naloxone,TRUE,0
+ga,2017,4,Buprenorphine,FALSE,1444
+ga,2017,4,Buprenorphine,TRUE,0
+ga,2017,4,Buprenorphine Hydrochloride,FALSE,416
+ga,2017,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2017,4,Buprenorphine/Naloxone,FALSE,2844
+ga,2017,4,Buprenorphine/Naloxone,TRUE,0
+ga,2018,1,Buprenorphine,FALSE,1366
+ga,2018,1,Buprenorphine,TRUE,0
+ga,2018,1,Buprenorphine Hydrochloride,FALSE,484
+ga,2018,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2018,1,Buprenorphine/Naloxone,FALSE,3064
+ga,2018,1,Buprenorphine/Naloxone,TRUE,0
+ga,2018,2,Buprenorphine,FALSE,1381
+ga,2018,2,Buprenorphine,TRUE,0
+ga,2018,2,Buprenorphine Hydrochloride,FALSE,531
+ga,2018,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2018,2,Buprenorphine/Naloxone,FALSE,3180
+ga,2018,2,Buprenorphine/Naloxone,TRUE,0
+ga,2018,3,Buprenorphine,FALSE,1210
+ga,2018,3,Buprenorphine,TRUE,0
+ga,2018,3,Buprenorphine Hydrochloride,FALSE,700
+ga,2018,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2018,3,Buprenorphine/Naloxone,FALSE,3293
+ga,2018,3,Buprenorphine/Naloxone,TRUE,0
+ga,2018,4,Buprenorphine,FALSE,1283
+ga,2018,4,Buprenorphine,TRUE,0
+ga,2018,4,Buprenorphine Hydrochloride,FALSE,793
+ga,2018,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2018,4,Buprenorphine/Naloxone,FALSE,3530
+ga,2018,4,Buprenorphine/Naloxone,TRUE,0
+ga,2019,1,Buprenorphine,FALSE,1306
+ga,2019,1,Buprenorphine,TRUE,0
+ga,2019,1,Buprenorphine Hydrochloride,FALSE,859
+ga,2019,1,Buprenorphine Hydrochloride,TRUE,0
+ga,2019,1,Buprenorphine/Naloxone,FALSE,3592
+ga,2019,1,Buprenorphine/Naloxone,TRUE,0
+ga,2019,2,Buprenorphine,FALSE,1357
+ga,2019,2,Buprenorphine,TRUE,0
+ga,2019,2,Buprenorphine Hydrochloride,FALSE,1103
+ga,2019,2,Buprenorphine Hydrochloride,TRUE,0
+ga,2019,2,Buprenorphine/Naloxone,FALSE,3814
+ga,2019,2,Buprenorphine/Naloxone,TRUE,0
+ga,2019,3,Buprenorphine,FALSE,1396
+ga,2019,3,Buprenorphine,TRUE,0
+ga,2019,3,Buprenorphine Hydrochloride,FALSE,1108
+ga,2019,3,Buprenorphine Hydrochloride,TRUE,0
+ga,2019,3,Buprenorphine/Naloxone,FALSE,3829
+ga,2019,3,Buprenorphine/Naloxone,TRUE,0
+ga,2019,4,Buprenorphine,FALSE,1474
+ga,2019,4,Buprenorphine,TRUE,0
+ga,2019,4,Buprenorphine Hydrochloride,FALSE,1078
+ga,2019,4,Buprenorphine Hydrochloride,TRUE,0
+ga,2019,4,Buprenorphine/Naloxone,FALSE,3673
+ga,2019,4,Buprenorphine/Naloxone,TRUE,0
+ga,2020,1,Buprenorphine,NA,1378
+ga,2020,1,Buprenorphine Hydrochloride,NA,1088
+ga,2020,1,Buprenorphine/Naloxone,NA,3742
+id,2010,1,Buprenorphine Hydrochloride,FALSE,29
+id,2010,1,Buprenorphine Hydrochloride,TRUE,0
+id,2010,1,Buprenorphine/Naloxone,FALSE,289
+id,2010,2,Buprenorphine Hydrochloride,FALSE,38
+id,2010,2,Buprenorphine Hydrochloride,TRUE,0
+id,2010,2,Buprenorphine/Naloxone,FALSE,334
+id,2010,2,Buprenorphine/Naloxone,TRUE,0
+id,2010,3,Buprenorphine Hydrochloride,FALSE,24
+id,2010,3,Buprenorphine Hydrochloride,TRUE,0
+id,2010,3,Buprenorphine/Naloxone,FALSE,400
+id,2010,3,Buprenorphine/Naloxone,TRUE,0
+id,2010,4,Buprenorphine Hydrochloride,FALSE,36
+id,2010,4,Buprenorphine Hydrochloride,TRUE,0
+id,2010,4,Buprenorphine/Naloxone,FALSE,340
+id,2010,4,Buprenorphine/Naloxone,TRUE,0
+id,2011,1,Buprenorphine,TRUE,0
+id,2011,1,Buprenorphine Hydrochloride,FALSE,35
+id,2011,1,Buprenorphine Hydrochloride,TRUE,0
+id,2011,1,Buprenorphine/Naloxone,FALSE,356
+id,2011,1,Buprenorphine/Naloxone,TRUE,0
+id,2011,2,Buprenorphine,TRUE,0
+id,2011,2,Buprenorphine Hydrochloride,FALSE,48
+id,2011,2,Buprenorphine Hydrochloride,TRUE,0
+id,2011,2,Buprenorphine/Naloxone,FALSE,377
+id,2011,2,Buprenorphine/Naloxone,TRUE,0
+id,2011,3,Buprenorphine,FALSE,17
+id,2011,3,Buprenorphine,TRUE,0
+id,2011,3,Buprenorphine Hydrochloride,FALSE,73
+id,2011,3,Buprenorphine Hydrochloride,TRUE,0
+id,2011,3,Buprenorphine/Naloxone,FALSE,384
+id,2011,4,Buprenorphine,FALSE,20
+id,2011,4,Buprenorphine,TRUE,0
+id,2011,4,Buprenorphine Hydrochloride,FALSE,80
+id,2011,4,Buprenorphine Hydrochloride,TRUE,0
+id,2011,4,Buprenorphine/Naloxone,FALSE,403
+id,2011,4,Buprenorphine/Naloxone,TRUE,0
+id,2012,1,Buprenorphine,FALSE,38
+id,2012,1,Buprenorphine,TRUE,0
+id,2012,1,Buprenorphine Hydrochloride,FALSE,99
+id,2012,1,Buprenorphine Hydrochloride,TRUE,0
+id,2012,1,Buprenorphine/Naloxone,FALSE,463
+id,2012,1,Buprenorphine/Naloxone,TRUE,0
+id,2012,2,Buprenorphine,FALSE,51
+id,2012,2,Buprenorphine,TRUE,0
+id,2012,2,Buprenorphine Hydrochloride,FALSE,105
+id,2012,2,Buprenorphine Hydrochloride,TRUE,0
+id,2012,2,Buprenorphine/Naloxone,FALSE,484
+id,2012,3,Buprenorphine,FALSE,50
+id,2012,3,Buprenorphine,TRUE,0
+id,2012,3,Buprenorphine Hydrochloride,FALSE,116
+id,2012,3,Buprenorphine Hydrochloride,TRUE,0
+id,2012,3,Buprenorphine/Naloxone,FALSE,431
+id,2012,4,Buprenorphine,FALSE,78
+id,2012,4,Buprenorphine Hydrochloride,FALSE,154
+id,2012,4,Buprenorphine Hydrochloride,TRUE,0
+id,2012,4,Buprenorphine/Naloxone,FALSE,544
+id,2012,4,Buprenorphine/Naloxone,TRUE,0
+id,2013,1,Buprenorphine,FALSE,98
+id,2013,1,Buprenorphine Hydrochloride,FALSE,154
+id,2013,1,Buprenorphine Hydrochloride,TRUE,0
+id,2013,1,Buprenorphine/Naloxone,FALSE,464
+id,2013,1,Buprenorphine/Naloxone,TRUE,0
+id,2013,2,Buprenorphine,FALSE,107
+id,2013,2,Buprenorphine Hydrochloride,FALSE,180
+id,2013,2,Buprenorphine Hydrochloride,TRUE,0
+id,2013,2,Buprenorphine/Naloxone,FALSE,481
+id,2013,2,Buprenorphine/Naloxone,TRUE,0
+id,2013,3,Buprenorphine,FALSE,108
+id,2013,3,Buprenorphine Hydrochloride,FALSE,243
+id,2013,3,Buprenorphine Hydrochloride,TRUE,0
+id,2013,3,Buprenorphine/Naloxone,FALSE,445
+id,2013,3,Buprenorphine/Naloxone,TRUE,0
+id,2013,4,Buprenorphine,FALSE,117
+id,2013,4,Buprenorphine,TRUE,0
+id,2013,4,Buprenorphine Hydrochloride,FALSE,231
+id,2013,4,Buprenorphine Hydrochloride,TRUE,0
+id,2013,4,Buprenorphine/Naloxone,FALSE,464
+id,2013,4,Buprenorphine/Naloxone,TRUE,0
+id,2014,1,Buprenorphine,FALSE,112
+id,2014,1,Buprenorphine,TRUE,0
+id,2014,1,Buprenorphine Hydrochloride,FALSE,256
+id,2014,1,Buprenorphine Hydrochloride,TRUE,0
+id,2014,1,Buprenorphine/Naloxone,FALSE,475
+id,2014,1,Buprenorphine/Naloxone,TRUE,0
+id,2014,2,Buprenorphine,FALSE,107
+id,2014,2,Buprenorphine,TRUE,0
+id,2014,2,Buprenorphine Hydrochloride,FALSE,261
+id,2014,2,Buprenorphine Hydrochloride,TRUE,0
+id,2014,2,Buprenorphine/Naloxone,FALSE,458
+id,2014,2,Buprenorphine/Naloxone,TRUE,0
+id,2014,3,Buprenorphine,FALSE,116
+id,2014,3,Buprenorphine Hydrochloride,FALSE,277
+id,2014,3,Buprenorphine Hydrochloride,TRUE,0
+id,2014,3,Buprenorphine/Naloxone,FALSE,456
+id,2014,3,Buprenorphine/Naloxone,TRUE,0
+id,2014,4,Buprenorphine,FALSE,125
+id,2014,4,Buprenorphine Hydrochloride,FALSE,320
+id,2014,4,Buprenorphine Hydrochloride,TRUE,0
+id,2014,4,Buprenorphine/Naloxone,FALSE,431
+id,2014,4,Buprenorphine/Naloxone,TRUE,0
+id,2015,1,Buprenorphine,FALSE,105
+id,2015,1,Buprenorphine,TRUE,0
+id,2015,1,Buprenorphine Hydrochloride,FALSE,347
+id,2015,1,Buprenorphine Hydrochloride,TRUE,0
+id,2015,1,Buprenorphine/Naloxone,FALSE,428
+id,2015,1,Buprenorphine/Naloxone,TRUE,0
+id,2015,2,Buprenorphine,FALSE,101
+id,2015,2,Buprenorphine,TRUE,0
+id,2015,2,Buprenorphine Hydrochloride,FALSE,386
+id,2015,2,Buprenorphine Hydrochloride,TRUE,0
+id,2015,2,Buprenorphine/Naloxone,FALSE,436
+id,2015,2,Buprenorphine/Naloxone,TRUE,0
+id,2015,3,Buprenorphine,FALSE,94
+id,2015,3,Buprenorphine,TRUE,0
+id,2015,3,Buprenorphine Hydrochloride,FALSE,374
+id,2015,3,Buprenorphine Hydrochloride,TRUE,0
+id,2015,3,Buprenorphine/Naloxone,FALSE,516
+id,2015,3,Buprenorphine/Naloxone,TRUE,0
+id,2015,4,Buprenorphine,FALSE,99
+id,2015,4,Buprenorphine,TRUE,0
+id,2015,4,Buprenorphine Hydrochloride,FALSE,397
+id,2015,4,Buprenorphine Hydrochloride,TRUE,0
+id,2015,4,Buprenorphine/Naloxone,FALSE,588
+id,2015,4,Buprenorphine/Naloxone,TRUE,0
+id,2016,1,Buprenorphine,FALSE,130
+id,2016,1,Buprenorphine,TRUE,0
+id,2016,1,Buprenorphine Hydrochloride,FALSE,339
+id,2016,1,Buprenorphine Hydrochloride,TRUE,0
+id,2016,1,Buprenorphine/Naloxone,FALSE,504
+id,2016,1,Buprenorphine/Naloxone,TRUE,0
+id,2016,2,Buprenorphine,FALSE,147
+id,2016,2,Buprenorphine,TRUE,0
+id,2016,2,Buprenorphine Hydrochloride,FALSE,369
+id,2016,2,Buprenorphine Hydrochloride,TRUE,0
+id,2016,2,Buprenorphine/Naloxone,FALSE,560
+id,2016,2,Buprenorphine/Naloxone,TRUE,0
+id,2016,3,Buprenorphine,FALSE,158
+id,2016,3,Buprenorphine,TRUE,0
+id,2016,3,Buprenorphine Hydrochloride,FALSE,373
+id,2016,3,Buprenorphine Hydrochloride,TRUE,0
+id,2016,3,Buprenorphine/Naloxone,FALSE,733
+id,2016,3,Buprenorphine/Naloxone,TRUE,0
+id,2016,4,Buprenorphine,FALSE,185
+id,2016,4,Buprenorphine,TRUE,0
+id,2016,4,Buprenorphine Hydrochloride,FALSE,397
+id,2016,4,Buprenorphine Hydrochloride,TRUE,0
+id,2016,4,Buprenorphine/Naloxone,FALSE,955
+id,2016,4,Buprenorphine/Naloxone,TRUE,0
+id,2017,1,Buprenorphine,FALSE,163
+id,2017,1,Buprenorphine,TRUE,0
+id,2017,1,Buprenorphine Hydrochloride,FALSE,381
+id,2017,1,Buprenorphine Hydrochloride,TRUE,0
+id,2017,1,Buprenorphine/Naloxone,FALSE,1013
+id,2017,1,Buprenorphine/Naloxone,TRUE,0
+id,2017,2,Buprenorphine,FALSE,174
+id,2017,2,Buprenorphine,TRUE,0
+id,2017,2,Buprenorphine Hydrochloride,FALSE,430
+id,2017,2,Buprenorphine Hydrochloride,TRUE,0
+id,2017,2,Buprenorphine/Naloxone,FALSE,1107
+id,2017,2,Buprenorphine/Naloxone,TRUE,0
+id,2017,3,Buprenorphine,FALSE,172
+id,2017,3,Buprenorphine,TRUE,0
+id,2017,3,Buprenorphine Hydrochloride,FALSE,474
+id,2017,3,Buprenorphine Hydrochloride,TRUE,0
+id,2017,3,Buprenorphine/Naloxone,FALSE,1230
+id,2017,3,Buprenorphine/Naloxone,TRUE,0
+id,2017,4,Buprenorphine,FALSE,191
+id,2017,4,Buprenorphine,TRUE,0
+id,2017,4,Buprenorphine Hydrochloride,FALSE,548
+id,2017,4,Buprenorphine Hydrochloride,TRUE,0
+id,2017,4,Buprenorphine/Naloxone,FALSE,1443
+id,2017,4,Buprenorphine/Naloxone,TRUE,0
+id,2018,1,Buprenorphine,FALSE,163
+id,2018,1,Buprenorphine,TRUE,0
+id,2018,1,Buprenorphine Hydrochloride,FALSE,522
+id,2018,1,Buprenorphine Hydrochloride,TRUE,0
+id,2018,1,Buprenorphine/Naloxone,FALSE,1480
+id,2018,1,Buprenorphine/Naloxone,TRUE,0
+id,2018,2,Buprenorphine,FALSE,171
+id,2018,2,Buprenorphine,TRUE,0
+id,2018,2,Buprenorphine Hydrochloride,FALSE,481
+id,2018,2,Buprenorphine Hydrochloride,TRUE,0
+id,2018,2,Buprenorphine/Naloxone,FALSE,1589
+id,2018,2,Buprenorphine/Naloxone,TRUE,0
+id,2018,3,Buprenorphine,FALSE,163
+id,2018,3,Buprenorphine,TRUE,0
+id,2018,3,Buprenorphine Hydrochloride,FALSE,460
+id,2018,3,Buprenorphine Hydrochloride,TRUE,0
+id,2018,3,Buprenorphine/Naloxone,FALSE,1533
+id,2018,3,Buprenorphine/Naloxone,TRUE,0
+id,2018,4,Buprenorphine,FALSE,163
+id,2018,4,Buprenorphine,TRUE,0
+id,2018,4,Buprenorphine Hydrochloride,FALSE,454
+id,2018,4,Buprenorphine Hydrochloride,TRUE,0
+id,2018,4,Buprenorphine/Naloxone,FALSE,1964
+id,2018,4,Buprenorphine/Naloxone,TRUE,0
+id,2019,1,Buprenorphine,FALSE,177
+id,2019,1,Buprenorphine,TRUE,0
+id,2019,1,Buprenorphine Hydrochloride,FALSE,383
+id,2019,1,Buprenorphine Hydrochloride,TRUE,0
+id,2019,1,Buprenorphine/Naloxone,FALSE,1777
+id,2019,1,Buprenorphine/Naloxone,TRUE,0
+id,2019,2,Buprenorphine,FALSE,191
+id,2019,2,Buprenorphine,TRUE,0
+id,2019,2,Buprenorphine Hydrochloride,FALSE,473
+id,2019,2,Buprenorphine Hydrochloride,TRUE,0
+id,2019,2,Buprenorphine/Naloxone,FALSE,1929
+id,2019,2,Buprenorphine/Naloxone,TRUE,0
+id,2019,3,Buprenorphine,FALSE,185
+id,2019,3,Buprenorphine,TRUE,0
+id,2019,3,Buprenorphine Hydrochloride,FALSE,463
+id,2019,3,Buprenorphine Hydrochloride,TRUE,0
+id,2019,3,Buprenorphine/Naloxone,FALSE,1991
+id,2019,3,Buprenorphine/Naloxone,TRUE,0
+id,2019,4,Buprenorphine,FALSE,179
+id,2019,4,Buprenorphine,TRUE,0
+id,2019,4,Buprenorphine Hydrochloride,FALSE,467
+id,2019,4,Buprenorphine Hydrochloride,TRUE,0
+id,2019,4,Buprenorphine/Naloxone,FALSE,1824
+id,2019,4,Buprenorphine/Naloxone,TRUE,0
+id,2020,1,Buprenorphine,NA,252
+id,2020,1,Buprenorphine Hydrochloride,NA,661
+id,2020,1,Buprenorphine/Naloxone,NA,3822
+il,2010,1,Buprenorphine Hydrochloride,FALSE,63
+il,2010,1,Buprenorphine Hydrochloride,TRUE,0
+il,2010,1,Buprenorphine/Naloxone,FALSE,3594
+il,2010,2,Buprenorphine Hydrochloride,FALSE,145
+il,2010,2,Buprenorphine Hydrochloride,TRUE,0
+il,2010,2,Buprenorphine/Naloxone,FALSE,6119
+il,2010,3,Buprenorphine Hydrochloride,FALSE,111
+il,2010,3,Buprenorphine Hydrochloride,TRUE,0
+il,2010,3,Buprenorphine/Naloxone,FALSE,6764
+il,2010,4,Buprenorphine Hydrochloride,FALSE,84
+il,2010,4,Buprenorphine Hydrochloride,TRUE,0
+il,2010,4,Buprenorphine/Naloxone,FALSE,6496
+il,2010,4,Buprenorphine/Naloxone,TRUE,0
+il,2011,1,Buprenorphine,TRUE,0
+il,2011,1,Buprenorphine Hydrochloride,FALSE,107
+il,2011,1,Buprenorphine Hydrochloride,TRUE,0
+il,2011,1,Buprenorphine/Naloxone,FALSE,7600
+il,2011,1,Buprenorphine/Naloxone,TRUE,0
+il,2011,2,Buprenorphine,TRUE,0
+il,2011,2,Buprenorphine Hydrochloride,FALSE,152
+il,2011,2,Buprenorphine Hydrochloride,TRUE,0
+il,2011,2,Buprenorphine/Naloxone,FALSE,7838
+il,2011,2,Buprenorphine/Naloxone,TRUE,0
+il,2011,3,Buprenorphine Hydrochloride,TRUE,0
+il,2011,3,Buprenorphine/Naloxone,FALSE,1829
+il,2011,3,Buprenorphine/Naloxone,TRUE,0
+il,2011,4,Buprenorphine,TRUE,0
+il,2011,4,Buprenorphine Hydrochloride,FALSE,95
+il,2011,4,Buprenorphine Hydrochloride,TRUE,0
+il,2011,4,Buprenorphine/Naloxone,FALSE,4526
+il,2011,4,Buprenorphine/Naloxone,TRUE,0
+il,2012,1,Buprenorphine,TRUE,0
+il,2012,1,Buprenorphine Hydrochloride,FALSE,231
+il,2012,1,Buprenorphine Hydrochloride,TRUE,0
+il,2012,1,Buprenorphine/Naloxone,FALSE,8304
+il,2012,1,Buprenorphine/Naloxone,TRUE,0
+il,2012,2,Buprenorphine,TRUE,0
+il,2012,2,Buprenorphine Hydrochloride,FALSE,183
+il,2012,2,Buprenorphine Hydrochloride,TRUE,0
+il,2012,2,Buprenorphine/Naloxone,FALSE,7331
+il,2012,2,Buprenorphine/Naloxone,TRUE,0
+il,2012,3,Buprenorphine,TRUE,0
+il,2012,3,Buprenorphine Hydrochloride,FALSE,366
+il,2012,3,Buprenorphine Hydrochloride,TRUE,0
+il,2012,3,Buprenorphine/Naloxone,FALSE,11353
+il,2012,3,Buprenorphine/Naloxone,TRUE,0
+il,2012,4,Buprenorphine,FALSE,14
+il,2012,4,Buprenorphine,TRUE,0
+il,2012,4,Buprenorphine Hydrochloride,FALSE,185
+il,2012,4,Buprenorphine Hydrochloride,TRUE,0
+il,2012,4,Buprenorphine/Naloxone,FALSE,7943
+il,2012,4,Buprenorphine/Naloxone,TRUE,0
+il,2013,1,Buprenorphine,TRUE,0
+il,2013,1,Buprenorphine Hydrochloride,FALSE,209
+il,2013,1,Buprenorphine Hydrochloride,TRUE,0
+il,2013,1,Buprenorphine/Naloxone,FALSE,6139
+il,2013,1,Buprenorphine/Naloxone,TRUE,0
+il,2013,2,Buprenorphine,FALSE,18
+il,2013,2,Buprenorphine,TRUE,0
+il,2013,2,Buprenorphine Hydrochloride,FALSE,248
+il,2013,2,Buprenorphine Hydrochloride,TRUE,0
+il,2013,2,Buprenorphine/Naloxone,FALSE,4653
+il,2013,2,Buprenorphine/Naloxone,TRUE,0
+il,2013,3,Buprenorphine,TRUE,0
+il,2013,3,Buprenorphine Hydrochloride,FALSE,113
+il,2013,3,Buprenorphine Hydrochloride,TRUE,0
+il,2013,3,Buprenorphine/Naloxone,FALSE,2490
+il,2013,3,Buprenorphine/Naloxone,TRUE,0
+il,2013,4,Buprenorphine,FALSE,17
+il,2013,4,Buprenorphine,TRUE,0
+il,2013,4,Buprenorphine Hydrochloride,FALSE,90
+il,2013,4,Buprenorphine Hydrochloride,TRUE,0
+il,2013,4,Buprenorphine/Naloxone,FALSE,3009
+il,2013,4,Buprenorphine/Naloxone,TRUE,0
+il,2014,1,Buprenorphine,FALSE,15
+il,2014,1,Buprenorphine,TRUE,0
+il,2014,1,Buprenorphine Hydrochloride,FALSE,129
+il,2014,1,Buprenorphine Hydrochloride,TRUE,0
+il,2014,1,Buprenorphine/Naloxone,FALSE,2291
+il,2014,1,Buprenorphine/Naloxone,TRUE,0
+il,2014,2,Buprenorphine,FALSE,15
+il,2014,2,Buprenorphine,TRUE,0
+il,2014,2,Buprenorphine Hydrochloride,FALSE,218
+il,2014,2,Buprenorphine Hydrochloride,TRUE,0
+il,2014,2,Buprenorphine/Naloxone,FALSE,3448
+il,2014,2,Buprenorphine/Naloxone,TRUE,0
+il,2014,3,Buprenorphine,FALSE,12
+il,2014,3,Buprenorphine,TRUE,0
+il,2014,3,Buprenorphine Hydrochloride,FALSE,112
+il,2014,3,Buprenorphine Hydrochloride,TRUE,0
+il,2014,3,Buprenorphine/Naloxone,FALSE,2167
+il,2014,3,Buprenorphine/Naloxone,TRUE,0
+il,2014,4,Buprenorphine,TRUE,0
+il,2014,4,Buprenorphine Hydrochloride,FALSE,78
+il,2014,4,Buprenorphine Hydrochloride,TRUE,0
+il,2014,4,Buprenorphine/Naloxone,FALSE,2527
+il,2014,4,Buprenorphine/Naloxone,TRUE,0
+il,2015,1,Buprenorphine,TRUE,0
+il,2015,1,Buprenorphine Hydrochloride,FALSE,97
+il,2015,1,Buprenorphine Hydrochloride,TRUE,0
+il,2015,1,Buprenorphine/Naloxone,FALSE,2086
+il,2015,1,Buprenorphine/Naloxone,TRUE,0
+il,2015,2,Buprenorphine,TRUE,0
+il,2015,2,Buprenorphine Hydrochloride,FALSE,76
+il,2015,2,Buprenorphine Hydrochloride,TRUE,0
+il,2015,2,Buprenorphine/Naloxone,FALSE,1723
+il,2015,2,Buprenorphine/Naloxone,TRUE,0
+il,2015,3,Buprenorphine,TRUE,0
+il,2015,3,Buprenorphine Hydrochloride,FALSE,245
+il,2015,3,Buprenorphine Hydrochloride,TRUE,0
+il,2015,3,Buprenorphine/Naloxone,FALSE,3557
+il,2015,3,Buprenorphine/Naloxone,TRUE,0
+il,2015,4,Buprenorphine,FALSE,17
+il,2015,4,Buprenorphine,TRUE,0
+il,2015,4,Buprenorphine Hydrochloride,FALSE,761
+il,2015,4,Buprenorphine Hydrochloride,TRUE,0
+il,2015,4,Buprenorphine/Naloxone,FALSE,8143
+il,2015,4,Buprenorphine/Naloxone,TRUE,0
+il,2016,1,Buprenorphine,TRUE,0
+il,2016,1,Buprenorphine Hydrochloride,FALSE,1116
+il,2016,1,Buprenorphine Hydrochloride,TRUE,0
+il,2016,1,Buprenorphine/Naloxone,FALSE,8156
+il,2016,1,Buprenorphine/Naloxone,TRUE,0
+il,2016,2,Buprenorphine,TRUE,0
+il,2016,2,Buprenorphine Hydrochloride,FALSE,1535
+il,2016,2,Buprenorphine Hydrochloride,TRUE,0
+il,2016,2,Buprenorphine/Naloxone,FALSE,9468
+il,2016,2,Buprenorphine/Naloxone,TRUE,0
+il,2016,3,Buprenorphine,FALSE,30
+il,2016,3,Buprenorphine,TRUE,0
+il,2016,3,Buprenorphine Hydrochloride,FALSE,1369
+il,2016,3,Buprenorphine Hydrochloride,TRUE,0
+il,2016,3,Buprenorphine/Naloxone,FALSE,9897
+il,2016,3,Buprenorphine/Naloxone,TRUE,0
+il,2016,4,Buprenorphine,FALSE,41
+il,2016,4,Buprenorphine,TRUE,0
+il,2016,4,Buprenorphine Hydrochloride,FALSE,1954
+il,2016,4,Buprenorphine Hydrochloride,TRUE,0
+il,2016,4,Buprenorphine/Naloxone,FALSE,16845
+il,2016,4,Buprenorphine/Naloxone,TRUE,0
+il,2017,1,Buprenorphine,FALSE,45
+il,2017,1,Buprenorphine,TRUE,0
+il,2017,1,Buprenorphine Hydrochloride,FALSE,2402
+il,2017,1,Buprenorphine Hydrochloride,TRUE,0
+il,2017,1,Buprenorphine/Naloxone,FALSE,21986
+il,2017,1,Buprenorphine/Naloxone,TRUE,0
+il,2017,2,Buprenorphine,TRUE,0
+il,2017,2,Buprenorphine Hydrochloride,FALSE,2292
+il,2017,2,Buprenorphine Hydrochloride,TRUE,0
+il,2017,2,Buprenorphine/Naloxone,FALSE,18662
+il,2017,2,Buprenorphine/Naloxone,TRUE,0
+il,2017,3,Buprenorphine,TRUE,0
+il,2017,3,Buprenorphine Hydrochloride,FALSE,2476
+il,2017,3,Buprenorphine Hydrochloride,TRUE,0
+il,2017,3,Buprenorphine/Naloxone,FALSE,19833
+il,2017,3,Buprenorphine/Naloxone,TRUE,0
+il,2017,4,Buprenorphine,TRUE,0
+il,2017,4,Buprenorphine Hydrochloride,FALSE,2465
+il,2017,4,Buprenorphine Hydrochloride,TRUE,0
+il,2017,4,Buprenorphine/Naloxone,FALSE,20338
+il,2017,4,Buprenorphine/Naloxone,TRUE,0
+il,2018,1,Buprenorphine,TRUE,0
+il,2018,1,Buprenorphine Hydrochloride,FALSE,2637
+il,2018,1,Buprenorphine Hydrochloride,TRUE,0
+il,2018,1,Buprenorphine/Naloxone,FALSE,21706
+il,2018,1,Buprenorphine/Naloxone,TRUE,0
+il,2018,2,Buprenorphine,TRUE,0
+il,2018,2,Buprenorphine Hydrochloride,FALSE,2584
+il,2018,2,Buprenorphine Hydrochloride,TRUE,0
+il,2018,2,Buprenorphine/Naloxone,FALSE,21273
+il,2018,2,Buprenorphine/Naloxone,TRUE,0
+il,2018,3,Buprenorphine,FALSE,14
+il,2018,3,Buprenorphine,TRUE,0
+il,2018,3,Buprenorphine Hydrochloride,FALSE,2571
+il,2018,3,Buprenorphine Hydrochloride,TRUE,0
+il,2018,3,Buprenorphine/Naloxone,FALSE,21880
+il,2018,3,Buprenorphine/Naloxone,TRUE,0
+il,2018,4,Buprenorphine,FALSE,28
+il,2018,4,Buprenorphine,TRUE,0
+il,2018,4,Buprenorphine Hydrochloride,FALSE,2909
+il,2018,4,Buprenorphine Hydrochloride,TRUE,0
+il,2018,4,Buprenorphine/Naloxone,FALSE,22729
+il,2018,4,Buprenorphine/Naloxone,TRUE,0
+il,2019,1,Buprenorphine,FALSE,85
+il,2019,1,Buprenorphine,TRUE,0
+il,2019,1,Buprenorphine Hydrochloride,FALSE,2951
+il,2019,1,Buprenorphine Hydrochloride,TRUE,0
+il,2019,1,Buprenorphine/Naloxone,FALSE,23592
+il,2019,1,Buprenorphine/Naloxone,TRUE,0
+il,2019,2,Buprenorphine,FALSE,178
+il,2019,2,Buprenorphine,TRUE,0
+il,2019,2,Buprenorphine Hydrochloride,FALSE,3037
+il,2019,2,Buprenorphine Hydrochloride,TRUE,0
+il,2019,2,Buprenorphine/Naloxone,FALSE,25337
+il,2019,2,Buprenorphine/Naloxone,TRUE,0
+il,2019,3,Buprenorphine,FALSE,235
+il,2019,3,Buprenorphine,TRUE,0
+il,2019,3,Buprenorphine Hydrochloride,FALSE,3218
+il,2019,3,Buprenorphine Hydrochloride,TRUE,0
+il,2019,3,Buprenorphine/Naloxone,FALSE,25927
+il,2019,3,Buprenorphine/Naloxone,TRUE,0
+il,2019,4,Buprenorphine,FALSE,295
+il,2019,4,Buprenorphine,TRUE,0
+il,2019,4,Buprenorphine Hydrochloride,FALSE,3223
+il,2019,4,Buprenorphine Hydrochloride,TRUE,0
+il,2019,4,Buprenorphine/Naloxone,FALSE,27252
+il,2019,4,Buprenorphine/Naloxone,TRUE,0
+il,2020,1,Buprenorphine,NA,380
+il,2020,1,Buprenorphine Hydrochloride,NA,3043
+il,2020,1,Buprenorphine/Naloxone,NA,27695
+in,2010,1,Buprenorphine Hydrochloride,FALSE,651
+in,2010,1,Buprenorphine Hydrochloride,TRUE,0
+in,2010,1,Buprenorphine/Naloxone,FALSE,3386
+in,2010,2,Buprenorphine Hydrochloride,FALSE,731
+in,2010,2,Buprenorphine Hydrochloride,TRUE,0
+in,2010,2,Buprenorphine/Naloxone,FALSE,3785
+in,2010,3,Buprenorphine Hydrochloride,FALSE,522
+in,2010,3,Buprenorphine Hydrochloride,TRUE,0
+in,2010,3,Buprenorphine/Naloxone,FALSE,4016
+in,2010,3,Buprenorphine/Naloxone,TRUE,0
+in,2010,4,Buprenorphine Hydrochloride,FALSE,517
+in,2010,4,Buprenorphine Hydrochloride,TRUE,0
+in,2010,4,Buprenorphine/Naloxone,FALSE,4352
+in,2010,4,Buprenorphine/Naloxone,TRUE,0
+in,2011,1,Buprenorphine,FALSE,264
+in,2011,1,Buprenorphine Hydrochloride,FALSE,367
+in,2011,1,Buprenorphine Hydrochloride,TRUE,0
+in,2011,1,Buprenorphine/Naloxone,FALSE,4335
+in,2011,1,Buprenorphine/Naloxone,TRUE,0
+in,2011,2,Buprenorphine,FALSE,677
+in,2011,2,Buprenorphine Hydrochloride,FALSE,470
+in,2011,2,Buprenorphine Hydrochloride,TRUE,0
+in,2011,2,Buprenorphine/Naloxone,FALSE,4805
+in,2011,2,Buprenorphine/Naloxone,TRUE,0
+in,2011,3,Buprenorphine,FALSE,484
+in,2011,3,Buprenorphine Hydrochloride,FALSE,366
+in,2011,3,Buprenorphine Hydrochloride,TRUE,0
+in,2011,3,Buprenorphine/Naloxone,FALSE,4466
+in,2011,4,Buprenorphine,FALSE,811
+in,2011,4,Buprenorphine Hydrochloride,FALSE,548
+in,2011,4,Buprenorphine Hydrochloride,TRUE,0
+in,2011,4,Buprenorphine/Naloxone,FALSE,5308
+in,2011,4,Buprenorphine/Naloxone,TRUE,0
+in,2012,1,Buprenorphine,FALSE,611
+in,2012,1,Buprenorphine Hydrochloride,FALSE,741
+in,2012,1,Buprenorphine Hydrochloride,TRUE,0
+in,2012,1,Buprenorphine/Naloxone,FALSE,5193
+in,2012,2,Buprenorphine,FALSE,566
+in,2012,2,Buprenorphine Hydrochloride,FALSE,865
+in,2012,2,Buprenorphine Hydrochloride,TRUE,0
+in,2012,2,Buprenorphine/Naloxone,FALSE,5441
+in,2012,3,Buprenorphine,FALSE,123
+in,2012,3,Buprenorphine,TRUE,0
+in,2012,3,Buprenorphine Hydrochloride,FALSE,614
+in,2012,3,Buprenorphine Hydrochloride,TRUE,0
+in,2012,3,Buprenorphine/Naloxone,FALSE,6147
+in,2012,3,Buprenorphine/Naloxone,TRUE,0
+in,2012,4,Buprenorphine,FALSE,86
+in,2012,4,Buprenorphine,TRUE,0
+in,2012,4,Buprenorphine Hydrochloride,FALSE,697
+in,2012,4,Buprenorphine Hydrochloride,TRUE,0
+in,2012,4,Buprenorphine/Naloxone,FALSE,6602
+in,2012,4,Buprenorphine/Naloxone,TRUE,0
+in,2013,1,Buprenorphine,FALSE,85
+in,2013,1,Buprenorphine,TRUE,0
+in,2013,1,Buprenorphine Hydrochloride,FALSE,706
+in,2013,1,Buprenorphine Hydrochloride,TRUE,0
+in,2013,1,Buprenorphine/Naloxone,FALSE,6449
+in,2013,1,Buprenorphine/Naloxone,TRUE,0
+in,2013,2,Buprenorphine,FALSE,77
+in,2013,2,Buprenorphine Hydrochloride,FALSE,731
+in,2013,2,Buprenorphine Hydrochloride,TRUE,0
+in,2013,2,Buprenorphine/Naloxone,FALSE,6830
+in,2013,2,Buprenorphine/Naloxone,TRUE,0
+in,2013,3,Buprenorphine,FALSE,78
+in,2013,3,Buprenorphine,TRUE,0
+in,2013,3,Buprenorphine Hydrochloride,FALSE,642
+in,2013,3,Buprenorphine Hydrochloride,TRUE,0
+in,2013,3,Buprenorphine/Naloxone,FALSE,7008
+in,2013,3,Buprenorphine/Naloxone,TRUE,0
+in,2013,4,Buprenorphine,FALSE,78
+in,2013,4,Buprenorphine,TRUE,0
+in,2013,4,Buprenorphine Hydrochloride,FALSE,585
+in,2013,4,Buprenorphine Hydrochloride,TRUE,0
+in,2013,4,Buprenorphine/Naloxone,FALSE,7587
+in,2013,4,Buprenorphine/Naloxone,TRUE,0
+in,2014,1,Buprenorphine,FALSE,66
+in,2014,1,Buprenorphine,TRUE,0
+in,2014,1,Buprenorphine Hydrochloride,FALSE,513
+in,2014,1,Buprenorphine Hydrochloride,TRUE,0
+in,2014,1,Buprenorphine/Naloxone,FALSE,6396
+in,2014,1,Buprenorphine/Naloxone,TRUE,0
+in,2014,2,Buprenorphine,FALSE,74
+in,2014,2,Buprenorphine,TRUE,0
+in,2014,2,Buprenorphine Hydrochloride,FALSE,544
+in,2014,2,Buprenorphine Hydrochloride,TRUE,0
+in,2014,2,Buprenorphine/Naloxone,FALSE,7473
+in,2014,2,Buprenorphine/Naloxone,TRUE,0
+in,2014,3,Buprenorphine,FALSE,62
+in,2014,3,Buprenorphine,TRUE,0
+in,2014,3,Buprenorphine Hydrochloride,FALSE,674
+in,2014,3,Buprenorphine Hydrochloride,TRUE,0
+in,2014,3,Buprenorphine/Naloxone,FALSE,8178
+in,2014,3,Buprenorphine/Naloxone,TRUE,0
+in,2014,4,Buprenorphine,FALSE,76
+in,2014,4,Buprenorphine,TRUE,0
+in,2014,4,Buprenorphine Hydrochloride,FALSE,610
+in,2014,4,Buprenorphine Hydrochloride,TRUE,0
+in,2014,4,Buprenorphine/Naloxone,FALSE,7921
+in,2014,4,Buprenorphine/Naloxone,TRUE,0
+in,2015,1,Buprenorphine,FALSE,71
+in,2015,1,Buprenorphine,TRUE,0
+in,2015,1,Buprenorphine Hydrochloride,FALSE,550
+in,2015,1,Buprenorphine Hydrochloride,TRUE,0
+in,2015,1,Buprenorphine/Naloxone,FALSE,6200
+in,2015,1,Buprenorphine/Naloxone,TRUE,0
+in,2015,2,Buprenorphine,FALSE,144
+in,2015,2,Buprenorphine,TRUE,0
+in,2015,2,Buprenorphine Hydrochloride,FALSE,843
+in,2015,2,Buprenorphine Hydrochloride,TRUE,0
+in,2015,2,Buprenorphine/Naloxone,FALSE,9037
+in,2015,2,Buprenorphine/Naloxone,TRUE,0
+in,2015,3,Buprenorphine,FALSE,278
+in,2015,3,Buprenorphine,TRUE,0
+in,2015,3,Buprenorphine Hydrochloride,FALSE,743
+in,2015,3,Buprenorphine Hydrochloride,TRUE,0
+in,2015,3,Buprenorphine/Naloxone,FALSE,9521
+in,2015,3,Buprenorphine/Naloxone,TRUE,0
+in,2015,4,Buprenorphine,FALSE,333
+in,2015,4,Buprenorphine,TRUE,0
+in,2015,4,Buprenorphine Hydrochloride,FALSE,775
+in,2015,4,Buprenorphine Hydrochloride,TRUE,0
+in,2015,4,Buprenorphine/Naloxone,FALSE,11140
+in,2015,4,Buprenorphine/Naloxone,TRUE,0
+in,2016,1,Buprenorphine,FALSE,437
+in,2016,1,Buprenorphine,TRUE,0
+in,2016,1,Buprenorphine Hydrochloride,FALSE,866
+in,2016,1,Buprenorphine Hydrochloride,TRUE,0
+in,2016,1,Buprenorphine/Naloxone,FALSE,11285
+in,2016,1,Buprenorphine/Naloxone,TRUE,0
+in,2016,2,Buprenorphine,FALSE,616
+in,2016,2,Buprenorphine,TRUE,0
+in,2016,2,Buprenorphine Hydrochloride,FALSE,1121
+in,2016,2,Buprenorphine Hydrochloride,TRUE,0
+in,2016,2,Buprenorphine/Naloxone,FALSE,16562
+in,2016,2,Buprenorphine/Naloxone,TRUE,0
+in,2016,3,Buprenorphine,FALSE,505
+in,2016,3,Buprenorphine,TRUE,0
+in,2016,3,Buprenorphine Hydrochloride,FALSE,1101
+in,2016,3,Buprenorphine Hydrochloride,TRUE,0
+in,2016,3,Buprenorphine/Naloxone,FALSE,15190
+in,2016,3,Buprenorphine/Naloxone,TRUE,0
+in,2016,4,Buprenorphine,FALSE,539
+in,2016,4,Buprenorphine,TRUE,0
+in,2016,4,Buprenorphine Hydrochloride,FALSE,1194
+in,2016,4,Buprenorphine Hydrochloride,TRUE,0
+in,2016,4,Buprenorphine/Naloxone,FALSE,17934
+in,2016,4,Buprenorphine/Naloxone,TRUE,0
+in,2017,1,Buprenorphine,FALSE,455
+in,2017,1,Buprenorphine,TRUE,0
+in,2017,1,Buprenorphine Hydrochloride,FALSE,1642
+in,2017,1,Buprenorphine Hydrochloride,TRUE,0
+in,2017,1,Buprenorphine/Naloxone,FALSE,21730
+in,2017,1,Buprenorphine/Naloxone,TRUE,0
+in,2017,2,Buprenorphine,FALSE,481
+in,2017,2,Buprenorphine,TRUE,0
+in,2017,2,Buprenorphine Hydrochloride,FALSE,2275
+in,2017,2,Buprenorphine Hydrochloride,TRUE,0
+in,2017,2,Buprenorphine/Naloxone,FALSE,25543
+in,2017,2,Buprenorphine/Naloxone,TRUE,0
+in,2017,3,Buprenorphine,FALSE,500
+in,2017,3,Buprenorphine,TRUE,0
+in,2017,3,Buprenorphine Hydrochloride,FALSE,2653
+in,2017,3,Buprenorphine Hydrochloride,TRUE,0
+in,2017,3,Buprenorphine/Naloxone,FALSE,30350
+in,2017,3,Buprenorphine/Naloxone,TRUE,0
+in,2017,4,Buprenorphine,FALSE,538
+in,2017,4,Buprenorphine,TRUE,0
+in,2017,4,Buprenorphine Hydrochloride,FALSE,2850
+in,2017,4,Buprenorphine Hydrochloride,TRUE,0
+in,2017,4,Buprenorphine/Naloxone,FALSE,34645
+in,2017,4,Buprenorphine/Naloxone,TRUE,0
+in,2018,1,Buprenorphine,FALSE,534
+in,2018,1,Buprenorphine,TRUE,0
+in,2018,1,Buprenorphine Hydrochloride,FALSE,3571
+in,2018,1,Buprenorphine Hydrochloride,TRUE,0
+in,2018,1,Buprenorphine/Naloxone,FALSE,39535
+in,2018,1,Buprenorphine/Naloxone,TRUE,0
+in,2018,2,Buprenorphine,FALSE,603
+in,2018,2,Buprenorphine,TRUE,0
+in,2018,2,Buprenorphine Hydrochloride,FALSE,4690
+in,2018,2,Buprenorphine Hydrochloride,TRUE,0
+in,2018,2,Buprenorphine/Naloxone,FALSE,45931
+in,2018,2,Buprenorphine/Naloxone,TRUE,0
+in,2018,3,Buprenorphine,FALSE,663
+in,2018,3,Buprenorphine,TRUE,0
+in,2018,3,Buprenorphine Hydrochloride,FALSE,5848
+in,2018,3,Buprenorphine Hydrochloride,TRUE,0
+in,2018,3,Buprenorphine/Naloxone,FALSE,47148
+in,2018,3,Buprenorphine/Naloxone,TRUE,0
+in,2018,4,Buprenorphine,FALSE,629
+in,2018,4,Buprenorphine,TRUE,0
+in,2018,4,Buprenorphine Hydrochloride,FALSE,6315
+in,2018,4,Buprenorphine Hydrochloride,TRUE,0
+in,2018,4,Buprenorphine/Naloxone,FALSE,51880
+in,2018,4,Buprenorphine/Naloxone,TRUE,0
+in,2019,1,Buprenorphine,FALSE,684
+in,2019,1,Buprenorphine,TRUE,0
+in,2019,1,Buprenorphine Hydrochloride,FALSE,6583
+in,2019,1,Buprenorphine Hydrochloride,TRUE,0
+in,2019,1,Buprenorphine/Naloxone,FALSE,54325
+in,2019,1,Buprenorphine/Naloxone,TRUE,0
+in,2019,2,Buprenorphine,FALSE,782
+in,2019,2,Buprenorphine,TRUE,0
+in,2019,2,Buprenorphine Hydrochloride,FALSE,7460
+in,2019,2,Buprenorphine Hydrochloride,TRUE,0
+in,2019,2,Buprenorphine/Naloxone,FALSE,59563
+in,2019,2,Buprenorphine/Naloxone,TRUE,0
+in,2019,3,Buprenorphine,FALSE,789
+in,2019,3,Buprenorphine,TRUE,0
+in,2019,3,Buprenorphine Hydrochloride,FALSE,7717
+in,2019,3,Buprenorphine Hydrochloride,TRUE,0
+in,2019,3,Buprenorphine/Naloxone,FALSE,61816
+in,2019,3,Buprenorphine/Naloxone,TRUE,0
+in,2019,4,Buprenorphine,FALSE,913
+in,2019,4,Buprenorphine,TRUE,0
+in,2019,4,Buprenorphine Hydrochloride,FALSE,8031
+in,2019,4,Buprenorphine Hydrochloride,TRUE,0
+in,2019,4,Buprenorphine/Naloxone,FALSE,65848
+in,2019,4,Buprenorphine/Naloxone,TRUE,0
+in,2020,1,Buprenorphine,NA,946
+in,2020,1,Buprenorphine Hydrochloride,NA,8034
+in,2020,1,Buprenorphine/Naloxone,NA,71325
+ks,2010,1,Buprenorphine/Naloxone,TRUE,0
+ks,2010,2,Buprenorphine/Naloxone,FALSE,45
+ks,2010,2,Buprenorphine/Naloxone,TRUE,0
+ks,2010,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2010,3,Buprenorphine/Naloxone,FALSE,81
+ks,2010,3,Buprenorphine/Naloxone,TRUE,0
+ks,2010,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2010,4,Buprenorphine/Naloxone,FALSE,198
+ks,2010,4,Buprenorphine/Naloxone,TRUE,0
+ks,2011,1,Buprenorphine,TRUE,0
+ks,2011,1,Buprenorphine Hydrochloride,FALSE,22
+ks,2011,1,Buprenorphine/Naloxone,FALSE,139
+ks,2011,1,Buprenorphine/Naloxone,TRUE,0
+ks,2011,2,Buprenorphine,FALSE,60
+ks,2011,2,Buprenorphine,TRUE,0
+ks,2011,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2011,2,Buprenorphine/Naloxone,FALSE,87
+ks,2011,2,Buprenorphine/Naloxone,TRUE,0
+ks,2011,3,Buprenorphine,FALSE,71
+ks,2011,3,Buprenorphine,TRUE,0
+ks,2011,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2011,3,Buprenorphine/Naloxone,FALSE,109
+ks,2011,3,Buprenorphine/Naloxone,TRUE,0
+ks,2011,4,Buprenorphine,FALSE,100
+ks,2011,4,Buprenorphine,TRUE,0
+ks,2011,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2011,4,Buprenorphine/Naloxone,FALSE,13
+ks,2011,4,Buprenorphine/Naloxone,TRUE,0
+ks,2012,1,Buprenorphine,FALSE,108
+ks,2012,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2012,1,Buprenorphine/Naloxone,FALSE,52
+ks,2012,1,Buprenorphine/Naloxone,TRUE,0
+ks,2012,2,Buprenorphine,FALSE,137
+ks,2012,2,Buprenorphine,TRUE,0
+ks,2012,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2012,2,Buprenorphine/Naloxone,FALSE,259
+ks,2012,2,Buprenorphine/Naloxone,TRUE,0
+ks,2012,3,Buprenorphine,FALSE,113
+ks,2012,3,Buprenorphine,TRUE,0
+ks,2012,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2012,3,Buprenorphine/Naloxone,FALSE,158
+ks,2012,3,Buprenorphine/Naloxone,TRUE,0
+ks,2012,4,Buprenorphine,FALSE,102
+ks,2012,4,Buprenorphine,TRUE,0
+ks,2012,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2012,4,Buprenorphine/Naloxone,FALSE,109
+ks,2012,4,Buprenorphine/Naloxone,TRUE,0
+ks,2013,1,Buprenorphine,TRUE,0
+ks,2013,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2013,1,Buprenorphine/Naloxone,FALSE,20
+ks,2013,1,Buprenorphine/Naloxone,TRUE,0
+ks,2013,3,Buprenorphine,TRUE,0
+ks,2013,3,Buprenorphine Hydrochloride,FALSE,12
+ks,2013,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2013,3,Buprenorphine/Naloxone,FALSE,226
+ks,2013,3,Buprenorphine/Naloxone,TRUE,0
+ks,2013,4,Buprenorphine,FALSE,163
+ks,2013,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2013,4,Buprenorphine/Naloxone,FALSE,198
+ks,2013,4,Buprenorphine/Naloxone,TRUE,0
+ks,2014,1,Buprenorphine,FALSE,160
+ks,2014,1,Buprenorphine,TRUE,0
+ks,2014,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2014,1,Buprenorphine/Naloxone,FALSE,421
+ks,2014,1,Buprenorphine/Naloxone,TRUE,0
+ks,2014,2,Buprenorphine,FALSE,617
+ks,2014,2,Buprenorphine Hydrochloride,FALSE,119
+ks,2014,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2014,2,Buprenorphine/Naloxone,FALSE,1251
+ks,2014,2,Buprenorphine/Naloxone,TRUE,0
+ks,2014,3,Buprenorphine,FALSE,176
+ks,2014,3,Buprenorphine Hydrochloride,FALSE,17
+ks,2014,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2014,3,Buprenorphine/Naloxone,FALSE,443
+ks,2014,3,Buprenorphine/Naloxone,TRUE,0
+ks,2014,4,Buprenorphine,FALSE,269
+ks,2014,4,Buprenorphine,TRUE,0
+ks,2014,4,Buprenorphine Hydrochloride,FALSE,50
+ks,2014,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2014,4,Buprenorphine/Naloxone,FALSE,506
+ks,2014,4,Buprenorphine/Naloxone,TRUE,0
+ks,2015,1,Buprenorphine,FALSE,142
+ks,2015,1,Buprenorphine,TRUE,0
+ks,2015,1,Buprenorphine Hydrochloride,FALSE,26
+ks,2015,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2015,1,Buprenorphine/Naloxone,FALSE,420
+ks,2015,1,Buprenorphine/Naloxone,TRUE,0
+ks,2015,2,Buprenorphine,FALSE,103
+ks,2015,2,Buprenorphine,TRUE,0
+ks,2015,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2015,2,Buprenorphine/Naloxone,FALSE,321
+ks,2015,2,Buprenorphine/Naloxone,TRUE,0
+ks,2015,3,Buprenorphine,FALSE,51
+ks,2015,3,Buprenorphine,TRUE,0
+ks,2015,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2015,3,Buprenorphine/Naloxone,FALSE,221
+ks,2015,3,Buprenorphine/Naloxone,TRUE,0
+ks,2015,4,Buprenorphine,FALSE,149
+ks,2015,4,Buprenorphine,TRUE,0
+ks,2015,4,Buprenorphine Hydrochloride,FALSE,14
+ks,2015,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2015,4,Buprenorphine/Naloxone,FALSE,337
+ks,2015,4,Buprenorphine/Naloxone,TRUE,0
+ks,2016,1,Buprenorphine,FALSE,211
+ks,2016,1,Buprenorphine,TRUE,0
+ks,2016,1,Buprenorphine Hydrochloride,FALSE,106
+ks,2016,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2016,1,Buprenorphine/Naloxone,FALSE,504
+ks,2016,1,Buprenorphine/Naloxone,TRUE,0
+ks,2016,2,Buprenorphine,FALSE,109
+ks,2016,2,Buprenorphine,TRUE,0
+ks,2016,2,Buprenorphine Hydrochloride,FALSE,15
+ks,2016,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2016,2,Buprenorphine/Naloxone,FALSE,153
+ks,2016,2,Buprenorphine/Naloxone,TRUE,0
+ks,2016,3,Buprenorphine,FALSE,243
+ks,2016,3,Buprenorphine,TRUE,0
+ks,2016,3,Buprenorphine Hydrochloride,FALSE,20
+ks,2016,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2016,3,Buprenorphine/Naloxone,FALSE,430
+ks,2016,3,Buprenorphine/Naloxone,TRUE,0
+ks,2016,4,Buprenorphine,FALSE,88
+ks,2016,4,Buprenorphine,TRUE,0
+ks,2016,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2016,4,Buprenorphine/Naloxone,FALSE,325
+ks,2016,4,Buprenorphine/Naloxone,TRUE,0
+ks,2017,1,Buprenorphine,FALSE,80
+ks,2017,1,Buprenorphine,TRUE,0
+ks,2017,1,Buprenorphine Hydrochloride,FALSE,37
+ks,2017,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2017,1,Buprenorphine/Naloxone,FALSE,476
+ks,2017,1,Buprenorphine/Naloxone,TRUE,0
+ks,2017,2,Buprenorphine,FALSE,303
+ks,2017,2,Buprenorphine,TRUE,0
+ks,2017,2,Buprenorphine Hydrochloride,FALSE,288
+ks,2017,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2017,2,Buprenorphine/Naloxone,FALSE,1041
+ks,2017,2,Buprenorphine/Naloxone,TRUE,0
+ks,2017,3,Buprenorphine,FALSE,30
+ks,2017,3,Buprenorphine,TRUE,0
+ks,2017,3,Buprenorphine Hydrochloride,FALSE,87
+ks,2017,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2017,3,Buprenorphine/Naloxone,FALSE,543
+ks,2017,3,Buprenorphine/Naloxone,TRUE,0
+ks,2017,4,Buprenorphine,FALSE,20
+ks,2017,4,Buprenorphine,TRUE,0
+ks,2017,4,Buprenorphine Hydrochloride,FALSE,85
+ks,2017,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2017,4,Buprenorphine/Naloxone,FALSE,543
+ks,2017,4,Buprenorphine/Naloxone,TRUE,0
+ks,2018,1,Buprenorphine,FALSE,52
+ks,2018,1,Buprenorphine,TRUE,0
+ks,2018,1,Buprenorphine Hydrochloride,FALSE,80
+ks,2018,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2018,1,Buprenorphine/Naloxone,FALSE,632
+ks,2018,1,Buprenorphine/Naloxone,TRUE,0
+ks,2018,2,Buprenorphine,FALSE,62
+ks,2018,2,Buprenorphine,TRUE,0
+ks,2018,2,Buprenorphine Hydrochloride,FALSE,88
+ks,2018,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2018,2,Buprenorphine/Naloxone,FALSE,690
+ks,2018,2,Buprenorphine/Naloxone,TRUE,0
+ks,2018,3,Buprenorphine,FALSE,48
+ks,2018,3,Buprenorphine,TRUE,0
+ks,2018,3,Buprenorphine Hydrochloride,FALSE,82
+ks,2018,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2018,3,Buprenorphine/Naloxone,FALSE,610
+ks,2018,3,Buprenorphine/Naloxone,TRUE,0
+ks,2018,4,Buprenorphine,FALSE,55
+ks,2018,4,Buprenorphine,TRUE,0
+ks,2018,4,Buprenorphine Hydrochloride,FALSE,108
+ks,2018,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2018,4,Buprenorphine/Naloxone,FALSE,638
+ks,2018,4,Buprenorphine/Naloxone,TRUE,0
+ks,2019,1,Buprenorphine,TRUE,0
+ks,2019,1,Buprenorphine Hydrochloride,FALSE,81
+ks,2019,1,Buprenorphine Hydrochloride,TRUE,0
+ks,2019,1,Buprenorphine/Naloxone,FALSE,650
+ks,2019,1,Buprenorphine/Naloxone,TRUE,0
+ks,2019,2,Buprenorphine,FALSE,12
+ks,2019,2,Buprenorphine,TRUE,0
+ks,2019,2,Buprenorphine Hydrochloride,FALSE,127
+ks,2019,2,Buprenorphine Hydrochloride,TRUE,0
+ks,2019,2,Buprenorphine/Naloxone,FALSE,598
+ks,2019,2,Buprenorphine/Naloxone,TRUE,0
+ks,2019,3,Buprenorphine,TRUE,0
+ks,2019,3,Buprenorphine Hydrochloride,FALSE,91
+ks,2019,3,Buprenorphine Hydrochloride,TRUE,0
+ks,2019,3,Buprenorphine/Naloxone,FALSE,687
+ks,2019,3,Buprenorphine/Naloxone,TRUE,0
+ks,2019,4,Buprenorphine,TRUE,0
+ks,2019,4,Buprenorphine Hydrochloride,FALSE,72
+ks,2019,4,Buprenorphine Hydrochloride,TRUE,0
+ks,2019,4,Buprenorphine/Naloxone,FALSE,612
+ks,2019,4,Buprenorphine/Naloxone,TRUE,0
+ks,2020,1,Buprenorphine,NA,0
+ks,2020,1,Buprenorphine Hydrochloride,NA,53
+ks,2020,1,Buprenorphine/Naloxone,NA,776
+la,2010,1,Buprenorphine Hydrochloride,FALSE,71
+la,2010,1,Buprenorphine Hydrochloride,TRUE,0
+la,2010,1,Buprenorphine/Naloxone,FALSE,1967
+la,2010,2,Buprenorphine Hydrochloride,FALSE,142
+la,2010,2,Buprenorphine Hydrochloride,TRUE,0
+la,2010,2,Buprenorphine/Naloxone,FALSE,2206
+la,2010,3,Buprenorphine Hydrochloride,FALSE,173
+la,2010,3,Buprenorphine Hydrochloride,TRUE,0
+la,2010,3,Buprenorphine/Naloxone,FALSE,2418
+la,2010,4,Buprenorphine Hydrochloride,FALSE,212
+la,2010,4,Buprenorphine Hydrochloride,TRUE,0
+la,2010,4,Buprenorphine/Naloxone,FALSE,2591
+la,2011,1,Buprenorphine Hydrochloride,FALSE,180
+la,2011,1,Buprenorphine Hydrochloride,TRUE,0
+la,2011,1,Buprenorphine/Naloxone,FALSE,2905
+la,2011,1,Buprenorphine/Naloxone,TRUE,0
+la,2011,2,Buprenorphine,FALSE,148
+la,2011,2,Buprenorphine Hydrochloride,FALSE,199
+la,2011,2,Buprenorphine Hydrochloride,TRUE,0
+la,2011,2,Buprenorphine/Naloxone,FALSE,2999
+la,2011,2,Buprenorphine/Naloxone,TRUE,0
+la,2011,3,Buprenorphine,FALSE,278
+la,2011,3,Buprenorphine Hydrochloride,FALSE,166
+la,2011,3,Buprenorphine Hydrochloride,TRUE,0
+la,2011,3,Buprenorphine/Naloxone,FALSE,3313
+la,2011,4,Buprenorphine,FALSE,213
+la,2011,4,Buprenorphine Hydrochloride,FALSE,197
+la,2011,4,Buprenorphine Hydrochloride,TRUE,0
+la,2011,4,Buprenorphine/Naloxone,FALSE,3492
+la,2012,1,Buprenorphine,FALSE,162
+la,2012,1,Buprenorphine Hydrochloride,FALSE,217
+la,2012,1,Buprenorphine Hydrochloride,TRUE,0
+la,2012,1,Buprenorphine/Naloxone,FALSE,3364
+la,2012,1,Buprenorphine/Naloxone,TRUE,0
+la,2012,2,Buprenorphine,FALSE,195
+la,2012,2,Buprenorphine Hydrochloride,FALSE,240
+la,2012,2,Buprenorphine Hydrochloride,TRUE,0
+la,2012,2,Buprenorphine/Naloxone,FALSE,3748
+la,2012,3,Buprenorphine,FALSE,273
+la,2012,3,Buprenorphine Hydrochloride,FALSE,376
+la,2012,3,Buprenorphine Hydrochloride,TRUE,0
+la,2012,3,Buprenorphine/Naloxone,FALSE,5282
+la,2012,4,Buprenorphine,FALSE,188
+la,2012,4,Buprenorphine,TRUE,0
+la,2012,4,Buprenorphine Hydrochloride,FALSE,298
+la,2012,4,Buprenorphine Hydrochloride,TRUE,0
+la,2012,4,Buprenorphine/Naloxone,FALSE,4624
+la,2012,4,Buprenorphine/Naloxone,TRUE,0
+la,2013,1,Buprenorphine,FALSE,84
+la,2013,1,Buprenorphine,TRUE,0
+la,2013,1,Buprenorphine Hydrochloride,FALSE,323
+la,2013,1,Buprenorphine Hydrochloride,TRUE,0
+la,2013,1,Buprenorphine/Naloxone,FALSE,5105
+la,2013,1,Buprenorphine/Naloxone,TRUE,0
+la,2013,2,Buprenorphine,FALSE,102
+la,2013,2,Buprenorphine,TRUE,0
+la,2013,2,Buprenorphine Hydrochloride,FALSE,251
+la,2013,2,Buprenorphine Hydrochloride,TRUE,0
+la,2013,2,Buprenorphine/Naloxone,FALSE,5050
+la,2013,2,Buprenorphine/Naloxone,TRUE,0
+la,2013,3,Buprenorphine,FALSE,88
+la,2013,3,Buprenorphine,TRUE,0
+la,2013,3,Buprenorphine Hydrochloride,FALSE,322
+la,2013,3,Buprenorphine Hydrochloride,TRUE,0
+la,2013,3,Buprenorphine/Naloxone,FALSE,5544
+la,2013,3,Buprenorphine/Naloxone,TRUE,0
+la,2013,4,Buprenorphine,FALSE,86
+la,2013,4,Buprenorphine,TRUE,0
+la,2013,4,Buprenorphine Hydrochloride,FALSE,330
+la,2013,4,Buprenorphine Hydrochloride,TRUE,0
+la,2013,4,Buprenorphine/Naloxone,FALSE,4886
+la,2013,4,Buprenorphine/Naloxone,TRUE,0
+la,2014,1,Buprenorphine,FALSE,60
+la,2014,1,Buprenorphine,TRUE,0
+la,2014,1,Buprenorphine Hydrochloride,FALSE,324
+la,2014,1,Buprenorphine Hydrochloride,TRUE,0
+la,2014,1,Buprenorphine/Naloxone,FALSE,4695
+la,2014,1,Buprenorphine/Naloxone,TRUE,0
+la,2014,2,Buprenorphine,FALSE,54
+la,2014,2,Buprenorphine,TRUE,0
+la,2014,2,Buprenorphine Hydrochloride,FALSE,371
+la,2014,2,Buprenorphine Hydrochloride,TRUE,0
+la,2014,2,Buprenorphine/Naloxone,FALSE,4948
+la,2014,2,Buprenorphine/Naloxone,TRUE,0
+la,2014,3,Buprenorphine,FALSE,75
+la,2014,3,Buprenorphine,TRUE,0
+la,2014,3,Buprenorphine Hydrochloride,FALSE,375
+la,2014,3,Buprenorphine Hydrochloride,TRUE,0
+la,2014,3,Buprenorphine/Naloxone,FALSE,5322
+la,2014,3,Buprenorphine/Naloxone,TRUE,0
+la,2014,4,Buprenorphine,TRUE,0
+la,2014,4,Buprenorphine Hydrochloride,FALSE,257
+la,2014,4,Buprenorphine Hydrochloride,TRUE,0
+la,2014,4,Buprenorphine/Naloxone,FALSE,2814
+la,2014,4,Buprenorphine/Naloxone,TRUE,0
+la,2015,1,Buprenorphine,FALSE,97
+la,2015,1,Buprenorphine,TRUE,0
+la,2015,1,Buprenorphine Hydrochloride,FALSE,639
+la,2015,1,Buprenorphine Hydrochloride,TRUE,0
+la,2015,1,Buprenorphine/Naloxone,FALSE,8138
+la,2015,1,Buprenorphine/Naloxone,TRUE,0
+la,2015,2,Buprenorphine,FALSE,57
+la,2015,2,Buprenorphine,TRUE,0
+la,2015,2,Buprenorphine Hydrochloride,FALSE,562
+la,2015,2,Buprenorphine Hydrochloride,TRUE,0
+la,2015,2,Buprenorphine/Naloxone,FALSE,7049
+la,2015,2,Buprenorphine/Naloxone,TRUE,0
+la,2015,3,Buprenorphine,TRUE,0
+la,2015,3,Buprenorphine Hydrochloride,FALSE,583
+la,2015,3,Buprenorphine Hydrochloride,TRUE,0
+la,2015,3,Buprenorphine/Naloxone,FALSE,6486
+la,2015,3,Buprenorphine/Naloxone,TRUE,0
+la,2015,4,Buprenorphine,FALSE,14
+la,2015,4,Buprenorphine,TRUE,0
+la,2015,4,Buprenorphine Hydrochloride,FALSE,696
+la,2015,4,Buprenorphine Hydrochloride,TRUE,0
+la,2015,4,Buprenorphine/Naloxone,FALSE,5966
+la,2015,4,Buprenorphine/Naloxone,TRUE,0
+la,2016,1,Buprenorphine,TRUE,0
+la,2016,1,Buprenorphine Hydrochloride,FALSE,713
+la,2016,1,Buprenorphine Hydrochloride,TRUE,0
+la,2016,1,Buprenorphine/Naloxone,FALSE,5974
+la,2016,1,Buprenorphine/Naloxone,TRUE,0
+la,2016,2,Buprenorphine,FALSE,13
+la,2016,2,Buprenorphine,TRUE,0
+la,2016,2,Buprenorphine Hydrochloride,FALSE,823
+la,2016,2,Buprenorphine Hydrochloride,TRUE,0
+la,2016,2,Buprenorphine/Naloxone,FALSE,6394
+la,2016,2,Buprenorphine/Naloxone,TRUE,0
+la,2016,3,Buprenorphine,FALSE,45
+la,2016,3,Buprenorphine,TRUE,0
+la,2016,3,Buprenorphine Hydrochloride,FALSE,1537
+la,2016,3,Buprenorphine Hydrochloride,TRUE,0
+la,2016,3,Buprenorphine/Naloxone,FALSE,9524
+la,2016,3,Buprenorphine/Naloxone,TRUE,0
+la,2016,4,Buprenorphine,FALSE,46
+la,2016,4,Buprenorphine,TRUE,0
+la,2016,4,Buprenorphine Hydrochloride,FALSE,1812
+la,2016,4,Buprenorphine Hydrochloride,TRUE,0
+la,2016,4,Buprenorphine/Naloxone,FALSE,11313
+la,2016,4,Buprenorphine/Naloxone,TRUE,0
+la,2017,1,Buprenorphine,FALSE,16
+la,2017,1,Buprenorphine,TRUE,0
+la,2017,1,Buprenorphine Hydrochloride,FALSE,1888
+la,2017,1,Buprenorphine Hydrochloride,TRUE,0
+la,2017,1,Buprenorphine/Naloxone,FALSE,12577
+la,2017,1,Buprenorphine/Naloxone,TRUE,0
+la,2017,2,Buprenorphine,FALSE,30
+la,2017,2,Buprenorphine,TRUE,0
+la,2017,2,Buprenorphine Hydrochloride,FALSE,2531
+la,2017,2,Buprenorphine Hydrochloride,TRUE,0
+la,2017,2,Buprenorphine/Naloxone,FALSE,15022
+la,2017,2,Buprenorphine/Naloxone,TRUE,0
+la,2017,3,Buprenorphine,TRUE,0
+la,2017,3,Buprenorphine Hydrochloride,FALSE,2466
+la,2017,3,Buprenorphine Hydrochloride,TRUE,0
+la,2017,3,Buprenorphine/Naloxone,FALSE,14321
+la,2017,3,Buprenorphine/Naloxone,TRUE,0
+la,2017,4,Buprenorphine,TRUE,0
+la,2017,4,Buprenorphine Hydrochloride,FALSE,2538
+la,2017,4,Buprenorphine Hydrochloride,TRUE,0
+la,2017,4,Buprenorphine/Naloxone,FALSE,15235
+la,2017,4,Buprenorphine/Naloxone,TRUE,0
+la,2018,1,Buprenorphine,FALSE,18
+la,2018,1,Buprenorphine,TRUE,0
+la,2018,1,Buprenorphine Hydrochloride,FALSE,2842
+la,2018,1,Buprenorphine Hydrochloride,TRUE,0
+la,2018,1,Buprenorphine/Naloxone,FALSE,15620
+la,2018,1,Buprenorphine/Naloxone,TRUE,0
+la,2018,2,Buprenorphine,FALSE,51
+la,2018,2,Buprenorphine,TRUE,0
+la,2018,2,Buprenorphine Hydrochloride,FALSE,3367
+la,2018,2,Buprenorphine Hydrochloride,TRUE,0
+la,2018,2,Buprenorphine/Naloxone,FALSE,17068
+la,2018,2,Buprenorphine/Naloxone,TRUE,0
+la,2018,3,Buprenorphine,FALSE,162
+la,2018,3,Buprenorphine,TRUE,0
+la,2018,3,Buprenorphine Hydrochloride,FALSE,3565
+la,2018,3,Buprenorphine Hydrochloride,TRUE,0
+la,2018,3,Buprenorphine/Naloxone,FALSE,17610
+la,2018,3,Buprenorphine/Naloxone,TRUE,0
+la,2018,4,Buprenorphine,FALSE,385
+la,2018,4,Buprenorphine,TRUE,0
+la,2018,4,Buprenorphine Hydrochloride,FALSE,3855
+la,2018,4,Buprenorphine Hydrochloride,TRUE,0
+la,2018,4,Buprenorphine/Naloxone,FALSE,17880
+la,2018,4,Buprenorphine/Naloxone,TRUE,0
+la,2019,1,Buprenorphine,FALSE,478
+la,2019,1,Buprenorphine,TRUE,0
+la,2019,1,Buprenorphine Hydrochloride,FALSE,4154
+la,2019,1,Buprenorphine Hydrochloride,TRUE,0
+la,2019,1,Buprenorphine/Naloxone,FALSE,18217
+la,2019,1,Buprenorphine/Naloxone,TRUE,0
+la,2019,2,Buprenorphine,FALSE,537
+la,2019,2,Buprenorphine,TRUE,0
+la,2019,2,Buprenorphine Hydrochloride,FALSE,3958
+la,2019,2,Buprenorphine Hydrochloride,TRUE,0
+la,2019,2,Buprenorphine/Naloxone,FALSE,19039
+la,2019,2,Buprenorphine/Naloxone,TRUE,0
+la,2019,3,Buprenorphine,FALSE,638
+la,2019,3,Buprenorphine,TRUE,0
+la,2019,3,Buprenorphine Hydrochloride,FALSE,3963
+la,2019,3,Buprenorphine Hydrochloride,TRUE,0
+la,2019,3,Buprenorphine/Naloxone,FALSE,20416
+la,2019,3,Buprenorphine/Naloxone,TRUE,0
+la,2019,4,Buprenorphine,FALSE,731
+la,2019,4,Buprenorphine,TRUE,0
+la,2019,4,Buprenorphine Hydrochloride,FALSE,4246
+la,2019,4,Buprenorphine Hydrochloride,TRUE,0
+la,2019,4,Buprenorphine/Naloxone,FALSE,21369
+la,2019,4,Buprenorphine/Naloxone,TRUE,0
+la,2020,1,Buprenorphine,NA,468
+la,2020,1,Buprenorphine Hydrochloride,NA,4501
+la,2020,1,Buprenorphine/Naloxone,NA,23691
+ms,2010,1,Buprenorphine Hydrochloride,FALSE,26
+ms,2010,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2010,1,Buprenorphine/Naloxone,FALSE,676
+ms,2010,1,Buprenorphine/Naloxone,TRUE,0
+ms,2010,2,Buprenorphine Hydrochloride,FALSE,25
+ms,2010,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2010,2,Buprenorphine/Naloxone,FALSE,697
+ms,2010,2,Buprenorphine/Naloxone,TRUE,0
+ms,2010,3,Buprenorphine Hydrochloride,FALSE,43
+ms,2010,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2010,3,Buprenorphine/Naloxone,FALSE,789
+ms,2010,3,Buprenorphine/Naloxone,TRUE,0
+ms,2010,4,Buprenorphine Hydrochloride,FALSE,49
+ms,2010,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2010,4,Buprenorphine/Naloxone,FALSE,908
+ms,2010,4,Buprenorphine/Naloxone,TRUE,0
+ms,2011,1,Buprenorphine Hydrochloride,FALSE,29
+ms,2011,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2011,1,Buprenorphine/Naloxone,FALSE,740
+ms,2011,1,Buprenorphine/Naloxone,TRUE,0
+ms,2011,2,Buprenorphine Hydrochloride,FALSE,34
+ms,2011,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2011,2,Buprenorphine/Naloxone,FALSE,822
+ms,2011,2,Buprenorphine/Naloxone,TRUE,0
+ms,2011,3,Buprenorphine,TRUE,0
+ms,2011,3,Buprenorphine Hydrochloride,FALSE,26
+ms,2011,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2011,3,Buprenorphine/Naloxone,FALSE,1253
+ms,2011,3,Buprenorphine/Naloxone,TRUE,0
+ms,2011,4,Buprenorphine,TRUE,0
+ms,2011,4,Buprenorphine Hydrochloride,FALSE,37
+ms,2011,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2011,4,Buprenorphine/Naloxone,FALSE,807
+ms,2011,4,Buprenorphine/Naloxone,TRUE,0
+ms,2012,1,Buprenorphine,TRUE,0
+ms,2012,1,Buprenorphine Hydrochloride,FALSE,35
+ms,2012,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2012,1,Buprenorphine/Naloxone,FALSE,1017
+ms,2012,1,Buprenorphine/Naloxone,TRUE,0
+ms,2012,2,Buprenorphine,TRUE,0
+ms,2012,2,Buprenorphine Hydrochloride,FALSE,31
+ms,2012,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2012,2,Buprenorphine/Naloxone,FALSE,1032
+ms,2012,2,Buprenorphine/Naloxone,TRUE,0
+ms,2012,3,Buprenorphine,TRUE,0
+ms,2012,3,Buprenorphine Hydrochloride,FALSE,42
+ms,2012,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2012,3,Buprenorphine/Naloxone,FALSE,1135
+ms,2012,3,Buprenorphine/Naloxone,TRUE,0
+ms,2012,4,Buprenorphine,TRUE,0
+ms,2012,4,Buprenorphine Hydrochloride,FALSE,69
+ms,2012,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2012,4,Buprenorphine/Naloxone,FALSE,1580
+ms,2012,4,Buprenorphine/Naloxone,TRUE,0
+ms,2013,1,Buprenorphine,TRUE,0
+ms,2013,1,Buprenorphine Hydrochloride,FALSE,76
+ms,2013,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2013,1,Buprenorphine/Naloxone,FALSE,1579
+ms,2013,1,Buprenorphine/Naloxone,TRUE,0
+ms,2013,2,Buprenorphine Hydrochloride,FALSE,19
+ms,2013,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2013,2,Buprenorphine/Naloxone,FALSE,1580
+ms,2013,2,Buprenorphine/Naloxone,TRUE,0
+ms,2013,3,Buprenorphine Hydrochloride,FALSE,51
+ms,2013,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2013,3,Buprenorphine/Naloxone,FALSE,1631
+ms,2013,3,Buprenorphine/Naloxone,TRUE,0
+ms,2013,4,Buprenorphine,TRUE,0
+ms,2013,4,Buprenorphine Hydrochloride,FALSE,116
+ms,2013,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2013,4,Buprenorphine/Naloxone,FALSE,1528
+ms,2013,4,Buprenorphine/Naloxone,TRUE,0
+ms,2014,1,Buprenorphine,TRUE,0
+ms,2014,1,Buprenorphine Hydrochloride,FALSE,109
+ms,2014,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2014,1,Buprenorphine/Naloxone,FALSE,1353
+ms,2014,1,Buprenorphine/Naloxone,TRUE,0
+ms,2014,2,Buprenorphine,TRUE,0
+ms,2014,2,Buprenorphine Hydrochloride,FALSE,113
+ms,2014,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2014,2,Buprenorphine/Naloxone,FALSE,1510
+ms,2014,2,Buprenorphine/Naloxone,TRUE,0
+ms,2014,3,Buprenorphine,TRUE,0
+ms,2014,3,Buprenorphine Hydrochloride,FALSE,131
+ms,2014,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2014,3,Buprenorphine/Naloxone,FALSE,1397
+ms,2014,3,Buprenorphine/Naloxone,TRUE,0
+ms,2014,4,Buprenorphine,TRUE,0
+ms,2014,4,Buprenorphine Hydrochloride,FALSE,157
+ms,2014,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2014,4,Buprenorphine/Naloxone,FALSE,1660
+ms,2014,4,Buprenorphine/Naloxone,TRUE,0
+ms,2015,1,Buprenorphine,TRUE,0
+ms,2015,1,Buprenorphine Hydrochloride,FALSE,181
+ms,2015,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2015,1,Buprenorphine/Naloxone,FALSE,1688
+ms,2015,1,Buprenorphine/Naloxone,TRUE,0
+ms,2015,2,Buprenorphine,TRUE,0
+ms,2015,2,Buprenorphine Hydrochloride,FALSE,154
+ms,2015,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2015,2,Buprenorphine/Naloxone,FALSE,1645
+ms,2015,2,Buprenorphine/Naloxone,TRUE,0
+ms,2015,3,Buprenorphine,TRUE,0
+ms,2015,3,Buprenorphine Hydrochloride,FALSE,168
+ms,2015,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2015,3,Buprenorphine/Naloxone,FALSE,1671
+ms,2015,3,Buprenorphine/Naloxone,TRUE,0
+ms,2015,4,Buprenorphine,TRUE,0
+ms,2015,4,Buprenorphine Hydrochloride,FALSE,142
+ms,2015,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2015,4,Buprenorphine/Naloxone,FALSE,1695
+ms,2015,4,Buprenorphine/Naloxone,TRUE,0
+ms,2016,1,Buprenorphine,FALSE,219
+ms,2016,1,Buprenorphine,TRUE,0
+ms,2016,1,Buprenorphine Hydrochloride,FALSE,150
+ms,2016,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2016,1,Buprenorphine/Naloxone,FALSE,1703
+ms,2016,1,Buprenorphine/Naloxone,TRUE,0
+ms,2016,2,Buprenorphine,FALSE,293
+ms,2016,2,Buprenorphine,TRUE,0
+ms,2016,2,Buprenorphine Hydrochloride,FALSE,189
+ms,2016,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2016,2,Buprenorphine/Naloxone,FALSE,1700
+ms,2016,2,Buprenorphine/Naloxone,TRUE,0
+ms,2016,3,Buprenorphine,FALSE,364
+ms,2016,3,Buprenorphine,TRUE,0
+ms,2016,3,Buprenorphine Hydrochloride,FALSE,204
+ms,2016,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2016,3,Buprenorphine/Naloxone,FALSE,1777
+ms,2016,3,Buprenorphine/Naloxone,TRUE,0
+ms,2016,4,Buprenorphine,FALSE,420
+ms,2016,4,Buprenorphine,TRUE,0
+ms,2016,4,Buprenorphine Hydrochloride,FALSE,186
+ms,2016,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2016,4,Buprenorphine/Naloxone,FALSE,1988
+ms,2016,4,Buprenorphine/Naloxone,TRUE,0
+ms,2017,1,Buprenorphine,FALSE,449
+ms,2017,1,Buprenorphine,TRUE,0
+ms,2017,1,Buprenorphine Hydrochloride,FALSE,201
+ms,2017,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2017,1,Buprenorphine/Naloxone,FALSE,1990
+ms,2017,1,Buprenorphine/Naloxone,TRUE,0
+ms,2017,2,Buprenorphine,FALSE,514
+ms,2017,2,Buprenorphine,TRUE,0
+ms,2017,2,Buprenorphine Hydrochloride,FALSE,268
+ms,2017,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2017,2,Buprenorphine/Naloxone,FALSE,2228
+ms,2017,2,Buprenorphine/Naloxone,TRUE,0
+ms,2017,3,Buprenorphine,FALSE,464
+ms,2017,3,Buprenorphine,TRUE,0
+ms,2017,3,Buprenorphine Hydrochloride,FALSE,208
+ms,2017,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2017,3,Buprenorphine/Naloxone,FALSE,2206
+ms,2017,3,Buprenorphine/Naloxone,TRUE,0
+ms,2017,4,Buprenorphine,FALSE,393
+ms,2017,4,Buprenorphine,TRUE,0
+ms,2017,4,Buprenorphine Hydrochloride,FALSE,203
+ms,2017,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2017,4,Buprenorphine/Naloxone,FALSE,2280
+ms,2017,4,Buprenorphine/Naloxone,TRUE,0
+ms,2018,1,Buprenorphine,FALSE,114
+ms,2018,1,Buprenorphine,TRUE,0
+ms,2018,1,Buprenorphine Hydrochloride,FALSE,191
+ms,2018,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2018,1,Buprenorphine/Naloxone,FALSE,2430
+ms,2018,1,Buprenorphine/Naloxone,TRUE,0
+ms,2018,2,Buprenorphine,FALSE,80
+ms,2018,2,Buprenorphine,TRUE,0
+ms,2018,2,Buprenorphine Hydrochloride,FALSE,186
+ms,2018,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2018,2,Buprenorphine/Naloxone,FALSE,2696
+ms,2018,2,Buprenorphine/Naloxone,TRUE,0
+ms,2018,3,Buprenorphine,FALSE,48
+ms,2018,3,Buprenorphine,TRUE,0
+ms,2018,3,Buprenorphine Hydrochloride,FALSE,163
+ms,2018,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2018,3,Buprenorphine/Naloxone,FALSE,2796
+ms,2018,3,Buprenorphine/Naloxone,TRUE,0
+ms,2018,4,Buprenorphine,FALSE,33
+ms,2018,4,Buprenorphine,TRUE,0
+ms,2018,4,Buprenorphine Hydrochloride,FALSE,181
+ms,2018,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2018,4,Buprenorphine/Naloxone,FALSE,2894
+ms,2018,4,Buprenorphine/Naloxone,TRUE,0
+ms,2019,1,Buprenorphine,FALSE,13
+ms,2019,1,Buprenorphine,TRUE,0
+ms,2019,1,Buprenorphine Hydrochloride,FALSE,185
+ms,2019,1,Buprenorphine Hydrochloride,TRUE,0
+ms,2019,1,Buprenorphine/Naloxone,FALSE,2961
+ms,2019,1,Buprenorphine/Naloxone,TRUE,0
+ms,2019,2,Buprenorphine,TRUE,0
+ms,2019,2,Buprenorphine Hydrochloride,FALSE,235
+ms,2019,2,Buprenorphine Hydrochloride,TRUE,0
+ms,2019,2,Buprenorphine/Naloxone,FALSE,3268
+ms,2019,2,Buprenorphine/Naloxone,TRUE,0
+ms,2019,3,Buprenorphine,TRUE,0
+ms,2019,3,Buprenorphine Hydrochloride,FALSE,244
+ms,2019,3,Buprenorphine Hydrochloride,TRUE,0
+ms,2019,3,Buprenorphine/Naloxone,FALSE,3394
+ms,2019,3,Buprenorphine/Naloxone,TRUE,0
+ms,2019,4,Buprenorphine,TRUE,0
+ms,2019,4,Buprenorphine Hydrochloride,FALSE,251
+ms,2019,4,Buprenorphine Hydrochloride,TRUE,0
+ms,2019,4,Buprenorphine/Naloxone,FALSE,3467
+ms,2019,4,Buprenorphine/Naloxone,TRUE,0
+ms,2020,1,Buprenorphine,NA,0
+ms,2020,1,Buprenorphine Hydrochloride,NA,225
+ms,2020,1,Buprenorphine/Naloxone,NA,3444
+mt,2010,1,Buprenorphine Hydrochloride,FALSE,54
+mt,2010,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2010,1,Buprenorphine/Naloxone,FALSE,452
+mt,2010,2,Buprenorphine Hydrochloride,FALSE,64
+mt,2010,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2010,2,Buprenorphine/Naloxone,FALSE,364
+mt,2010,3,Buprenorphine Hydrochloride,FALSE,48
+mt,2010,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2010,3,Buprenorphine/Naloxone,FALSE,342
+mt,2010,4,Buprenorphine Hydrochloride,FALSE,60
+mt,2010,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2010,4,Buprenorphine/Naloxone,FALSE,253
+mt,2010,4,Buprenorphine/Naloxone,TRUE,0
+mt,2011,1,Buprenorphine,TRUE,0
+mt,2011,1,Buprenorphine Hydrochloride,FALSE,47
+mt,2011,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2011,1,Buprenorphine/Naloxone,FALSE,258
+mt,2011,2,Buprenorphine,TRUE,0
+mt,2011,2,Buprenorphine Hydrochloride,FALSE,26
+mt,2011,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2011,2,Buprenorphine/Naloxone,FALSE,263
+mt,2011,3,Buprenorphine,TRUE,0
+mt,2011,3,Buprenorphine Hydrochloride,FALSE,19
+mt,2011,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2011,3,Buprenorphine/Naloxone,FALSE,263
+mt,2011,3,Buprenorphine/Naloxone,TRUE,0
+mt,2011,4,Buprenorphine,TRUE,0
+mt,2011,4,Buprenorphine Hydrochloride,FALSE,30
+mt,2011,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2011,4,Buprenorphine/Naloxone,FALSE,283
+mt,2011,4,Buprenorphine/Naloxone,TRUE,0
+mt,2012,1,Buprenorphine,FALSE,13
+mt,2012,1,Buprenorphine,TRUE,0
+mt,2012,1,Buprenorphine Hydrochloride,FALSE,23
+mt,2012,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2012,1,Buprenorphine/Naloxone,FALSE,343
+mt,2012,1,Buprenorphine/Naloxone,TRUE,0
+mt,2012,2,Buprenorphine,TRUE,0
+mt,2012,2,Buprenorphine Hydrochloride,FALSE,36
+mt,2012,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2012,2,Buprenorphine/Naloxone,FALSE,441
+mt,2012,3,Buprenorphine,TRUE,0
+mt,2012,3,Buprenorphine Hydrochloride,FALSE,39
+mt,2012,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2012,3,Buprenorphine/Naloxone,FALSE,405
+mt,2012,3,Buprenorphine/Naloxone,TRUE,0
+mt,2012,4,Buprenorphine,FALSE,12
+mt,2012,4,Buprenorphine,TRUE,0
+mt,2012,4,Buprenorphine Hydrochloride,FALSE,41
+mt,2012,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2012,4,Buprenorphine/Naloxone,FALSE,491
+mt,2013,1,Buprenorphine,FALSE,26
+mt,2013,1,Buprenorphine,TRUE,0
+mt,2013,1,Buprenorphine Hydrochloride,FALSE,59
+mt,2013,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2013,1,Buprenorphine/Naloxone,FALSE,431
+mt,2013,1,Buprenorphine/Naloxone,TRUE,0
+mt,2013,2,Buprenorphine,FALSE,22
+mt,2013,2,Buprenorphine,TRUE,0
+mt,2013,2,Buprenorphine Hydrochloride,FALSE,42
+mt,2013,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2013,2,Buprenorphine/Naloxone,FALSE,474
+mt,2013,2,Buprenorphine/Naloxone,TRUE,0
+mt,2013,3,Buprenorphine,FALSE,30
+mt,2013,3,Buprenorphine,TRUE,0
+mt,2013,3,Buprenorphine Hydrochloride,FALSE,39
+mt,2013,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2013,3,Buprenorphine/Naloxone,FALSE,438
+mt,2013,3,Buprenorphine/Naloxone,TRUE,0
+mt,2013,4,Buprenorphine,FALSE,38
+mt,2013,4,Buprenorphine,TRUE,0
+mt,2013,4,Buprenorphine Hydrochloride,FALSE,34
+mt,2013,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2013,4,Buprenorphine/Naloxone,FALSE,388
+mt,2013,4,Buprenorphine/Naloxone,TRUE,0
+mt,2014,1,Buprenorphine,FALSE,43
+mt,2014,1,Buprenorphine,TRUE,0
+mt,2014,1,Buprenorphine Hydrochloride,FALSE,71
+mt,2014,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2014,1,Buprenorphine/Naloxone,FALSE,332
+mt,2014,1,Buprenorphine/Naloxone,TRUE,0
+mt,2014,2,Buprenorphine,FALSE,25
+mt,2014,2,Buprenorphine,TRUE,0
+mt,2014,2,Buprenorphine Hydrochloride,FALSE,50
+mt,2014,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2014,2,Buprenorphine/Naloxone,FALSE,318
+mt,2014,2,Buprenorphine/Naloxone,TRUE,0
+mt,2014,3,Buprenorphine,FALSE,46
+mt,2014,3,Buprenorphine,TRUE,0
+mt,2014,3,Buprenorphine Hydrochloride,FALSE,76
+mt,2014,3,Buprenorphine/Naloxone,FALSE,268
+mt,2014,3,Buprenorphine/Naloxone,TRUE,0
+mt,2014,4,Buprenorphine,FALSE,36
+mt,2014,4,Buprenorphine,TRUE,0
+mt,2014,4,Buprenorphine Hydrochloride,FALSE,70
+mt,2014,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2014,4,Buprenorphine/Naloxone,FALSE,303
+mt,2014,4,Buprenorphine/Naloxone,TRUE,0
+mt,2015,1,Buprenorphine,FALSE,27
+mt,2015,1,Buprenorphine,TRUE,0
+mt,2015,1,Buprenorphine Hydrochloride,FALSE,60
+mt,2015,1,Buprenorphine/Naloxone,FALSE,270
+mt,2015,1,Buprenorphine/Naloxone,TRUE,0
+mt,2015,2,Buprenorphine,FALSE,55
+mt,2015,2,Buprenorphine,TRUE,0
+mt,2015,2,Buprenorphine Hydrochloride,FALSE,36
+mt,2015,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2015,2,Buprenorphine/Naloxone,FALSE,256
+mt,2015,2,Buprenorphine/Naloxone,TRUE,0
+mt,2015,3,Buprenorphine,FALSE,56
+mt,2015,3,Buprenorphine,TRUE,0
+mt,2015,3,Buprenorphine Hydrochloride,FALSE,54
+mt,2015,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2015,3,Buprenorphine/Naloxone,FALSE,228
+mt,2015,3,Buprenorphine/Naloxone,TRUE,0
+mt,2015,4,Buprenorphine,FALSE,72
+mt,2015,4,Buprenorphine,TRUE,0
+mt,2015,4,Buprenorphine Hydrochloride,FALSE,25
+mt,2015,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2015,4,Buprenorphine/Naloxone,FALSE,259
+mt,2015,4,Buprenorphine/Naloxone,TRUE,0
+mt,2016,1,Buprenorphine,FALSE,93
+mt,2016,1,Buprenorphine,TRUE,0
+mt,2016,1,Buprenorphine Hydrochloride,FALSE,41
+mt,2016,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2016,1,Buprenorphine/Naloxone,FALSE,401
+mt,2016,1,Buprenorphine/Naloxone,TRUE,0
+mt,2016,2,Buprenorphine,FALSE,143
+mt,2016,2,Buprenorphine,TRUE,0
+mt,2016,2,Buprenorphine Hydrochloride,FALSE,240
+mt,2016,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2016,2,Buprenorphine/Naloxone,FALSE,1481
+mt,2016,2,Buprenorphine/Naloxone,TRUE,0
+mt,2016,3,Buprenorphine,FALSE,151
+mt,2016,3,Buprenorphine,TRUE,0
+mt,2016,3,Buprenorphine Hydrochloride,FALSE,280
+mt,2016,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2016,3,Buprenorphine/Naloxone,FALSE,2360
+mt,2016,3,Buprenorphine/Naloxone,TRUE,0
+mt,2016,4,Buprenorphine,FALSE,147
+mt,2016,4,Buprenorphine,TRUE,0
+mt,2016,4,Buprenorphine Hydrochloride,FALSE,478
+mt,2016,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2016,4,Buprenorphine/Naloxone,FALSE,4987
+mt,2016,4,Buprenorphine/Naloxone,TRUE,0
+mt,2017,1,Buprenorphine,FALSE,149
+mt,2017,1,Buprenorphine,TRUE,0
+mt,2017,1,Buprenorphine Hydrochloride,FALSE,510
+mt,2017,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2017,1,Buprenorphine/Naloxone,FALSE,5256
+mt,2017,1,Buprenorphine/Naloxone,TRUE,0
+mt,2017,2,Buprenorphine,FALSE,170
+mt,2017,2,Buprenorphine,TRUE,0
+mt,2017,2,Buprenorphine Hydrochloride,FALSE,686
+mt,2017,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2017,2,Buprenorphine/Naloxone,FALSE,7197
+mt,2017,2,Buprenorphine/Naloxone,TRUE,0
+mt,2017,3,Buprenorphine,FALSE,128
+mt,2017,3,Buprenorphine,TRUE,0
+mt,2017,3,Buprenorphine Hydrochloride,FALSE,682
+mt,2017,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2017,3,Buprenorphine/Naloxone,FALSE,8284
+mt,2017,3,Buprenorphine/Naloxone,TRUE,0
+mt,2017,4,Buprenorphine,FALSE,142
+mt,2017,4,Buprenorphine,TRUE,0
+mt,2017,4,Buprenorphine Hydrochloride,FALSE,831
+mt,2017,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2017,4,Buprenorphine/Naloxone,FALSE,10298
+mt,2017,4,Buprenorphine/Naloxone,TRUE,0
+mt,2018,1,Buprenorphine,FALSE,117
+mt,2018,1,Buprenorphine,TRUE,0
+mt,2018,1,Buprenorphine Hydrochloride,FALSE,854
+mt,2018,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2018,1,Buprenorphine/Naloxone,FALSE,14179
+mt,2018,1,Buprenorphine/Naloxone,TRUE,0
+mt,2018,2,Buprenorphine,FALSE,111
+mt,2018,2,Buprenorphine,TRUE,0
+mt,2018,2,Buprenorphine Hydrochloride,FALSE,1473
+mt,2018,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2018,2,Buprenorphine/Naloxone,FALSE,22011
+mt,2018,2,Buprenorphine/Naloxone,TRUE,0
+mt,2018,3,Buprenorphine,FALSE,80
+mt,2018,3,Buprenorphine,TRUE,0
+mt,2018,3,Buprenorphine Hydrochloride,FALSE,1127
+mt,2018,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2018,3,Buprenorphine/Naloxone,FALSE,23351
+mt,2018,3,Buprenorphine/Naloxone,TRUE,0
+mt,2018,4,Buprenorphine,FALSE,134
+mt,2018,4,Buprenorphine,TRUE,0
+mt,2018,4,Buprenorphine Hydrochloride,FALSE,1087
+mt,2018,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2018,4,Buprenorphine/Naloxone,FALSE,18537
+mt,2018,4,Buprenorphine/Naloxone,TRUE,0
+mt,2019,1,Buprenorphine,FALSE,175
+mt,2019,1,Buprenorphine,TRUE,0
+mt,2019,1,Buprenorphine Hydrochloride,FALSE,1738
+mt,2019,1,Buprenorphine Hydrochloride,TRUE,0
+mt,2019,1,Buprenorphine/Naloxone,FALSE,26535
+mt,2019,1,Buprenorphine/Naloxone,TRUE,0
+mt,2019,2,Buprenorphine,FALSE,182
+mt,2019,2,Buprenorphine,TRUE,0
+mt,2019,2,Buprenorphine Hydrochloride,FALSE,1525
+mt,2019,2,Buprenorphine Hydrochloride,TRUE,0
+mt,2019,2,Buprenorphine/Naloxone,FALSE,26261
+mt,2019,2,Buprenorphine/Naloxone,TRUE,0
+mt,2019,3,Buprenorphine,FALSE,249
+mt,2019,3,Buprenorphine,TRUE,0
+mt,2019,3,Buprenorphine Hydrochloride,FALSE,1579
+mt,2019,3,Buprenorphine Hydrochloride,TRUE,0
+mt,2019,3,Buprenorphine/Naloxone,FALSE,28600
+mt,2019,3,Buprenorphine/Naloxone,TRUE,0
+mt,2019,4,Buprenorphine,FALSE,303
+mt,2019,4,Buprenorphine,TRUE,0
+mt,2019,4,Buprenorphine Hydrochloride,FALSE,1733
+mt,2019,4,Buprenorphine Hydrochloride,TRUE,0
+mt,2019,4,Buprenorphine/Naloxone,FALSE,28435
+mt,2019,4,Buprenorphine/Naloxone,TRUE,0
+mt,2020,1,Buprenorphine,NA,313
+mt,2020,1,Buprenorphine Hydrochloride,NA,1251
+mt,2020,1,Buprenorphine/Naloxone,NA,24582
+nd,2010,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2010,1,Buprenorphine/Naloxone,FALSE,139
+nd,2010,1,Buprenorphine/Naloxone,TRUE,0
+nd,2010,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2010,2,Buprenorphine/Naloxone,FALSE,151
+nd,2010,2,Buprenorphine/Naloxone,TRUE,0
+nd,2010,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2010,3,Buprenorphine/Naloxone,FALSE,147
+nd,2010,3,Buprenorphine/Naloxone,TRUE,0
+nd,2010,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2010,4,Buprenorphine/Naloxone,FALSE,153
+nd,2010,4,Buprenorphine/Naloxone,TRUE,0
+nd,2011,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2011,1,Buprenorphine/Naloxone,FALSE,150
+nd,2011,1,Buprenorphine/Naloxone,TRUE,0
+nd,2011,2,Buprenorphine,TRUE,0
+nd,2011,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2011,2,Buprenorphine/Naloxone,FALSE,182
+nd,2011,2,Buprenorphine/Naloxone,TRUE,0
+nd,2011,3,Buprenorphine,TRUE,0
+nd,2011,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2011,3,Buprenorphine/Naloxone,FALSE,148
+nd,2011,3,Buprenorphine/Naloxone,TRUE,0
+nd,2011,4,Buprenorphine,TRUE,0
+nd,2011,4,Buprenorphine Hydrochloride,FALSE,30
+nd,2011,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2011,4,Buprenorphine/Naloxone,FALSE,147
+nd,2011,4,Buprenorphine/Naloxone,TRUE,0
+nd,2012,1,Buprenorphine,TRUE,0
+nd,2012,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2012,1,Buprenorphine/Naloxone,FALSE,140
+nd,2012,1,Buprenorphine/Naloxone,TRUE,0
+nd,2012,2,Buprenorphine,TRUE,0
+nd,2012,2,Buprenorphine Hydrochloride,FALSE,13
+nd,2012,2,Buprenorphine/Naloxone,FALSE,139
+nd,2012,2,Buprenorphine/Naloxone,TRUE,0
+nd,2012,3,Buprenorphine,TRUE,0
+nd,2012,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2012,3,Buprenorphine/Naloxone,FALSE,139
+nd,2012,3,Buprenorphine/Naloxone,TRUE,0
+nd,2012,4,Buprenorphine,TRUE,0
+nd,2012,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2012,4,Buprenorphine/Naloxone,FALSE,77
+nd,2012,4,Buprenorphine/Naloxone,TRUE,0
+nd,2013,1,Buprenorphine,FALSE,13
+nd,2013,1,Buprenorphine,TRUE,0
+nd,2013,1,Buprenorphine Hydrochloride,FALSE,19
+nd,2013,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2013,1,Buprenorphine/Naloxone,FALSE,114
+nd,2013,1,Buprenorphine/Naloxone,TRUE,0
+nd,2013,2,Buprenorphine,TRUE,0
+nd,2013,2,Buprenorphine Hydrochloride,FALSE,38
+nd,2013,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2013,2,Buprenorphine/Naloxone,FALSE,139
+nd,2013,3,Buprenorphine,TRUE,0
+nd,2013,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2013,3,Buprenorphine/Naloxone,FALSE,112
+nd,2013,3,Buprenorphine/Naloxone,TRUE,0
+nd,2013,4,Buprenorphine,TRUE,0
+nd,2013,4,Buprenorphine Hydrochloride,FALSE,24
+nd,2013,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2013,4,Buprenorphine/Naloxone,FALSE,105
+nd,2014,1,Buprenorphine,FALSE,16
+nd,2014,1,Buprenorphine,TRUE,0
+nd,2014,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2014,1,Buprenorphine/Naloxone,FALSE,98
+nd,2014,1,Buprenorphine/Naloxone,TRUE,0
+nd,2014,2,Buprenorphine,TRUE,0
+nd,2014,2,Buprenorphine Hydrochloride,FALSE,14
+nd,2014,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2014,2,Buprenorphine/Naloxone,FALSE,109
+nd,2014,2,Buprenorphine/Naloxone,TRUE,0
+nd,2014,3,Buprenorphine,TRUE,0
+nd,2014,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2014,3,Buprenorphine/Naloxone,FALSE,191
+nd,2014,3,Buprenorphine/Naloxone,TRUE,0
+nd,2014,4,Buprenorphine,TRUE,0
+nd,2014,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2014,4,Buprenorphine/Naloxone,FALSE,131
+nd,2014,4,Buprenorphine/Naloxone,TRUE,0
+nd,2015,1,Buprenorphine,TRUE,0
+nd,2015,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2015,1,Buprenorphine/Naloxone,FALSE,200
+nd,2015,1,Buprenorphine/Naloxone,TRUE,0
+nd,2015,2,Buprenorphine,TRUE,0
+nd,2015,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2015,2,Buprenorphine/Naloxone,FALSE,227
+nd,2015,2,Buprenorphine/Naloxone,TRUE,0
+nd,2015,3,Buprenorphine,TRUE,0
+nd,2015,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2015,3,Buprenorphine/Naloxone,FALSE,213
+nd,2015,3,Buprenorphine/Naloxone,TRUE,0
+nd,2015,4,Buprenorphine,TRUE,0
+nd,2015,4,Buprenorphine Hydrochloride,FALSE,18
+nd,2015,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2015,4,Buprenorphine/Naloxone,FALSE,299
+nd,2015,4,Buprenorphine/Naloxone,TRUE,0
+nd,2016,1,Buprenorphine,TRUE,0
+nd,2016,1,Buprenorphine Hydrochloride,FALSE,15
+nd,2016,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2016,1,Buprenorphine/Naloxone,FALSE,216
+nd,2016,1,Buprenorphine/Naloxone,TRUE,0
+nd,2016,2,Buprenorphine,TRUE,0
+nd,2016,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2016,2,Buprenorphine/Naloxone,FALSE,363
+nd,2016,2,Buprenorphine/Naloxone,TRUE,0
+nd,2016,3,Buprenorphine,TRUE,0
+nd,2016,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2016,3,Buprenorphine/Naloxone,FALSE,415
+nd,2016,3,Buprenorphine/Naloxone,TRUE,0
+nd,2016,4,Buprenorphine,TRUE,0
+nd,2016,4,Buprenorphine Hydrochloride,FALSE,14
+nd,2016,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2016,4,Buprenorphine/Naloxone,FALSE,582
+nd,2016,4,Buprenorphine/Naloxone,TRUE,0
+nd,2017,1,Buprenorphine,TRUE,0
+nd,2017,1,Buprenorphine Hydrochloride,FALSE,18
+nd,2017,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2017,1,Buprenorphine/Naloxone,FALSE,441
+nd,2017,1,Buprenorphine/Naloxone,TRUE,0
+nd,2017,2,Buprenorphine,TRUE,0
+nd,2017,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2017,2,Buprenorphine/Naloxone,FALSE,470
+nd,2017,2,Buprenorphine/Naloxone,TRUE,0
+nd,2017,3,Buprenorphine,TRUE,0
+nd,2017,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2017,3,Buprenorphine/Naloxone,FALSE,510
+nd,2017,3,Buprenorphine/Naloxone,TRUE,0
+nd,2017,4,Buprenorphine,TRUE,0
+nd,2017,4,Buprenorphine Hydrochloride,FALSE,12
+nd,2017,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2017,4,Buprenorphine/Naloxone,FALSE,525
+nd,2017,4,Buprenorphine/Naloxone,TRUE,0
+nd,2018,1,Buprenorphine,TRUE,0
+nd,2018,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2018,1,Buprenorphine/Naloxone,FALSE,638
+nd,2018,1,Buprenorphine/Naloxone,TRUE,0
+nd,2018,2,Buprenorphine,TRUE,0
+nd,2018,2,Buprenorphine Hydrochloride,FALSE,42
+nd,2018,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2018,2,Buprenorphine/Naloxone,FALSE,1326
+nd,2018,2,Buprenorphine/Naloxone,TRUE,0
+nd,2018,3,Buprenorphine,TRUE,0
+nd,2018,3,Buprenorphine Hydrochloride,FALSE,28
+nd,2018,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2018,3,Buprenorphine/Naloxone,FALSE,1369
+nd,2018,3,Buprenorphine/Naloxone,TRUE,0
+nd,2018,4,Buprenorphine,TRUE,0
+nd,2018,4,Buprenorphine Hydrochloride,FALSE,50
+nd,2018,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2018,4,Buprenorphine/Naloxone,FALSE,1701
+nd,2018,4,Buprenorphine/Naloxone,TRUE,0
+nd,2019,1,Buprenorphine,TRUE,0
+nd,2019,1,Buprenorphine Hydrochloride,FALSE,32
+nd,2019,1,Buprenorphine Hydrochloride,TRUE,0
+nd,2019,1,Buprenorphine/Naloxone,FALSE,1882
+nd,2019,1,Buprenorphine/Naloxone,TRUE,0
+nd,2019,2,Buprenorphine,TRUE,0
+nd,2019,2,Buprenorphine Hydrochloride,FALSE,31
+nd,2019,2,Buprenorphine Hydrochloride,TRUE,0
+nd,2019,2,Buprenorphine/Naloxone,FALSE,1862
+nd,2019,2,Buprenorphine/Naloxone,TRUE,0
+nd,2019,3,Buprenorphine,TRUE,0
+nd,2019,3,Buprenorphine Hydrochloride,FALSE,26
+nd,2019,3,Buprenorphine Hydrochloride,TRUE,0
+nd,2019,3,Buprenorphine/Naloxone,FALSE,1847
+nd,2019,3,Buprenorphine/Naloxone,TRUE,0
+nd,2019,4,Buprenorphine,TRUE,0
+nd,2019,4,Buprenorphine Hydrochloride,FALSE,35
+nd,2019,4,Buprenorphine Hydrochloride,TRUE,0
+nd,2019,4,Buprenorphine/Naloxone,FALSE,1951
+nd,2019,4,Buprenorphine/Naloxone,TRUE,0
+nd,2020,1,Buprenorphine,NA,0
+nd,2020,1,Buprenorphine Hydrochloride,NA,33
+nd,2020,1,Buprenorphine/Naloxone,NA,1971
+nv,2010,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2010,1,Buprenorphine/Naloxone,FALSE,105
+nv,2010,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2010,2,Buprenorphine/Naloxone,FALSE,215
+nv,2010,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2010,3,Buprenorphine/Naloxone,FALSE,223
+nv,2010,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2010,4,Buprenorphine/Naloxone,FALSE,123
+nv,2010,4,Buprenorphine/Naloxone,TRUE,0
+nv,2011,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2011,1,Buprenorphine/Naloxone,FALSE,131
+nv,2011,1,Buprenorphine/Naloxone,TRUE,0
+nv,2011,2,Buprenorphine,TRUE,0
+nv,2011,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2011,2,Buprenorphine/Naloxone,FALSE,148
+nv,2011,2,Buprenorphine/Naloxone,TRUE,0
+nv,2011,3,Buprenorphine,TRUE,0
+nv,2011,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2011,3,Buprenorphine/Naloxone,FALSE,138
+nv,2011,3,Buprenorphine/Naloxone,TRUE,0
+nv,2011,4,Buprenorphine,TRUE,0
+nv,2011,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2011,4,Buprenorphine/Naloxone,FALSE,181
+nv,2011,4,Buprenorphine/Naloxone,TRUE,0
+nv,2012,1,Buprenorphine,TRUE,0
+nv,2012,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2012,1,Buprenorphine/Naloxone,FALSE,190
+nv,2012,1,Buprenorphine/Naloxone,TRUE,0
+nv,2012,2,Buprenorphine,FALSE,19
+nv,2012,2,Buprenorphine,TRUE,0
+nv,2012,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2012,2,Buprenorphine/Naloxone,FALSE,247
+nv,2012,2,Buprenorphine/Naloxone,TRUE,0
+nv,2012,3,Buprenorphine,FALSE,35
+nv,2012,3,Buprenorphine,TRUE,0
+nv,2012,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2012,3,Buprenorphine/Naloxone,FALSE,246
+nv,2012,3,Buprenorphine/Naloxone,TRUE,0
+nv,2012,4,Buprenorphine,FALSE,18
+nv,2012,4,Buprenorphine,TRUE,0
+nv,2012,4,Buprenorphine Hydrochloride,FALSE,17
+nv,2012,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2012,4,Buprenorphine/Naloxone,FALSE,303
+nv,2012,4,Buprenorphine/Naloxone,TRUE,0
+nv,2013,1,Buprenorphine,FALSE,33
+nv,2013,1,Buprenorphine,TRUE,0
+nv,2013,1,Buprenorphine Hydrochloride,FALSE,23
+nv,2013,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2013,1,Buprenorphine/Naloxone,FALSE,292
+nv,2013,1,Buprenorphine/Naloxone,TRUE,0
+nv,2013,2,Buprenorphine,FALSE,46
+nv,2013,2,Buprenorphine,TRUE,0
+nv,2013,2,Buprenorphine Hydrochloride,FALSE,26
+nv,2013,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2013,2,Buprenorphine/Naloxone,FALSE,273
+nv,2013,2,Buprenorphine/Naloxone,TRUE,0
+nv,2013,3,Buprenorphine,FALSE,60
+nv,2013,3,Buprenorphine,TRUE,0
+nv,2013,3,Buprenorphine Hydrochloride,FALSE,50
+nv,2013,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2013,3,Buprenorphine/Naloxone,FALSE,282
+nv,2013,3,Buprenorphine/Naloxone,TRUE,0
+nv,2013,4,Buprenorphine,FALSE,91
+nv,2013,4,Buprenorphine,TRUE,0
+nv,2013,4,Buprenorphine Hydrochloride,FALSE,17
+nv,2013,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2013,4,Buprenorphine/Naloxone,FALSE,269
+nv,2013,4,Buprenorphine/Naloxone,TRUE,0
+nv,2014,1,Buprenorphine,FALSE,47
+nv,2014,1,Buprenorphine,TRUE,0
+nv,2014,1,Buprenorphine Hydrochloride,FALSE,58
+nv,2014,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2014,1,Buprenorphine/Naloxone,FALSE,418
+nv,2014,1,Buprenorphine/Naloxone,TRUE,0
+nv,2014,2,Buprenorphine,FALSE,32
+nv,2014,2,Buprenorphine,TRUE,0
+nv,2014,2,Buprenorphine Hydrochloride,FALSE,94
+nv,2014,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2014,2,Buprenorphine/Naloxone,FALSE,554
+nv,2014,2,Buprenorphine/Naloxone,TRUE,0
+nv,2014,3,Buprenorphine,FALSE,16
+nv,2014,3,Buprenorphine,TRUE,0
+nv,2014,3,Buprenorphine Hydrochloride,FALSE,71
+nv,2014,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2014,3,Buprenorphine/Naloxone,FALSE,672
+nv,2014,3,Buprenorphine/Naloxone,TRUE,0
+nv,2014,4,Buprenorphine,FALSE,49
+nv,2014,4,Buprenorphine,TRUE,0
+nv,2014,4,Buprenorphine Hydrochloride,FALSE,114
+nv,2014,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2014,4,Buprenorphine/Naloxone,FALSE,882
+nv,2014,4,Buprenorphine/Naloxone,TRUE,0
+nv,2015,1,Buprenorphine,FALSE,28
+nv,2015,1,Buprenorphine,TRUE,0
+nv,2015,1,Buprenorphine Hydrochloride,FALSE,112
+nv,2015,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2015,1,Buprenorphine/Naloxone,FALSE,894
+nv,2015,1,Buprenorphine/Naloxone,TRUE,0
+nv,2015,2,Buprenorphine,FALSE,30
+nv,2015,2,Buprenorphine,TRUE,0
+nv,2015,2,Buprenorphine Hydrochloride,FALSE,61
+nv,2015,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2015,2,Buprenorphine/Naloxone,FALSE,1073
+nv,2015,2,Buprenorphine/Naloxone,TRUE,0
+nv,2015,3,Buprenorphine,TRUE,0
+nv,2015,3,Buprenorphine Hydrochloride,FALSE,47
+nv,2015,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2015,3,Buprenorphine/Naloxone,FALSE,1171
+nv,2015,3,Buprenorphine/Naloxone,TRUE,0
+nv,2015,4,Buprenorphine,FALSE,26
+nv,2015,4,Buprenorphine,TRUE,0
+nv,2015,4,Buprenorphine Hydrochloride,FALSE,62
+nv,2015,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2015,4,Buprenorphine/Naloxone,FALSE,1272
+nv,2015,4,Buprenorphine/Naloxone,TRUE,0
+nv,2016,1,Buprenorphine,TRUE,0
+nv,2016,1,Buprenorphine Hydrochloride,FALSE,80
+nv,2016,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2016,1,Buprenorphine/Naloxone,FALSE,1478
+nv,2016,1,Buprenorphine/Naloxone,TRUE,0
+nv,2016,2,Buprenorphine,FALSE,22
+nv,2016,2,Buprenorphine,TRUE,0
+nv,2016,2,Buprenorphine Hydrochloride,FALSE,128
+nv,2016,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2016,2,Buprenorphine/Naloxone,FALSE,1814
+nv,2016,2,Buprenorphine/Naloxone,TRUE,0
+nv,2016,3,Buprenorphine,FALSE,32
+nv,2016,3,Buprenorphine,TRUE,0
+nv,2016,3,Buprenorphine Hydrochloride,FALSE,92
+nv,2016,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2016,3,Buprenorphine/Naloxone,FALSE,1796
+nv,2016,3,Buprenorphine/Naloxone,TRUE,0
+nv,2016,4,Buprenorphine,FALSE,59
+nv,2016,4,Buprenorphine,TRUE,0
+nv,2016,4,Buprenorphine Hydrochloride,FALSE,122
+nv,2016,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2016,4,Buprenorphine/Naloxone,FALSE,1897
+nv,2016,4,Buprenorphine/Naloxone,TRUE,0
+nv,2017,1,Buprenorphine,FALSE,99
+nv,2017,1,Buprenorphine,TRUE,0
+nv,2017,1,Buprenorphine Hydrochloride,FALSE,108
+nv,2017,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2017,1,Buprenorphine/Naloxone,FALSE,2151
+nv,2017,1,Buprenorphine/Naloxone,TRUE,0
+nv,2017,2,Buprenorphine,FALSE,108
+nv,2017,2,Buprenorphine,TRUE,0
+nv,2017,2,Buprenorphine Hydrochloride,FALSE,125
+nv,2017,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2017,2,Buprenorphine/Naloxone,FALSE,2273
+nv,2017,2,Buprenorphine/Naloxone,TRUE,0
+nv,2017,3,Buprenorphine,FALSE,85
+nv,2017,3,Buprenorphine,TRUE,0
+nv,2017,3,Buprenorphine Hydrochloride,FALSE,154
+nv,2017,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2017,3,Buprenorphine/Naloxone,FALSE,2455
+nv,2017,3,Buprenorphine/Naloxone,TRUE,0
+nv,2017,4,Buprenorphine,FALSE,51
+nv,2017,4,Buprenorphine,TRUE,0
+nv,2017,4,Buprenorphine Hydrochloride,FALSE,151
+nv,2017,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2017,4,Buprenorphine/Naloxone,FALSE,2596
+nv,2017,4,Buprenorphine/Naloxone,TRUE,0
+nv,2018,1,Buprenorphine,FALSE,28
+nv,2018,1,Buprenorphine,TRUE,0
+nv,2018,1,Buprenorphine Hydrochloride,FALSE,237
+nv,2018,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2018,1,Buprenorphine/Naloxone,FALSE,3138
+nv,2018,1,Buprenorphine/Naloxone,TRUE,0
+nv,2018,2,Buprenorphine,FALSE,26
+nv,2018,2,Buprenorphine,TRUE,0
+nv,2018,2,Buprenorphine Hydrochloride,FALSE,289
+nv,2018,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2018,2,Buprenorphine/Naloxone,FALSE,3113
+nv,2018,2,Buprenorphine/Naloxone,TRUE,0
+nv,2018,3,Buprenorphine,FALSE,13
+nv,2018,3,Buprenorphine,TRUE,0
+nv,2018,3,Buprenorphine Hydrochloride,FALSE,258
+nv,2018,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2018,3,Buprenorphine/Naloxone,FALSE,3415
+nv,2018,3,Buprenorphine/Naloxone,TRUE,0
+nv,2018,4,Buprenorphine,TRUE,0
+nv,2018,4,Buprenorphine Hydrochloride,FALSE,376
+nv,2018,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2018,4,Buprenorphine/Naloxone,FALSE,3791
+nv,2018,4,Buprenorphine/Naloxone,TRUE,0
+nv,2019,1,Buprenorphine,FALSE,24
+nv,2019,1,Buprenorphine,TRUE,0
+nv,2019,1,Buprenorphine Hydrochloride,FALSE,361
+nv,2019,1,Buprenorphine Hydrochloride,TRUE,0
+nv,2019,1,Buprenorphine/Naloxone,FALSE,3957
+nv,2019,1,Buprenorphine/Naloxone,TRUE,0
+nv,2019,2,Buprenorphine,FALSE,69
+nv,2019,2,Buprenorphine,TRUE,0
+nv,2019,2,Buprenorphine Hydrochloride,FALSE,392
+nv,2019,2,Buprenorphine Hydrochloride,TRUE,0
+nv,2019,2,Buprenorphine/Naloxone,FALSE,3712
+nv,2019,2,Buprenorphine/Naloxone,TRUE,0
+nv,2019,3,Buprenorphine,FALSE,134
+nv,2019,3,Buprenorphine,TRUE,0
+nv,2019,3,Buprenorphine Hydrochloride,FALSE,474
+nv,2019,3,Buprenorphine Hydrochloride,TRUE,0
+nv,2019,3,Buprenorphine/Naloxone,FALSE,4012
+nv,2019,3,Buprenorphine/Naloxone,TRUE,0
+nv,2019,4,Buprenorphine,FALSE,87
+nv,2019,4,Buprenorphine,TRUE,0
+nv,2019,4,Buprenorphine Hydrochloride,FALSE,436
+nv,2019,4,Buprenorphine Hydrochloride,TRUE,0
+nv,2019,4,Buprenorphine/Naloxone,FALSE,3969
+nv,2019,4,Buprenorphine/Naloxone,TRUE,0
+nv,2020,1,Buprenorphine,NA,133
+nv,2020,1,Buprenorphine Hydrochloride,NA,572
+nv,2020,1,Buprenorphine/Naloxone,NA,4612
+sd,2010,1,Buprenorphine/Naloxone,FALSE,38
+sd,2010,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2010,2,Buprenorphine/Naloxone,TRUE,0
+sd,2010,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2010,3,Buprenorphine/Naloxone,TRUE,0
+sd,2010,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2010,4,Buprenorphine/Naloxone,TRUE,0
+sd,2011,1,Buprenorphine,TRUE,0
+sd,2011,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2011,1,Buprenorphine/Naloxone,FALSE,16
+sd,2011,1,Buprenorphine/Naloxone,TRUE,0
+sd,2011,2,Buprenorphine,TRUE,0
+sd,2011,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2011,2,Buprenorphine/Naloxone,FALSE,43
+sd,2011,2,Buprenorphine/Naloxone,TRUE,0
+sd,2011,3,Buprenorphine,FALSE,28
+sd,2011,3,Buprenorphine,TRUE,0
+sd,2011,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2011,3,Buprenorphine/Naloxone,FALSE,50
+sd,2011,4,Buprenorphine,FALSE,16
+sd,2011,4,Buprenorphine,TRUE,0
+sd,2011,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2011,4,Buprenorphine/Naloxone,FALSE,56
+sd,2012,1,Buprenorphine,FALSE,30
+sd,2012,1,Buprenorphine,TRUE,0
+sd,2012,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2012,1,Buprenorphine/Naloxone,FALSE,56
+sd,2012,1,Buprenorphine/Naloxone,TRUE,0
+sd,2012,2,Buprenorphine,FALSE,23
+sd,2012,2,Buprenorphine,TRUE,0
+sd,2012,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2012,2,Buprenorphine/Naloxone,FALSE,56
+sd,2012,2,Buprenorphine/Naloxone,TRUE,0
+sd,2012,3,Buprenorphine,FALSE,57
+sd,2012,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2012,3,Buprenorphine/Naloxone,FALSE,51
+sd,2012,3,Buprenorphine/Naloxone,TRUE,0
+sd,2012,4,Buprenorphine,FALSE,27
+sd,2012,4,Buprenorphine,TRUE,0
+sd,2012,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2012,4,Buprenorphine/Naloxone,FALSE,67
+sd,2012,4,Buprenorphine/Naloxone,TRUE,0
+sd,2013,1,Buprenorphine,FALSE,39
+sd,2013,1,Buprenorphine,TRUE,0
+sd,2013,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2013,1,Buprenorphine/Naloxone,FALSE,62
+sd,2013,1,Buprenorphine/Naloxone,TRUE,0
+sd,2013,2,Buprenorphine,FALSE,29
+sd,2013,2,Buprenorphine,TRUE,0
+sd,2013,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2013,2,Buprenorphine/Naloxone,FALSE,61
+sd,2013,2,Buprenorphine/Naloxone,TRUE,0
+sd,2013,3,Buprenorphine,FALSE,17
+sd,2013,3,Buprenorphine,TRUE,0
+sd,2013,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2013,3,Buprenorphine/Naloxone,FALSE,35
+sd,2013,3,Buprenorphine/Naloxone,TRUE,0
+sd,2013,4,Buprenorphine,FALSE,18
+sd,2013,4,Buprenorphine,TRUE,0
+sd,2013,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2013,4,Buprenorphine/Naloxone,FALSE,33
+sd,2013,4,Buprenorphine/Naloxone,TRUE,0
+sd,2014,1,Buprenorphine,FALSE,55
+sd,2014,1,Buprenorphine,TRUE,0
+sd,2014,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2014,1,Buprenorphine/Naloxone,FALSE,28
+sd,2014,1,Buprenorphine/Naloxone,TRUE,0
+sd,2014,2,Buprenorphine,FALSE,34
+sd,2014,2,Buprenorphine,TRUE,0
+sd,2014,2,Buprenorphine Hydrochloride,FALSE,15
+sd,2014,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2014,2,Buprenorphine/Naloxone,TRUE,0
+sd,2014,3,Buprenorphine,FALSE,36
+sd,2014,3,Buprenorphine,TRUE,0
+sd,2014,3,Buprenorphine Hydrochloride,FALSE,14
+sd,2014,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2014,3,Buprenorphine/Naloxone,FALSE,49
+sd,2014,3,Buprenorphine/Naloxone,TRUE,0
+sd,2014,4,Buprenorphine,FALSE,37
+sd,2014,4,Buprenorphine,TRUE,0
+sd,2014,4,Buprenorphine Hydrochloride,FALSE,14
+sd,2014,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2014,4,Buprenorphine/Naloxone,FALSE,47
+sd,2014,4,Buprenorphine/Naloxone,TRUE,0
+sd,2015,1,Buprenorphine,FALSE,86
+sd,2015,1,Buprenorphine,TRUE,0
+sd,2015,1,Buprenorphine Hydrochloride,FALSE,17
+sd,2015,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2015,1,Buprenorphine/Naloxone,TRUE,0
+sd,2015,2,Buprenorphine,FALSE,12
+sd,2015,2,Buprenorphine,TRUE,0
+sd,2015,2,Buprenorphine Hydrochloride,FALSE,19
+sd,2015,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2015,2,Buprenorphine/Naloxone,FALSE,39
+sd,2015,2,Buprenorphine/Naloxone,TRUE,0
+sd,2015,3,Buprenorphine,FALSE,12
+sd,2015,3,Buprenorphine,TRUE,0
+sd,2015,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2015,3,Buprenorphine/Naloxone,FALSE,48
+sd,2015,3,Buprenorphine/Naloxone,TRUE,0
+sd,2015,4,Buprenorphine,TRUE,0
+sd,2015,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2015,4,Buprenorphine/Naloxone,FALSE,44
+sd,2015,4,Buprenorphine/Naloxone,TRUE,0
+sd,2016,1,Buprenorphine,FALSE,13
+sd,2016,1,Buprenorphine,TRUE,0
+sd,2016,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2016,1,Buprenorphine/Naloxone,FALSE,50
+sd,2016,1,Buprenorphine/Naloxone,TRUE,0
+sd,2016,2,Buprenorphine,FALSE,27
+sd,2016,2,Buprenorphine,TRUE,0
+sd,2016,2,Buprenorphine Hydrochloride,FALSE,39
+sd,2016,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2016,2,Buprenorphine/Naloxone,FALSE,56
+sd,2016,2,Buprenorphine/Naloxone,TRUE,0
+sd,2016,3,Buprenorphine,FALSE,29
+sd,2016,3,Buprenorphine,TRUE,0
+sd,2016,3,Buprenorphine Hydrochloride,FALSE,45
+sd,2016,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2016,3,Buprenorphine/Naloxone,FALSE,49
+sd,2016,3,Buprenorphine/Naloxone,TRUE,0
+sd,2016,4,Buprenorphine,FALSE,14
+sd,2016,4,Buprenorphine,TRUE,0
+sd,2016,4,Buprenorphine Hydrochloride,FALSE,60
+sd,2016,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2016,4,Buprenorphine/Naloxone,FALSE,51
+sd,2016,4,Buprenorphine/Naloxone,TRUE,0
+sd,2017,1,Buprenorphine,TRUE,0
+sd,2017,1,Buprenorphine Hydrochloride,FALSE,101
+sd,2017,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2017,1,Buprenorphine/Naloxone,FALSE,46
+sd,2017,1,Buprenorphine/Naloxone,TRUE,0
+sd,2017,2,Buprenorphine,TRUE,0
+sd,2017,2,Buprenorphine Hydrochloride,FALSE,84
+sd,2017,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2017,2,Buprenorphine/Naloxone,FALSE,73
+sd,2017,2,Buprenorphine/Naloxone,TRUE,0
+sd,2017,3,Buprenorphine,TRUE,0
+sd,2017,3,Buprenorphine Hydrochloride,FALSE,91
+sd,2017,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2017,3,Buprenorphine/Naloxone,FALSE,77
+sd,2017,3,Buprenorphine/Naloxone,TRUE,0
+sd,2017,4,Buprenorphine,TRUE,0
+sd,2017,4,Buprenorphine Hydrochloride,FALSE,84
+sd,2017,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2017,4,Buprenorphine/Naloxone,FALSE,49
+sd,2017,4,Buprenorphine/Naloxone,TRUE,0
+sd,2018,1,Buprenorphine,TRUE,0
+sd,2018,1,Buprenorphine Hydrochloride,FALSE,77
+sd,2018,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2018,1,Buprenorphine/Naloxone,FALSE,42
+sd,2018,1,Buprenorphine/Naloxone,TRUE,0
+sd,2018,2,Buprenorphine,TRUE,0
+sd,2018,2,Buprenorphine Hydrochloride,FALSE,86
+sd,2018,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2018,2,Buprenorphine/Naloxone,FALSE,50
+sd,2018,2,Buprenorphine/Naloxone,TRUE,0
+sd,2018,3,Buprenorphine,TRUE,0
+sd,2018,3,Buprenorphine Hydrochloride,FALSE,72
+sd,2018,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2018,3,Buprenorphine/Naloxone,FALSE,79
+sd,2018,3,Buprenorphine/Naloxone,TRUE,0
+sd,2018,4,Buprenorphine,TRUE,0
+sd,2018,4,Buprenorphine Hydrochloride,FALSE,63
+sd,2018,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2018,4,Buprenorphine/Naloxone,FALSE,100
+sd,2018,4,Buprenorphine/Naloxone,TRUE,0
+sd,2019,1,Buprenorphine,TRUE,0
+sd,2019,1,Buprenorphine Hydrochloride,FALSE,109
+sd,2019,1,Buprenorphine Hydrochloride,TRUE,0
+sd,2019,1,Buprenorphine/Naloxone,FALSE,127
+sd,2019,1,Buprenorphine/Naloxone,TRUE,0
+sd,2019,2,Buprenorphine,FALSE,17
+sd,2019,2,Buprenorphine,TRUE,0
+sd,2019,2,Buprenorphine Hydrochloride,FALSE,148
+sd,2019,2,Buprenorphine Hydrochloride,TRUE,0
+sd,2019,2,Buprenorphine/Naloxone,FALSE,166
+sd,2019,2,Buprenorphine/Naloxone,TRUE,0
+sd,2019,3,Buprenorphine,FALSE,15
+sd,2019,3,Buprenorphine,TRUE,0
+sd,2019,3,Buprenorphine Hydrochloride,FALSE,117
+sd,2019,3,Buprenorphine Hydrochloride,TRUE,0
+sd,2019,3,Buprenorphine/Naloxone,FALSE,217
+sd,2019,3,Buprenorphine/Naloxone,TRUE,0
+sd,2019,4,Buprenorphine,FALSE,15
+sd,2019,4,Buprenorphine,TRUE,0
+sd,2019,4,Buprenorphine Hydrochloride,FALSE,113
+sd,2019,4,Buprenorphine Hydrochloride,TRUE,0
+sd,2019,4,Buprenorphine/Naloxone,FALSE,252
+sd,2019,4,Buprenorphine/Naloxone,TRUE,0
+sd,2020,1,Buprenorphine,NA,0
+sd,2020,1,Buprenorphine Hydrochloride,NA,87
+sd,2020,1,Buprenorphine/Naloxone,NA,305
+tn,2010,1,Buprenorphine Hydrochloride,FALSE,1071
+tn,2010,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2010,1,Buprenorphine/Naloxone,FALSE,7840
+tn,2010,2,Buprenorphine Hydrochloride,FALSE,1402
+tn,2010,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2010,2,Buprenorphine/Naloxone,FALSE,9250
+tn,2010,3,Buprenorphine Hydrochloride,FALSE,1228
+tn,2010,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2010,3,Buprenorphine/Naloxone,FALSE,10154
+tn,2010,3,Buprenorphine/Naloxone,TRUE,0
+tn,2010,4,Buprenorphine Hydrochloride,FALSE,1016
+tn,2010,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2010,4,Buprenorphine/Naloxone,FALSE,10056
+tn,2011,1,Buprenorphine,TRUE,0
+tn,2011,1,Buprenorphine Hydrochloride,FALSE,1213
+tn,2011,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2011,1,Buprenorphine/Naloxone,FALSE,10611
+tn,2011,1,Buprenorphine/Naloxone,TRUE,0
+tn,2011,2,Buprenorphine,TRUE,0
+tn,2011,2,Buprenorphine Hydrochloride,FALSE,1291
+tn,2011,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2011,2,Buprenorphine/Naloxone,FALSE,11556
+tn,2011,2,Buprenorphine/Naloxone,TRUE,0
+tn,2011,3,Buprenorphine,TRUE,0
+tn,2011,3,Buprenorphine Hydrochloride,FALSE,1195
+tn,2011,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2011,3,Buprenorphine/Naloxone,FALSE,11580
+tn,2011,4,Buprenorphine,TRUE,0
+tn,2011,4,Buprenorphine Hydrochloride,FALSE,1273
+tn,2011,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2011,4,Buprenorphine/Naloxone,FALSE,11461
+tn,2012,1,Buprenorphine,TRUE,0
+tn,2012,1,Buprenorphine Hydrochloride,FALSE,1314
+tn,2012,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2012,1,Buprenorphine/Naloxone,FALSE,11527
+tn,2012,1,Buprenorphine/Naloxone,TRUE,0
+tn,2012,2,Buprenorphine,TRUE,0
+tn,2012,2,Buprenorphine Hydrochloride,FALSE,1597
+tn,2012,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2012,2,Buprenorphine/Naloxone,FALSE,11863
+tn,2012,2,Buprenorphine/Naloxone,TRUE,0
+tn,2012,3,Buprenorphine,FALSE,16
+tn,2012,3,Buprenorphine,TRUE,0
+tn,2012,3,Buprenorphine Hydrochloride,FALSE,1781
+tn,2012,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2012,3,Buprenorphine/Naloxone,FALSE,12727
+tn,2012,4,Buprenorphine,TRUE,0
+tn,2012,4,Buprenorphine Hydrochloride,FALSE,1955
+tn,2012,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2012,4,Buprenorphine/Naloxone,FALSE,12921
+tn,2012,4,Buprenorphine/Naloxone,TRUE,0
+tn,2013,1,Buprenorphine,TRUE,0
+tn,2013,1,Buprenorphine Hydrochloride,FALSE,1857
+tn,2013,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2013,1,Buprenorphine/Naloxone,FALSE,12609
+tn,2013,1,Buprenorphine/Naloxone,TRUE,0
+tn,2013,2,Buprenorphine,TRUE,0
+tn,2013,2,Buprenorphine Hydrochloride,FALSE,2293
+tn,2013,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2013,2,Buprenorphine/Naloxone,FALSE,12383
+tn,2013,2,Buprenorphine/Naloxone,TRUE,0
+tn,2013,3,Buprenorphine,TRUE,0
+tn,2013,3,Buprenorphine Hydrochloride,FALSE,2385
+tn,2013,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2013,3,Buprenorphine/Naloxone,FALSE,11938
+tn,2013,3,Buprenorphine/Naloxone,TRUE,0
+tn,2013,4,Buprenorphine,FALSE,48
+tn,2013,4,Buprenorphine,TRUE,0
+tn,2013,4,Buprenorphine Hydrochloride,FALSE,3089
+tn,2013,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2013,4,Buprenorphine/Naloxone,FALSE,14420
+tn,2013,4,Buprenorphine/Naloxone,TRUE,0
+tn,2014,1,Buprenorphine,FALSE,49
+tn,2014,1,Buprenorphine,TRUE,0
+tn,2014,1,Buprenorphine Hydrochloride,FALSE,3173
+tn,2014,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2014,1,Buprenorphine/Naloxone,FALSE,14262
+tn,2014,1,Buprenorphine/Naloxone,TRUE,0
+tn,2014,2,Buprenorphine,FALSE,22
+tn,2014,2,Buprenorphine,TRUE,0
+tn,2014,2,Buprenorphine Hydrochloride,FALSE,3291
+tn,2014,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2014,2,Buprenorphine/Naloxone,FALSE,15441
+tn,2014,2,Buprenorphine/Naloxone,TRUE,0
+tn,2014,3,Buprenorphine,TRUE,0
+tn,2014,3,Buprenorphine Hydrochloride,FALSE,3226
+tn,2014,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2014,3,Buprenorphine/Naloxone,FALSE,16101
+tn,2014,3,Buprenorphine/Naloxone,TRUE,0
+tn,2014,4,Buprenorphine,TRUE,0
+tn,2014,4,Buprenorphine Hydrochloride,FALSE,3267
+tn,2014,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2014,4,Buprenorphine/Naloxone,FALSE,16402
+tn,2014,4,Buprenorphine/Naloxone,TRUE,0
+tn,2015,1,Buprenorphine,TRUE,0
+tn,2015,1,Buprenorphine Hydrochloride,FALSE,3162
+tn,2015,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2015,1,Buprenorphine/Naloxone,FALSE,16484
+tn,2015,1,Buprenorphine/Naloxone,TRUE,0
+tn,2015,2,Buprenorphine Hydrochloride,FALSE,3388
+tn,2015,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2015,2,Buprenorphine/Naloxone,FALSE,18357
+tn,2015,2,Buprenorphine/Naloxone,TRUE,0
+tn,2015,3,Buprenorphine Hydrochloride,FALSE,3463
+tn,2015,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2015,3,Buprenorphine/Naloxone,FALSE,19208
+tn,2015,3,Buprenorphine/Naloxone,TRUE,0
+tn,2015,4,Buprenorphine,TRUE,0
+tn,2015,4,Buprenorphine Hydrochloride,FALSE,3504
+tn,2015,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2015,4,Buprenorphine/Naloxone,FALSE,11951
+tn,2015,4,Buprenorphine/Naloxone,TRUE,0
+tn,2016,1,Buprenorphine,TRUE,0
+tn,2016,1,Buprenorphine Hydrochloride,FALSE,3341
+tn,2016,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2016,1,Buprenorphine/Naloxone,FALSE,8162
+tn,2016,1,Buprenorphine/Naloxone,TRUE,0
+tn,2016,2,Buprenorphine,TRUE,0
+tn,2016,2,Buprenorphine Hydrochloride,FALSE,3195
+tn,2016,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2016,2,Buprenorphine/Naloxone,FALSE,7317
+tn,2016,2,Buprenorphine/Naloxone,TRUE,0
+tn,2016,3,Buprenorphine,TRUE,0
+tn,2016,3,Buprenorphine Hydrochloride,FALSE,2456
+tn,2016,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2016,3,Buprenorphine/Naloxone,FALSE,6038
+tn,2016,3,Buprenorphine/Naloxone,TRUE,0
+tn,2016,4,Buprenorphine,TRUE,0
+tn,2016,4,Buprenorphine Hydrochloride,FALSE,1918
+tn,2016,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2016,4,Buprenorphine/Naloxone,FALSE,5465
+tn,2016,4,Buprenorphine/Naloxone,TRUE,0
+tn,2017,1,Buprenorphine,TRUE,0
+tn,2017,1,Buprenorphine Hydrochloride,FALSE,1907
+tn,2017,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2017,1,Buprenorphine/Naloxone,FALSE,5153
+tn,2017,1,Buprenorphine/Naloxone,TRUE,0
+tn,2017,2,Buprenorphine,TRUE,0
+tn,2017,2,Buprenorphine Hydrochloride,FALSE,1831
+tn,2017,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2017,2,Buprenorphine/Naloxone,FALSE,5140
+tn,2017,2,Buprenorphine/Naloxone,TRUE,0
+tn,2017,3,Buprenorphine,TRUE,0
+tn,2017,3,Buprenorphine Hydrochloride,FALSE,2214
+tn,2017,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2017,3,Buprenorphine/Naloxone,FALSE,4965
+tn,2017,3,Buprenorphine/Naloxone,TRUE,0
+tn,2017,4,Buprenorphine,TRUE,0
+tn,2017,4,Buprenorphine Hydrochloride,FALSE,2022
+tn,2017,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2017,4,Buprenorphine/Naloxone,FALSE,5248
+tn,2017,4,Buprenorphine/Naloxone,TRUE,0
+tn,2018,1,Buprenorphine Hydrochloride,FALSE,1942
+tn,2018,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2018,1,Buprenorphine/Naloxone,FALSE,5623
+tn,2018,1,Buprenorphine/Naloxone,TRUE,0
+tn,2018,2,Buprenorphine Hydrochloride,FALSE,2057
+tn,2018,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2018,2,Buprenorphine/Naloxone,FALSE,5925
+tn,2018,2,Buprenorphine/Naloxone,TRUE,0
+tn,2018,3,Buprenorphine,TRUE,0
+tn,2018,3,Buprenorphine Hydrochloride,FALSE,2286
+tn,2018,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2018,3,Buprenorphine/Naloxone,FALSE,5812
+tn,2018,3,Buprenorphine/Naloxone,TRUE,0
+tn,2018,4,Buprenorphine,FALSE,20
+tn,2018,4,Buprenorphine,TRUE,0
+tn,2018,4,Buprenorphine Hydrochloride,FALSE,2191
+tn,2018,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2018,4,Buprenorphine/Naloxone,FALSE,5972
+tn,2018,4,Buprenorphine/Naloxone,TRUE,0
+tn,2019,1,Buprenorphine,FALSE,54
+tn,2019,1,Buprenorphine,TRUE,0
+tn,2019,1,Buprenorphine Hydrochloride,FALSE,2232
+tn,2019,1,Buprenorphine Hydrochloride,TRUE,0
+tn,2019,1,Buprenorphine/Naloxone,FALSE,8863
+tn,2019,1,Buprenorphine/Naloxone,TRUE,0
+tn,2019,2,Buprenorphine,FALSE,69
+tn,2019,2,Buprenorphine,TRUE,0
+tn,2019,2,Buprenorphine Hydrochloride,FALSE,2389
+tn,2019,2,Buprenorphine Hydrochloride,TRUE,0
+tn,2019,2,Buprenorphine/Naloxone,FALSE,11905
+tn,2019,2,Buprenorphine/Naloxone,TRUE,0
+tn,2019,3,Buprenorphine,FALSE,82
+tn,2019,3,Buprenorphine Hydrochloride,FALSE,2416
+tn,2019,3,Buprenorphine Hydrochloride,TRUE,0
+tn,2019,3,Buprenorphine/Naloxone,FALSE,15807
+tn,2019,3,Buprenorphine/Naloxone,TRUE,0
+tn,2019,4,Buprenorphine,FALSE,141
+tn,2019,4,Buprenorphine,TRUE,0
+tn,2019,4,Buprenorphine Hydrochloride,FALSE,2307
+tn,2019,4,Buprenorphine Hydrochloride,TRUE,0
+tn,2019,4,Buprenorphine/Naloxone,FALSE,19298
+tn,2019,4,Buprenorphine/Naloxone,TRUE,0
+tn,2020,1,Buprenorphine,NA,171
+tn,2020,1,Buprenorphine Hydrochloride,NA,2848
+tn,2020,1,Buprenorphine/Naloxone,NA,26037
+wy,2010,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2010,1,Buprenorphine/Naloxone,FALSE,143
+wy,2010,1,Buprenorphine/Naloxone,TRUE,0
+wy,2010,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2010,2,Buprenorphine/Naloxone,FALSE,142
+wy,2010,2,Buprenorphine/Naloxone,TRUE,0
+wy,2010,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2010,3,Buprenorphine/Naloxone,FALSE,113
+wy,2010,3,Buprenorphine/Naloxone,TRUE,0
+wy,2010,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2010,4,Buprenorphine/Naloxone,FALSE,146
+wy,2011,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2011,1,Buprenorphine/Naloxone,FALSE,129
+wy,2011,1,Buprenorphine/Naloxone,TRUE,0
+wy,2011,2,Buprenorphine,TRUE,0
+wy,2011,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2011,2,Buprenorphine/Naloxone,FALSE,134
+wy,2011,2,Buprenorphine/Naloxone,TRUE,0
+wy,2011,3,Buprenorphine,TRUE,0
+wy,2011,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2011,3,Buprenorphine/Naloxone,FALSE,134
+wy,2011,3,Buprenorphine/Naloxone,TRUE,0
+wy,2011,4,Buprenorphine,TRUE,0
+wy,2011,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2011,4,Buprenorphine/Naloxone,FALSE,127
+wy,2011,4,Buprenorphine/Naloxone,TRUE,0
+wy,2012,1,Buprenorphine,TRUE,0
+wy,2012,1,Buprenorphine Hydrochloride,FALSE,18
+wy,2012,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2012,1,Buprenorphine/Naloxone,FALSE,129
+wy,2012,1,Buprenorphine/Naloxone,TRUE,0
+wy,2012,2,Buprenorphine,TRUE,0
+wy,2012,2,Buprenorphine Hydrochloride,FALSE,24
+wy,2012,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2012,2,Buprenorphine/Naloxone,FALSE,159
+wy,2012,2,Buprenorphine/Naloxone,TRUE,0
+wy,2012,3,Buprenorphine,TRUE,0
+wy,2012,3,Buprenorphine Hydrochloride,FALSE,18
+wy,2012,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2012,3,Buprenorphine/Naloxone,FALSE,126
+wy,2012,3,Buprenorphine/Naloxone,TRUE,0
+wy,2012,4,Buprenorphine,TRUE,0
+wy,2012,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2012,4,Buprenorphine/Naloxone,FALSE,146
+wy,2012,4,Buprenorphine/Naloxone,TRUE,0
+wy,2013,1,Buprenorphine,TRUE,0
+wy,2013,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2013,1,Buprenorphine/Naloxone,FALSE,151
+wy,2013,1,Buprenorphine/Naloxone,TRUE,0
+wy,2013,2,Buprenorphine,TRUE,0
+wy,2013,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2013,2,Buprenorphine/Naloxone,FALSE,127
+wy,2013,2,Buprenorphine/Naloxone,TRUE,0
+wy,2013,3,Buprenorphine,FALSE,13
+wy,2013,3,Buprenorphine,TRUE,0
+wy,2013,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2013,3,Buprenorphine/Naloxone,FALSE,97
+wy,2013,3,Buprenorphine/Naloxone,TRUE,0
+wy,2013,4,Buprenorphine,FALSE,28
+wy,2013,4,Buprenorphine,TRUE,0
+wy,2013,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2013,4,Buprenorphine/Naloxone,FALSE,141
+wy,2013,4,Buprenorphine/Naloxone,TRUE,0
+wy,2014,1,Buprenorphine,TRUE,0
+wy,2014,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2014,1,Buprenorphine/Naloxone,FALSE,151
+wy,2014,1,Buprenorphine/Naloxone,TRUE,0
+wy,2014,2,Buprenorphine,FALSE,15
+wy,2014,2,Buprenorphine,TRUE,0
+wy,2014,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2014,2,Buprenorphine/Naloxone,FALSE,137
+wy,2014,3,Buprenorphine,FALSE,24
+wy,2014,3,Buprenorphine,TRUE,0
+wy,2014,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2014,3,Buprenorphine/Naloxone,FALSE,105
+wy,2014,3,Buprenorphine/Naloxone,TRUE,0
+wy,2014,4,Buprenorphine,FALSE,20
+wy,2014,4,Buprenorphine,TRUE,0
+wy,2014,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2014,4,Buprenorphine/Naloxone,FALSE,172
+wy,2014,4,Buprenorphine/Naloxone,TRUE,0
+wy,2015,1,Buprenorphine,FALSE,13
+wy,2015,1,Buprenorphine,TRUE,0
+wy,2015,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2015,1,Buprenorphine/Naloxone,FALSE,243
+wy,2015,1,Buprenorphine/Naloxone,TRUE,0
+wy,2015,2,Buprenorphine,FALSE,22
+wy,2015,2,Buprenorphine,TRUE,0
+wy,2015,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2015,2,Buprenorphine/Naloxone,FALSE,276
+wy,2015,2,Buprenorphine/Naloxone,TRUE,0
+wy,2015,3,Buprenorphine,TRUE,0
+wy,2015,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2015,3,Buprenorphine/Naloxone,FALSE,243
+wy,2015,3,Buprenorphine/Naloxone,TRUE,0
+wy,2015,4,Buprenorphine,TRUE,0
+wy,2015,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2015,4,Buprenorphine/Naloxone,FALSE,222
+wy,2015,4,Buprenorphine/Naloxone,TRUE,0
+wy,2016,1,Buprenorphine,FALSE,18
+wy,2016,1,Buprenorphine,TRUE,0
+wy,2016,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2016,1,Buprenorphine/Naloxone,FALSE,260
+wy,2016,2,Buprenorphine,FALSE,26
+wy,2016,2,Buprenorphine,TRUE,0
+wy,2016,2,Buprenorphine Hydrochloride,FALSE,12
+wy,2016,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2016,2,Buprenorphine/Naloxone,FALSE,303
+wy,2016,3,Buprenorphine,FALSE,12
+wy,2016,3,Buprenorphine,TRUE,0
+wy,2016,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2016,3,Buprenorphine/Naloxone,FALSE,279
+wy,2016,4,Buprenorphine,TRUE,0
+wy,2016,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2016,4,Buprenorphine/Naloxone,FALSE,301
+wy,2017,1,Buprenorphine,TRUE,0
+wy,2017,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2017,1,Buprenorphine/Naloxone,FALSE,282
+wy,2017,2,Buprenorphine,TRUE,0
+wy,2017,2,Buprenorphine Hydrochloride,FALSE,15
+wy,2017,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2017,2,Buprenorphine/Naloxone,FALSE,275
+wy,2017,2,Buprenorphine/Naloxone,TRUE,0
+wy,2017,3,Buprenorphine,TRUE,0
+wy,2017,3,Buprenorphine Hydrochloride,FALSE,20
+wy,2017,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2017,3,Buprenorphine/Naloxone,FALSE,263
+wy,2017,3,Buprenorphine/Naloxone,TRUE,0
+wy,2017,4,Buprenorphine,TRUE,0
+wy,2017,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2017,4,Buprenorphine/Naloxone,FALSE,211
+wy,2017,4,Buprenorphine/Naloxone,TRUE,0
+wy,2018,1,Buprenorphine,TRUE,0
+wy,2018,1,Buprenorphine Hydrochloride,FALSE,12
+wy,2018,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2018,1,Buprenorphine/Naloxone,FALSE,198
+wy,2018,1,Buprenorphine/Naloxone,TRUE,0
+wy,2018,2,Buprenorphine,TRUE,0
+wy,2018,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2018,2,Buprenorphine/Naloxone,FALSE,210
+wy,2018,2,Buprenorphine/Naloxone,TRUE,0
+wy,2018,3,Buprenorphine,TRUE,0
+wy,2018,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2018,3,Buprenorphine/Naloxone,FALSE,208
+wy,2018,3,Buprenorphine/Naloxone,TRUE,0
+wy,2018,4,Buprenorphine,TRUE,0
+wy,2018,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2018,4,Buprenorphine/Naloxone,FALSE,246
+wy,2018,4,Buprenorphine/Naloxone,TRUE,0
+wy,2019,1,Buprenorphine,TRUE,0
+wy,2019,1,Buprenorphine Hydrochloride,TRUE,0
+wy,2019,1,Buprenorphine/Naloxone,FALSE,252
+wy,2019,1,Buprenorphine/Naloxone,TRUE,0
+wy,2019,2,Buprenorphine,TRUE,0
+wy,2019,2,Buprenorphine Hydrochloride,TRUE,0
+wy,2019,2,Buprenorphine/Naloxone,FALSE,255
+wy,2019,2,Buprenorphine/Naloxone,TRUE,0
+wy,2019,3,Buprenorphine,TRUE,0
+wy,2019,3,Buprenorphine Hydrochloride,TRUE,0
+wy,2019,3,Buprenorphine/Naloxone,FALSE,229
+wy,2019,3,Buprenorphine/Naloxone,TRUE,0
+wy,2019,4,Buprenorphine,TRUE,0
+wy,2019,4,Buprenorphine Hydrochloride,TRUE,0
+wy,2019,4,Buprenorphine/Naloxone,FALSE,218
+wy,2019,4,Buprenorphine/Naloxone,TRUE,0
+wy,2020,1,Buprenorphine,NA,0
+wy,2020,1,Buprenorphine Hydrochloride,NA,0
+wy,2020,1,Buprenorphine/Naloxone,NA,241

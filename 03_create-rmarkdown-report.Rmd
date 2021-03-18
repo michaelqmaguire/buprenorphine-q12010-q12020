@@ -161,22 +161,25 @@ ggplot(data = sdud_2010_2020_bup) +
   ) +
   coord_cartesian(expand = FALSE)
 # Plot showing number of prescriptions by year, quarter, and generic name.
-ggplot(data = sdud_2010_2020_bup) +
-  geom_col(aes(x = paste0(year, "-", quarter), y = total_prescriptions), fill = "forestgreen", alpha = 0.95) +
-  scale_y_continuous(labels = scales::comma) + 
+ggplot(data = sdud_2010_2020_bup_rx) +
+  geom_col(aes(x = paste0(year, "-", quarter), y = total_prescriptions, fill = gennme_c)) +
+  scale_fill_viridis_d(direction = -1) +
+  scale_y_continuous(labels = scales::comma) +
   theme_ipsum_rc(axis_title_just = "ct") +
-  ggtitle("Number of Prescriptions by Year and Quarter") +
+  ggtitle("Number of Prescriptions by Generic Name, Year, and Quarter") +
   xlab("Year-Quarter") +
   ylab("Total Number of Prescriptions") +
+  labs(fill = "Generic Name") +
   theme(
     axis.text.x = element_text(color = "black", angle = 45, vjust = 0.5, hjust = 0.75),
     axis.text.y = element_text(color = "black"),
     axis.title.x = element_text(color = "black", size = 10, vjust = -4),
     axis.title.y = element_text(color = "black", size = 10),
+    legend.position = "bottom"
   ) +
   coord_cartesian(expand = FALSE)
 ```
-```{r plotrx, fig.height = 12, fig.width = 16}
+```{r plotrx, fig.height = 12, fig.width = 18}
 # Plot showing number of prescriptions by year, quarter, and state.
 ggplot(data = sdud_2010_2020_bup) +
   geom_col(aes(x = paste0(year, "-", quarter), y = total_prescriptions, fill = state), alpha = 0.95) +

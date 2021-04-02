@@ -125,7 +125,7 @@ sdud_2010_2020_bup_flags <-
 
 ndc_gen_brand_names <- 
   sdud_2010_2020_bup_flags %>%
-  distinct(gennme_c, prodnme, ndc)
+  distinct(gennme_c, prodnme, ndc, strngth, mstfmds)
 
 ## Also should output an aggregate by drug.
 

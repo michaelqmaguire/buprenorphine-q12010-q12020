@@ -131,7 +131,7 @@ ndc_gen_brand_names <-
 
 sdud_2017_2020_bup_rx <-
   sdud_2010_2020_bup_flags %>%
-  group_by(state, year, quarter, gennme_c, suppression_used) %>%
+  group_by(state, year, quarter, gennme_c, prodnme, strngth, mstfmds, suppression_used) %>%
   summarize(total_prescriptions = sum(number_of_prescriptions))
 
 ## Keeping the Suppression Used column once I get direction from JHC.

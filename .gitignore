@@ -37,7 +37,7 @@ vignettes/*.pdf
 
 # Rmarkdown
 
-*.Rmd
+.Rmd
 
 # R Environment Variables
 .Renviron

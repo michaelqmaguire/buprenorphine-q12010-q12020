@@ -74,10 +74,6 @@ state_vec
 
 Note: location of data set is a personal directory, so I have masked it.
 
-```{r locload, include = FALSE}
-loc <- "C:\\Users\\michaelqmaguire2\\Dropbox (UFL)\\01_projects\\us-medicaid-drug-utilization\\us-medicaid-drug-utilziation\\data\\clean\\medicaid-sdud-2000-2020.rds"
-```
-
 ```{r sdudload, echo = TRUE}
 sdud_2010_2020 <-
   read_rds(

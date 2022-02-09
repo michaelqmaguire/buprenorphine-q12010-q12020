@@ -41,9 +41,6 @@ skFinal
 
 ## Read in SDUD file 
 
-```{r fileLoc, include = FALSE}
-file_location <- "C:/Users/michaelqmaguire2/Dropbox (UFL)/01_projects/medicaid-drug-utilization/medicaid-drug-utilization/data/clean/03_sdud-redbook-final.csv"
-```
 > Note: SDUD file is masked.
 
 ```{r sdudLoad}
